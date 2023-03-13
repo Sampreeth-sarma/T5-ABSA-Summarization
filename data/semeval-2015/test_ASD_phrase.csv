@@ -1,0 +1,582 @@
+input_text_ids,input_text,target_text,prefix
+ADLT#8:0,Love Al Di La,restaurant general ~ positive,ASD
+ADLT#8:1,I recommend this place to everyone .,restaurant general ~ positive,ASD
+ADLT#8:2,Great food .,food quality ~ positive,ASD
+ADLT#2:0,One of my favorite places in Brooklyn .,restaurant general ~ positive,ASD
+ADLT#2:1,"The pastas are incredible , the risottos ( particularly the sepia ) are fantastic and the braised rabbit is amazing .",food quality ~ positive ~~ food quality ~ positive ~~ food quality ~ positive ~~ food quality ~ positive,ASD
+BFC#4:0,Overpriced and not tasty,food quality ~ negative ~~ food prices ~ negative,ASD
+BFC#4:1,The food here was mediocre at best .,food quality ~ negative,ASD
+BFC#4:2,It was totally overpriced - fish and chips was about $ 15 . . . .,food prices ~ negative,ASD
+BHD#9:0,Tasty Dog !,food quality ~ positive,ASD
+BHD#9:1,"An awesome organic dog , and a conscious eco friendly establishment .",food quality ~ positive ~~ restaurant miscellaneous ~ positive,ASD
+BHD#9:2,One of the best hot dogs I have ever eaten .,food quality ~ positive,ASD
+BHD#9:3,Can ' t wait to go back .,restaurant general ~ positive,ASD
+BzG#1:0,The Cypriot restaurant has a lot going for it .,restaurant general ~ positive,ASD
+BzG#1:1,But the best pork souvlaki I ever had is the main thing .,food quality ~ positive,ASD
+BzG#1:3,Run don ' t walk .,restaurant general ~ positive,ASD
+EVPK#10:0,Super YUMMY Pizza !,food quality ~ positive,ASD
+EVPK#10:1,I was visiting New York City with a friend and we discovered this really warm and inviting restaurant .,ambience general ~ positive,ASD
+EVPK#10:2,"I LOOOVE their eggplant pizza , as well as their pastas !",food quality ~ positive ~~ food quality ~ positive,ASD
+EVPK#10:3,"We had half / half pizza , mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza !",food style_options ~ positive,ASD
+EVPK#10:4,"We had fun eating in there , we were there like around 3 a . m . in the morning !",restaurant general ~ positive,ASD
+EVPK#10:5,"Will comeback for sure , wish they have it here in LA . .",restaurant general ~ positive,ASD
+Z#3:0,"Excellent food , although the interior could use some help .",food quality ~ positive ~~ ambience general ~ negative,ASD
+Z#3:1,"The space kind of feels like an Alice in Wonderland setting , without it trying to be that .",ambience general ~ negative,ASD
+Z#3:2,"I paid just about $ 60 for a good meal , though : )",food quality ~ positive ~~ food prices ~ positive,ASD
+Z#3:3,Great sake !,drinks quality ~ positive,ASD
+Y#7:0,"Reliable , Fresh Sushi",food quality ~ positive,ASD
+Y#7:2,The sashimi is always fresh and the rolls are innovative and delicious .,food quality ~ positive ~~ food quality ~ positive ~~ food style_options ~ positive,ASD
+Y#7:3,Have never had a problem with service save a missing rice once .,service general ~ positive,ASD
+Y#7:4,Delivery can be spot on or lacking depending on the weather and the day of the week .,service general ~ negative,ASD
+Y#7:5,Delivery guy sometimes get upset if you don ' t tip more than 10 % .,service general ~ negative,ASD
+Y#3:0,Best . Sushi . Ever .,food quality ~ positive,ASD
+Y#3:1,This place has ruined me for neighborhood sushi .,food quality ~ positive,ASD
+Y#3:2,"Creative , consistent , fresh .",food quality ~ positive ~~ food style_options ~ positive,ASD
+Y#3:3,"Excellent sashimi , and the millennium roll is beyond delicious .",food quality ~ positive ~~ food quality ~ positive,ASD
+Y#3:4,Not cheap but very yummy .,food quality ~ positive ~~ food prices ~ negative,ASD
+Y#3:5,Love it .,restaurant general ~ positive,ASD
+Y#2:0,"Very , very nice",restaurant general ~ positive,ASD
+Y#2:1,"The place is a bit hidden away , but once you get there , it ' s all worth it .",restaurant general ~ positive ~~ location general ~ neutral,ASD
+Y#2:2,not only is the food,restaurant general ~ positive ~~ food quality ~ positive,ASD
+WE#9:0,Loved It,restaurant general ~ positive,ASD
+WE#9:2,We had a very nice time .,restaurant general ~ positive,ASD
+WE#9:3,"The waiter was attentive , the food was delicious and the views of the city were great .",service general ~ positive ~~ food quality ~ positive ~~ location general ~ positive,ASD
+WE#9:4,I ' d definitely go back again .,restaurant general ~ positive,ASD
+TR#3:0,Great place to relax and enjoy your dinner,ambience general ~ positive,ASD
+TR#3:1,There is something about their atmosphere that makes me come back nearly every week .,ambience general ~ positive,ASD
+TR#3:2,"Place is open till late , no dress code .",restaurant miscellaneous ~ positive,ASD
+TR#3:3,Good food : my favorite is the seafood spaghetti .,food quality ~ positive ~~ food quality ~ positive,ASD
+TR#3:4,Highly recommended !,restaurant general ~ positive,ASD
+TM#7:0,Excellent food for great prices,food quality ~ positive ~~ food prices ~ positive,ASD
+TM#7:1,My husband and I have been sold on this from the first visit .,restaurant general ~ positive,ASD
+TM#7:2,The wait staff is very courteous and accomodating .,service general ~ positive,ASD
+TM#7:3,"The space is limited so be prepared to wait up to 45 minutes - 1 hour , but be richly rewarded when you savor the delicious indo - chinese food .",food quality ~ positive ~~ ambience general ~ neutral ~~ restaurant miscellaneous ~ negative,ASD
+TM#7:4,There are no negatives to speak of .,restaurant general ~ positive,ASD
+RL#7:0,the bestt !,restaurant general ~ positive,ASD
+RL#7:1,my favorite place lol,restaurant general ~ positive,ASD
+RL#7:2,i love their chicken pasta cant remember the name but is sooo good,food quality ~ positive,ASD
+RL#3:0,its alright,restaurant general ~ neutral,ASD
+RL#3:1,"im not necessarily fanatical about this place , but it was a fun time for low pirces .",restaurant general ~ positive ~~ restaurant prices ~ positive,ASD
+RL#3:2,"lobster was good , nothing spectacular .",food quality ~ neutral,ASD
+RL#3:3,"its just a fun place to go , not a five star restaraunt .",restaurant general ~ neutral,ASD
+PP#9:0,Way below average,restaurant general ~ negative,ASD
+PP#9:1,I think the pizza is so overrated and was under cooked .,food quality ~ negative,ASD
+PP#9:2,Had no flavor and the staff is rude and not attentive .,service general ~ negative ~~ food quality ~ negative,ASD
+PP#9:3,Would NEVER go back,restaurant general ~ negative,ASD
+PP#4:0,I love this place,restaurant general ~ positive,ASD
+PP#4:1,I wasn ' t here for the pizza so I can ' t comment on that yet but what I had was very good .,food quality ~ positive,ASD
+PP#4:2,The service was quick and friendly .,service general ~ positive,ASD
+PP#4:3,Everyone was smiling so that made me feel welcome .,service general ~ positive,ASD
+PP#4:4,I thought the restaurant was nice and clean .,restaurant general ~ positive ~~ ambience general ~ positive,ASD
+PP#4:5,I ordered the vitello alla marsala and I was pretty impressed .,food quality ~ positive,ASD
+PP#4:6,The veal and the mushrooms were cooked perfectly .,food quality ~ positive ~~ food quality ~ positive,ASD
+PP#4:7,The potato balls were not dry at all . . . in fact it was buttery .,food quality ~ positive,ASD
+PP#4:8,The only downside . . . they only take cash which is OK if you know about it ahead of time .,restaurant miscellaneous ~ negative,ASD
+PP#4:9,I ' ll be back for sure .,restaurant general ~ positive,ASD
+P#1:0,WORST PLACE ON SMITH STREET IN BROOKLYN,restaurant general ~ negative,ASD
+P#1:1,"Very immature bartender , didnt know how to make specific drinks , service was so slowwwww , the food was not fresh or warm , waitresses were busy flirting with men at the bar and werent very attentive to all the customers .",service general ~ negative ~~ service general ~ negative ~~ service general ~ negative ~~ food quality ~ negative,ASD
+P#1:2,I would never recommend this place to anybody even for a casual dinner .,restaurant general ~ negative ~~ restaurant miscellaneous ~ negative,ASD
+RL#9:0,awesome,restaurant general ~ positive,ASD
+RL#9:1,the food is always fresh . . .,food quality ~ positive,ASD
+Y#5:0,overpriced japanese food with mediocre service,service general ~ neutral ~~ food prices ~ negative,ASD
+Y#5:1,Went here on sat 1 / 26 and was disappointed .,restaurant general ~ negative,ASD
+Y#5:2,Chicken teriyaki had tomato or pimentos on top ? ?,food style_options ~ negative,ASD
+Y#5:3,food was luke warm .,food quality ~ negative,ASD
+Y#5:4,The waitress was not attentive at all .,service general ~ negative,ASD
+Y#5:5,I was looking for banana tempura for dessert and they dont have .,food style_options ~ negative,ASD
+TFS#8:0,"Not because you are "" The Four Seasons "" . . . – you are allowed to charge an arm and a leg for a romatic dinner .",restaurant prices ~ negative,ASD
+TFS#8:1,"The food was excellent as well as service , however , I left The Four Seasons very dissappointed .",restaurant general ~ negative ~~ service general ~ positive ~~ food quality ~ positive,ASD
+TFS#8:2,I do not think dinner in Manhattan should cost $ 400 . 00 where I am not swept off my feet .,food prices ~ negative,ASD
+Y#4:0,"Red Dragon Roll - my favorite thing to eat , of any food group - hands down",food quality ~ positive,ASD
+Y#4:1,Just go to Yamato and order the Red Dragon Roll .,restaurant general ~ positive ~~ food quality ~ positive,ASD
+Y#4:2,"If you don ' t like it , I don ' t know what to tell you .",food quality ~ positive,ASD
+Y#4:3,The Seafood Dynamite is also otherworldly .,food quality ~ positive,ASD
+Y#4:4,I ' m not even going to bother to describe it ; it speaks for itself .,food quality ~ positive,ASD
+Y#6:0,Favorite Sushi in NYC,food quality ~ positive,ASD
+Y#6:2,"An unpretentious spot in Park Slope , the sushi is consistently good , the service is pleasant , effective and unassuming .",service general ~ positive ~~ food quality ~ positive ~~ ambience general ~ positive,ASD
+Y#6:3,"In the summer months , the back garden area is really nice .",ambience general ~ positive,ASD
+Y#6:4,The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food .,food quality ~ positive ~~ food style_options ~ positive ~~ food style_options ~ positive,ASD
+Y#6:5,"The Dancing , White River and Millenium rolls are musts .",food quality ~ positive,ASD
+RL#4:0,SO GOOD,restaurant general ~ positive,ASD
+RL#4:1,I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE . . . ),restaurant general ~ positive,ASD
+P#10:0,Gross food – Wow -,food quality ~ negative,ASD
+P#10:1,I can ' t remember the last time I had such gross food in New York .,food quality ~ negative,ASD
+P#10:2,My quesadilla tasted like it had been made by a three - year old with no sense of proportion or flavor .,food quality ~ negative ~~ food style_options ~ negative,ASD
+P#10:3,And $ 11 for a plate of bland guacamole ?,food quality ~ negative ~~ food prices ~ negative,ASD
+P#10:5,"Don ' t get me started on the margaritas , either .",drinks quality ~ negative,ASD
+P#10:6,Mine tasted like the bartender had forgotten to add the tequila .,drinks quality ~ negative,ASD
+P#10:8,Save your money and your time and go somewhere else .,restaurant general ~ negative,ASD
+P#10:9,"Oh , and I never write reviews - - I just was so moved by how bad this place was , I felt it was my duty to spread the word .",restaurant general ~ negative,ASD
+TM#3:0,Great Indian Food !,food quality ~ positive,ASD
+TM#3:2,When I got there the place was packed but they made sure to seat me quickly .,service general ~ positive,ASD
+TM#3:3,"The food was good , the place was clean and affordable .",food quality ~ positive ~~ restaurant prices ~ positive ~~ ambience general ~ positive,ASD
+TM#3:4,I noticed alot of indian people eatting there which is a great sign for an indian place !,restaurant miscellaneous ~ positive,ASD
+TR#1:0,"This is one of my favorite spot , very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .",restaurant general ~ positive ~~ food quality ~ positive ~~ ambience general ~ positive ~~ restaurant miscellaneous ~ positive,ASD
+TR#1:1,The staff is very good .,service general ~ positive,ASD
+TR#1:2,Love their drink menu .,drinks style_options ~ positive,ASD
+TR#1:3,I highly recommend this beautiful place .,restaurant general ~ positive ~~ ambience general ~ positive,ASD
+TR#8:0,Nice for one time special occasion .,restaurant miscellaneous ~ positive,ASD
+TR#8:2,They honored reservation on Sunday afternoon very well .,service general ~ positive,ASD
+TR#8:4,We were offered water for the table but were not told the Voss bottles of water were $ 8 a piece .,drinks prices ~ negative,ASD
+TR#8:5,Food was OK .,food quality ~ neutral,ASD
+TR#8:6,Nice view of river and NYC .,location general ~ positive,ASD
+BG#1:0,I come here enjoy very much with husband .,restaurant general ~ positive,ASD
+BG#1:1,Remind me of home .,restaurant miscellaneous ~ positive,ASD
+BG#1:2,Great survice,service general ~ positive,ASD
+ADLT#4:0,MMMMMMMMMmmmmmm so delicious,food quality ~ positive,ASD
+CLF#1:0,A beautifully designed dreamy Egyptian restaurant that gets sceney at night .,ambience general ~ positive,ASD
+CLF#1:1,Watch the talented belly dancers as you enjoy delicious baba ganoush that ' s more lemony than smoky .,food quality ~ positive ~~ ambience general ~ positive,ASD
+CLF#1:2,"Oh , and there ' s hookah .",ambience general ~ positive,ASD
+P#9:0,Raymond the bartender rocks !,service general ~ positive,ASD
+P#9:1,Pacifico is a great place to casually hang out .,restaurant miscellaneous ~ positive,ASD
+P#9:2,"The drinks are great , especially when made by Raymond .",service general ~ positive ~~ drinks quality ~ positive,ASD
+P#9:3,The omlette for brunch is great . . .,food quality ~ positive,ASD
+P#9:4,"the spinach is fresh , definately not frozen . . .",food quality ~ positive,ASD
+P#9:5,"quacamole at pacifico is yummy , as are the wings with chimmichuri .",food quality ~ positive ~~ food quality ~ positive,ASD
+P#9:6,A weakness is the chicken in the salads .,food quality ~ negative,ASD
+P#9:7,"It ' s just average , just shredded , no seasoning on it .",food quality ~ negative,ASD
+P#9:8,"Also , I personally wasn ' t a fan of the portobello and asparagus mole .",food quality ~ negative,ASD
+P#9:9,"Overall , decent food at a good price , with friendly people .",service general ~ positive ~~ food quality ~ neutral ~~ food prices ~ positive,ASD
+BG#6:0,Best Indian Restaurant in the City,restaurant general ~ positive,ASD
+BG#6:1,Decor needs to be upgraded but the food is amazing !,food quality ~ positive ~~ ambience general ~ negative,ASD
+BzG#4:0,This small Astoria souvlaki spot makes what many consider the best gyros in New York .,food quality ~ positive,ASD
+BzG#4:2,"What really makes it shine is the food , which is aggressively seasoned with Cyrpriot spices , and all made in - house ( even the gyro meat and sausages ) , and made of much higher quality ingredients that might otherwise be expected .",food quality ~ positive ~~ food quality ~ positive ~~ food quality ~ positive ~~ food quality ~ positive,ASD
+BzG#4:3,"All the various Greek and Cypriot dishes are excellent , but the gyro is the reason to come - - if you don ' t eat one your trip was wasted .",food quality ~ positive ~~ food quality ~ positive,ASD
+NP#10:0,Best restaurant in Brooklyn,restaurant general ~ positive,ASD
+NP#10:1,The best !,restaurant general ~ positive,ASD
+NP#10:2,"Great food , amazing service , this place is a class act .",restaurant general ~ positive ~~ service general ~ positive ~~ food quality ~ positive,ASD
+NP#10:3,The veal was incredible last night .,food quality ~ positive,ASD
+NP#10:4,"Fresh , mind blowing flavors .",food quality ~ positive,ASD
+NP#10:5,This place is a must visit !,restaurant general ~ positive,ASD
+BHD#2:2,"Delicious , creative and fun .",food quality ~ positive ~~ food style_options ~ positive,ASD
+Z#11:0,Got a date ? Go here !,restaurant miscellaneous ~ positive,ASD
+Z#11:1,Every time I have a special occasion with my boyfriend I have a hard time going anywhere else .,restaurant miscellaneous ~ positive,ASD
+Z#11:2,It is so romantic .,ambience general ~ positive,ASD
+Z#11:3,"Its dark , and cozy . . there is always jazz music playing when we go .",ambience general ~ positive,ASD
+Z#11:4,Most of the booths allow you to sit next to eachother without looking like ' that ' couple .,ambience general ~ positive,ASD
+Z#11:5,The food is all shared so we get to order together and eat together .,food style_options ~ positive,ASD
+Z#11:6,I ' ve enjoyed 99 % of the dishes we ' ve ordered with the only exceptions being the occasional too - authentic - for - me dish ( I ' m a daring eater but not THAT daring ) .,food quality ~ positive ~~ food quality ~ negative,ASD
+Z#11:7,Once you try it for a special occasion beware . . you can ' t stop !,restaurant miscellaneous ~ positive,ASD
+Z#11:8,"You ' ll be ther for every anniversary , birthday , valentines day . . .",restaurant miscellaneous ~ positive,ASD
+WE#4:0,For a Fabulous Wedding !,restaurant miscellaneous ~ positive,ASD
+WE#4:1,My daughter ' s wedding reception at Water ' s Edge received the highest compliments from our guests .,restaurant miscellaneous ~ positive,ASD
+WE#4:2,Everyone raved about the atmosphere ( elegant rooms and absolutely incomparable views ) and the fabulous food !,food quality ~ positive ~~ ambience general ~ positive ~~ ambience general ~ positive ~~ location general ~ positive,ASD
+WE#4:3,Service was wonderful ;,service general ~ positive,ASD
+WE#4:4,everyone was cheerfully cooperative and helpful .,service general ~ positive,ASD
+WE#4:5,"Paul , the maitre d ' , was totally professional and always on top of things .",service general ~ positive,ASD
+WE#4:6,Thank you everyone at Water ' s Edge .,restaurant general ~ positive,ASD
+TR#2:0,would NOT go back .,restaurant general ~ negative,ASD
+TR#2:1,"Service ok but unfriendly , filthy bathroom .",service general ~ negative ~~ ambience general ~ negative,ASD
+TR#2:2,The high prices you ' re going to pay is for the view not for the food .,food quality ~ negative ~~ restaurant prices ~ negative ~~ location general ~ neutral,ASD
+TR#2:3,"The bar drinks were Eh , ok to say the least .",drinks quality ~ negative,ASD
+TR#2:4,The stuff tilapia was horrid . . . tasted like cardboard .,food quality ~ negative,ASD
+TR#2:5,"We thought the dessert would be better , Wrong !",food quality ~ negative,ASD
+TR#2:6,$ 170 down the toilet . . .,restaurant general ~ negative ~~ restaurant prices ~ negative,ASD
+TR#2:7,"oh speaking of bathroom , the mens bathroom was disgusting .",ambience general ~ negative,ASD
+TR#2:8,"The floor was wet , the trash can filled with hand towels n all over the floor , no soap , and no hand towels left .",ambience general ~ negative,ASD
+TFS#10:0,Good Experience,restaurant general ~ positive,ASD
+TFS#10:2,The wine list was extensive - though the staff did not seem knowledgeable about wine pairings .,service general ~ negative ~~ drinks style_options ~ positive,ASD
+TFS#10:3,"The bread we received was horrible - rock hard and cold - and the "" free "" appetizer of olives was disappointing .",food quality ~ negative ~~ food quality ~ negative ~~ food prices ~ neutral,ASD
+TFS#10:4,"However , our main course was wonderful .",food quality ~ positive,ASD
+TFS#10:5,I had fish and my husband had the filet - both of which exceeded our expectations .,food quality ~ positive ~~ food quality ~ positive,ASD
+TFS#10:6,"The dessert ( we had a pear torte ) was good - but , once again , the staff was unable to provide appropriate drink suggestions .",service general ~ negative ~~ food quality ~ positive,ASD
+TFS#10:7,When we inquired about ports - the waitress listed off several but did not know taste variations or cost .,service general ~ negative,ASD
+TFS#10:8,Not what I would expect for the price and prestige of this location .,service general ~ negative ~~ restaurant prices ~ neutral ~~ restaurant miscellaneous ~ neutral,ASD
+TFS#10:9,"All in all , I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future .",restaurant general ~ positive ~~ service general ~ negative ~~ ambience general ~ positive,ASD
+Z#9:0,"short and sweet – seating is great : it ' s romantic , cozy and private .",ambience general ~ positive,ASD
+Z#9:1,The boths are not as small as some of the reviews make them out to look they ' re perfect for 2 people .,ambience general ~ positive,ASD
+Z#9:2,The service was extremely fast and attentive ( thanks to the service button on your table ) but I barely understood 1 word when the waiter took our order .,service general ~ positive ~~ service general ~ negative,ASD
+Z#9:3,The food was ok and fair nothing to go crazy .,food quality ~ neutral,ASD
+Z#9:5,Over all the looks of the place exceeds the actual meals .,food quality ~ negative ~~ ambience general ~ positive,ASD
+Z#9:6,So what you really end up paying for is the restaurant not the food .,food quality ~ negative ~~ restaurant prices ~ negative ~~ ambience general ~ neutral,ASD
+Z#9:7,Will prob . not return but it is a great dinning experience to try atleast once .,restaurant general ~ positive ~~ restaurant general ~ negative,ASD
+NP#3:0,Impressed . . .,restaurant general ~ positive,ASD
+NP#3:1,Subtle food and service,service general ~ positive ~~ food quality ~ positive,ASD
+NP#3:2,Noodle pudding is exactly the type of service and food I enjoy .,service general ~ positive ~~ food quality ~ positive,ASD
+NP#3:3,"Servers are all different , Greg is my favorite .",service general ~ positive,ASD
+NP#3:4,"Sometimes tables don ' t understand his sense of humor but it ' s refreshing to have a server who has personality , professionalism , and respects the privacy of your dinner .",service general ~ positive,ASD
+NP#3:5,This is the first place I ' ve been that a runner remembers my order . . . hope he likes his job because I have half a mind to steal him for my restaurant .,service general ~ positive,ASD
+NP#3:6,Prices are fair across the board for both food and bev .,drinks prices ~ positive ~~ food prices ~ positive,ASD
+NP#3:7,"I go out to eat and like my courses , servers are patient and never rush courses or force another drink .",service general ~ positive,ASD
+BHD#7:0,amazing fresh dogs but best of all endless toppings ! ! !,food quality ~ positive ~~ food style_options ~ positive,ASD
+BHD#7:1,this place had ALL the trimmings and i mean all .,food style_options ~ positive,ASD
+BHD#7:2,"peppers , onions , relish , chilli , cheeses , you NAME it .",food style_options ~ positive,ASD
+BHD#7:3,amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out ! ! ! !,restaurant general ~ positive ~~ food quality ~ positive,ASD
+CLF#5:0,BEST DINING EXPERIENCE IN THE WEST VILLAGE !,restaurant general ~ positive,ASD
+CLF#5:1,Stepping into Casa La Femme last night was a true experience unlike any other in New York !,restaurant general ~ positive,ASD
+CLF#5:2,Highly impressed from the decor to the food to the hospitality to the great night I had !,restaurant general ~ positive ~~ service general ~ positive ~~ food quality ~ positive ~~ ambience general ~ positive,ASD
+CLF#5:3,The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for !,drinks quality ~ positive,ASD
+CLF#5:4,"Food took some time to prepare , all worth waiting for .",service general ~ neutral ~~ food quality ~ positive,ASD
+CLF#5:5,We were drawn into the belly dancing show that captivated the crowd .,ambience general ~ positive,ASD
+CLF#5:6,I never write on these sites but this restaurant is def worth commending !,restaurant general ~ positive,ASD
+CLF#5:7,Great find in the West Village !,restaurant general ~ positive,ASD
+NP#4:0,Maggot in the food !,food quality ~ negative,ASD
+NP#4:2,"The menu looked great , and the waiter was very nice , but when the food came , it was average .",service general ~ positive ~~ food quality ~ neutral ~~ food style_options ~ positive,ASD
+NP#4:3,"Nevertheless , I finished my plate , and that ' s when I found a maggot in mushroom sauce at the bottom .",food quality ~ negative,ASD
+NP#4:4,"I showed it to the manager , and he smilingly apologized and brought us two free desserts ( but did not ask us what we wanted and so brought the last two desserts we would have asked for ) .",service general ~ positive ~~ service general ~ negative,ASD
+NP#4:5,"When the bill came , nothing was comped , so I told the manager very politely that we were willing to pay for the wine , but I didn ' t think I should have to pay for food with a maggot in it .",service general ~ negative,ASD
+NP#4:7,"The manager finally said he would comp the two glasses of wine ( which cost less than the food ) , and made it seem like a big concession .",service general ~ negative,ASD
+NP#4:8,We paid and left because we didn ' t feel like arguing any more .,service general ~ negative,ASD
+NP#4:9,"I have worked in restaurants and cook a lot , and there is no way a maggot should be able to get into well prepared food .",food quality ~ negative,ASD
+NP#4:10,"For a restaurant with such a good reputation and that is usually so packed , there was no reason for such a lack of intelligent customer service .",service general ~ negative ~~ restaurant miscellaneous ~ positive,ASD
+P#6:0,Unhygienic,food quality ~ negative,ASD
+P#6:1,I do not recommend .,restaurant general ~ negative,ASD
+P#6:3,I got hair in my food 2 times of then !,food quality ~ negative,ASD
+BzG#2:0,"Great place , great value .",restaurant general ~ positive ~~ restaurant prices ~ positive,ASD
+BzG#2:1,"The food is flavorful , plentiful and reasonably priced .",food quality ~ positive ~~ food style_options ~ positive ~~ food prices ~ positive,ASD
+BzG#2:2,The atmosphere is relaxed and casual .,ambience general ~ positive,ASD
+BzG#2:3,It ' s a great place to order from or sit - in .,restaurant miscellaneous ~ positive,ASD
+TVU#4:0,Awesome,restaurant general ~ positive,ASD
+TVU#4:1,"Inexpensive , unassuming , great time !",restaurant general ~ positive ~~ restaurant prices ~ positive ~~ ambience general ~ positive,ASD
+Z#2:0,Sushi experience was unbelievable with my fiance .,food quality ~ positive,ASD
+Z#2:1,Try it !,restaurant general ~ positive,ASD
+Z#2:2,Very pleased,restaurant general ~ positive,ASD
+Y#9:0,Good creative rolls !,food quality ~ positive ~~ food style_options ~ positive,ASD
+Y#9:1,"Yamato is an excellent place to go if youre not into sashimi , or if you have friends who doesnt like sushi much .",restaurant miscellaneous ~ positive,ASD
+Y#9:2,"They have great rolls , the triple color and norwegetan rolls , are awesome and filling .",food quality ~ positive ~~ food style_options ~ positive,ASD
+Y#9:3,"One special roll and one regular roll is enough to fill you up , but save room for dessert !",food quality ~ positive ~~ food style_options ~ positive ~~ food style_options ~ positive,ASD
+Y#9:4,"They have a delicious banana chocolate dessert , as well as a great green tea tempura .",food quality ~ positive ~~ food quality ~ positive,ASD
+Y#9:5,The appetizers are also delicious !,food quality ~ positive,ASD
+Z#5:0,Amazing food .,food quality ~ positive,ASD
+Z#5:1,Mazing interior .,ambience general ~ negative,ASD
+Z#5:2,Great food !,food quality ~ positive,ASD
+Z#5:3,I ' ve had my fair share of modern Japanese and this spot delivers .,food quality ~ positive,ASD
+Z#5:4,"The atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .",ambience general ~ negative ~~ ambience general ~ negative,ASD
+Z#5:5,"If you ' re into being lost when you ' re just five feet from your table then hey , that ' s a good thing .",ambience general ~ negative,ASD
+Z#5:6,Despite the confusing mirrors this will likely be my go - to for modern Japanese food for the foreseeable future .,food quality ~ positive ~~ ambience general ~ negative,ASD
+TM#4:0,"Indo Chinese food , pretty good . . .",food quality ~ positive,ASD
+TM#4:1,Not a very fancy place but very good Chinese style Indian food .,food quality ~ positive ~~ ambience general ~ neutral,ASD
+TM#4:2,"The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",food quality ~ positive ~~ food quality ~ negative ~~ food quality ~ negative,ASD
+TM#4:3,"My mom originally introduced me to this place , but even she ( being Indian ) feels the food can be somewhat over the top spicy and far too oily .",food quality ~ negative,ASD
+TM#4:4,Still we keep going back : ),restaurant general ~ positive,ASD
+TFS#11:0,I was speechless by the horrible food .,food quality ~ negative,ASD
+TFS#11:1,"I attended a holiday dinner at the restaurant , and the food was majorly disappointing .",food quality ~ negative,ASD
+TFS#11:3,"Rather than preparing vegetarian dish , the chef presented me with a plate of steamed vegetables ( minus sauce , seasoning , or any form or aesthetic presentation ) .",service general ~ negative ~~ food quality ~ negative ~~ food style_options ~ negative,ASD
+TFS#11:4,"I was so stunned , and I left the dinner hungry and majorly disappointing .",restaurant general ~ negative,ASD
+TFS#11:5,This place survives on reputation alone .,restaurant miscellaneous ~ negative,ASD
+TFS#11:6,I will NEVER return .,restaurant general ~ negative,ASD
+ADLT#10:0,Best In ALL of NYC,restaurant general ~ positive,ASD
+ADLT#10:1,"This is the MOST wonderful restaurant in all of New York City , not just Brooklyn . . .",restaurant general ~ positive,ASD
+ADLT#10:2,"for 7 years they have put out the most tasty , most delicious food and kept it that way . . .",food quality ~ positive,ASD
+ADLT#10:3,"never swaying , never a bad meal , never bad service . . .",restaurant general ~ positive ~~ service general ~ positive ~~ food quality ~ positive,ASD
+ADLT#10:5,you should travel from the Bronx to try it . . .,restaurant general ~ positive,ASD
+ADLT#10:6,"great food , great wine list , great service in a great neighborhood . . .",service general ~ positive ~~ food quality ~ positive ~~ drinks style_options ~ positive ~~ location general ~ positive,ASD
+ADLT#10:7,so delicious ! ! ! ! ! !,food quality ~ positive,ASD
+PP#3:0,Patsy ' s Pizza = true love,restaurant general ~ positive,ASD
+PP#3:1,Hands down the best pizza on the planet .,food quality ~ positive,ASD
+PP#3:3,"In about 12 minutes , the thing is gone .",food quality ~ positive,ASD
+BHD#6:0,great hot dogs . .,food quality ~ positive,ASD
+BHD#6:1,the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside .,food quality ~ positive,ASD
+BHD#6:2,great toppings definitely a place you need to check out for late night munchies or a mid day boost !,food quality ~ positive ~~ restaurant miscellaneous ~ positive,ASD
+TM#5:0,great taste,food quality ~ positive,ASD
+TM#5:1,"Great , original taste .",food quality ~ positive,ASD
+TM#5:2,"For me dishes a little oily , but overall dining experience good .",restaurant general ~ positive ~~ food quality ~ negative,ASD
+TM#5:3,Helpful service and average price per dish $ 10 .,service general ~ positive ~~ food prices ~ neutral,ASD
+TM#5:4,The only thing that strikes you is the decor ? ( not very pleasant ) .,ambience general ~ negative,ASD
+TM#6:0,great food,food quality ~ positive,ASD
+TM#6:1,This place has great indian chinese food .,food quality ~ positive,ASD
+TM#6:2,The flavors are amazing and the value is phenomenal .,food quality ~ positive ~~ food prices ~ positive,ASD
+TM#6:3,"Be prepared to wait , because the place is pretty tiny .",ambience general ~ negative ~~ restaurant miscellaneous ~ negative,ASD
+TM#6:4,"Also , they do not take credit card so come with cash !",restaurant miscellaneous ~ neutral,ASD
+TM#6:5,"Even though the place is not beautiful , the food speaks for itself .",food quality ~ positive ~~ ambience general ~ negative,ASD
+TM#6:6,"Best Indian Chinese in the city , by far !",food quality ~ positive,ASD
+TVU#6:0,AMAZING MY FAVORITE ! ! !,restaurant general ~ positive,ASD
+TVU#6:2,"I came across Village Underground by accident , now I go there all the time .",restaurant general ~ positive,ASD
+TVU#6:3,The martinis are amazing and very fairly priced .,drinks prices ~ positive ~~ drinks quality ~ positive,ASD
+TVU#6:4,"THE SERVICE IS AMAZING , i ' ve had different waiters and they were all nice , which is a rare thing in NYC .",service general ~ positive ~~ service general ~ positive,ASD
+TVU#6:5,"The DJ is awesome , I have been there for my birthday and a bunch of other times with friends and I keep going back .",restaurant general ~ positive ~~ ambience general ~ positive,ASD
+TVU#6:6,You can get a table without a reservation if you get there early I they don ' t make you by bottles .,service general ~ positive,ASD
+TVU#6:7,Which lets face it . . . . at times it ' s a good thing .,service general ~ positive,ASD
+TVU#6:8,In the end you end up with a fair tab and NOTHING BUT A GREAT TIME ! ! !,restaurant general ~ positive ~~ restaurant prices ~ positive,ASD
+TVU#6:9,Highly recommended !,restaurant general ~ positive,ASD
+ADLT#3:0,"One of the best , if not THE best , restaurants in Park Slope ( and NY in general )",restaurant general ~ positive,ASD
+ADLT#3:1,Everything on the menu is great .,food quality ~ positive,ASD
+ADLT#3:2,This establishment is the real deal .,restaurant general ~ positive,ASD
+ADLT#3:3,"Wish NY had more of these kind of places : intimate , superb food , homey , top notch all the way around , certainly worth the wait .",restaurant general ~ positive ~~ food quality ~ positive ~~ ambience general ~ positive,ASD
+TFS#5:2,But $ 500 for a dinner for two that didn ' t include Wine ?,food prices ~ negative,ASD
+TFS#5:4,"Look , the appetizers were really good .",food quality ~ positive,ASD
+TFS#5:5,The entree was also very good .,food quality ~ positive,ASD
+TFS#5:6,"Can ' t argue about that , but they are clearly over priced .",food prices ~ negative,ASD
+TFS#5:7,What you are paying for is the environment and the name .,restaurant prices ~ negative ~~ ambience general ~ neutral ~~ restaurant miscellaneous ~ neutral,ASD
+TFS#5:8,"Yes , the place is classy and beautiful , but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while .",restaurant prices ~ negative ~~ ambience general ~ positive,ASD
+TFS#5:12,Which of course is not real Kobe but Wagyu beef .,food quality ~ negative,ASD
+TFS#5:13,Surprised that a place of this caliber would advertise it as Kobe .,restaurant miscellaneous ~ negative,ASD
+TFS#5:16,Vanison was good but not amazing .,food quality ~ neutral,ASD
+TFS#5:17,Bison was quite excellent however .,food quality ~ positive,ASD
+TFS#5:18,Dessert : pure disaster .,food quality ~ negative,ASD
+TFS#5:19,Just not good at all .,food quality ~ negative,ASD
+TFS#5:20,Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all .,food quality ~ negative ~~ food style_options ~ negative,ASD
+TFS#5:21,"I read reviews that called the restaurant too expensive and I thought to myself , but may be it is worth it .",restaurant general ~ negative ~~ restaurant prices ~ negative,ASD
+TFS#5:23,"The Four Seasons has history and it is a sort of landmark of New York City restaurants , but trust me , they will charge you through the nose just so that you can say "" I ' ve been to the four seasons restaurant "" .",restaurant prices ~ negative ~~ restaurant miscellaneous ~ neutral,ASD
+TFS#5:24,"I wanted to go there to see if it was worth it and sadly , curiousity got the best of me and I paid dearly for it .",restaurant general ~ negative ~~ restaurant prices ~ negative,ASD
+TFS#5:25,"All in all , the food was great ( except for the dessserts ) .",food quality ~ positive ~~ food quality ~ negative,ASD
+TFS#5:26,The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts .,ambience general ~ neutral ~~ restaurant miscellaneous ~ neutral,ASD
+TFS#5:27,"If you are going for the food , it will not be worth it .",food quality ~ negative,ASD
+TFS#5:29,"You would think they would make up for it with service , sadly , no .",service general ~ negative,ASD
+TFS#5:30,"Service was just ok , it is not what you ' d expect for $ 500 .",service general ~ negative ~~ restaurant prices ~ negative,ASD
+CLF#3:0,Terrible Waste of money . . scammers,restaurant general ~ negative ~~ restaurant prices ~ negative,ASD
+CLF#3:1,I agree that dining at Casa La Femme is like no other dining experience !,restaurant general ~ negative,ASD
+CLF#3:3,I am actually offended to have spent so much money on such a bad experience .,restaurant general ~ negative ~~ restaurant prices ~ negative,ASD
+CLF#3:4,I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time .,restaurant general ~ negative ~~ restaurant prices ~ negative,ASD
+CLF#3:6,"Our visit their to say the least , was an unpleasant and costly experience !",restaurant general ~ negative ~~ restaurant prices ~ negative,ASD
+CLF#3:7,And even more so unpleasant because it was so costly for such an unpleasant experience .,restaurant general ~ negative ~~ restaurant prices ~ negative,ASD
+CLF#3:8,We did arrive late for our reservation so I can not complain too much about the wait for a table .,service general ~ neutral,ASD
+CLF#3:9,Although we were told 10 - 15 minutes and it was more like 45 minutes .,service general ~ negative,ASD
+CLF#3:10,We were ushered to the bar to wait momentarily and upon arrival were so excited .,restaurant general ~ positive,ASD
+CLF#3:11,The place is beautiful !,ambience general ~ positive,ASD
+CLF#3:12,The hostess was very pleasant .,service general ~ positive,ASD
+CLF#3:13,"However , our $ 14 drinks were were horrible !",drinks prices ~ negative ~~ drinks quality ~ negative,ASD
+CLF#3:14,"Once we finally got a table , despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed !",service general ~ negative,ASD
+CLF#3:16,Our experience did not ever get any better .,restaurant general ~ negative,ASD
+CLF#3:17,For each course we waited over 1 / 2 hour to 45 minutes and were never offered a drink .,service general ~ negative,ASD
+CLF#3:18,We also asked for Hooka six times and the waiter kept telling us one minute and never returning with the Hooka .,service general ~ negative,ASD
+CLF#3:19,After the 4th time i asked again and the waiter than said after our dinner .,service general ~ negative,ASD
+CLF#3:20,We asked for beverages and never received them .,service general ~ negative,ASD
+CLF#3:21,We asked for sides which the waiter than admitted that he forgot to put in that part of our order .,service general ~ negative,ASD
+CLF#3:22,My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin .,food quality ~ negative,ASD
+CLF#3:23,I would not expect this for a $ 55 dinner .,food quality ~ negative ~~ food prices ~ negative,ASD
+CLF#3:24,By the time we finished our dinner we still had not received one beverage NOR hooka !,service general ~ negative,ASD
+CLF#3:25,What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka . . some of which we never received !,service general ~ negative,ASD
+CLF#3:26,The only beverage we did receive was water in dirty glasses !,service general ~ negative,ASD
+CLF#3:27,To top it all off . . the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant .,service general ~ negative ~~ restaurant miscellaneous ~ negative,ASD
+CLF#3:28,"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner , which would have been acceptable if we got to enjoy the experience of good food and belly dancers !",food quality ~ negative ~~ restaurant prices ~ negative ~~ restaurant miscellaneous ~ negative,ASD
+CLF#3:29,If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible !,food quality ~ negative ~~ restaurant prices ~ negative,ASD
+CLF#3:30,"I have never left a restaurant feeling as if i was abused , and wasted my hard earned money .",restaurant general ~ negative ~~ restaurant prices ~ negative,ASD
+CLF#3:31,MY husbands birthday and my sons was not as it was intended . . . and we drove two hours to spend too much money to be treated terribly !,restaurant general ~ negative ~~ service general ~ negative ~~ restaurant prices ~ negative,ASD
+CLF#3:32,I wish I COULD be refunded !,restaurant general ~ negative,ASD
+BFC#9:0,Don ' t go with a larger group than 4 !,restaurant miscellaneous ~ negative,ASD
+BFC#9:4,"At first we were a little taken aback , as this seemed to present a problem , although the restaurant looked fairly empty , but they hastily put the table together for us .",service general ~ positive,ASD
+BFC#9:5,The menu is fairly simple without much descriptions .,food style_options ~ neutral,ASD
+BFC#9:6,"There was no tap beer that evening , which was a disappointment .",drinks style_options ~ negative,ASD
+BFC#9:7,"Not much of a selection of bottled beer either , we went with Brahma .",drinks style_options ~ negative,ASD
+BFC#9:8,The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion ( maybe 3 of each ) .,service general ~ positive ~~ food quality ~ positive ~~ food style_options ~ negative,ASD
+BFC#9:9,"The lobster knuckles ( special of the day ) were ok , but pretty tasteless .",food quality ~ negative ~~ food style_options ~ neutral,ASD
+BFC#9:10,"I believe there were 2 shrimp in the "" salt encrusted shrimp "" appetizer .",food style_options ~ negative,ASD
+BFC#9:14,"She replied "" well it would be more convenient for us if you ordered now , since you are a larger party , and it might get crowded . """,service general ~ negative,ASD
+BFC#9:16,The food arrived in about 15 minutes .,service general ~ neutral,ASD
+BFC#9:17,I had the Thai style Fried Sea Bass . . . which was very good .,food quality ~ positive,ASD
+BFC#9:18,"Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !",food quality ~ positive ~~ food quality ~ negative ~~ food style_options ~ negative,ASD
+BFC#9:19,I heard the lobster roll was excellent .,food quality ~ positive,ASD
+BFC#9:20,"They seemed to continue to rush us along , taking plates without asking if we were done ( my sister still had her fork in hand ) .",service general ~ negative,ASD
+BFC#9:21,"All in all the food was good - a little on the expensive side , but fresh .",food quality ~ positive ~~ food prices ~ negative,ASD
+BFC#9:22,"Service not the friendliest to our "" large party "" !",service general ~ negative,ASD
+BFC#9:23,Probably would not go back here .,restaurant general ~ negative,ASD
+BG#5:0,Great Indian food,food quality ~ positive,ASD
+BG#5:2,"Food was amazing - I love Indian food and eat it quite regularly , but I can say this is one of the best I ' ve had .",food quality ~ positive,ASD
+BG#5:3,"Very "" normal Indian food "" , but done really well .",food quality ~ positive ~~ food style_options ~ neutral,ASD
+BG#5:4,"I have it a 4 instead of 5 because of the price ( just chicken tikka masala - no bread of rice - is $ 25 ) , which I would expect at a upscale Indian restaurant but this place doesn ' t have an upscale feel .",restaurant general ~ positive ~~ restaurant prices ~ negative ~~ ambience general ~ negative ~~ food prices ~ negative,ASD
+BG#5:5,"Also , waiters try to push more food on you , like suggest things as if they are complimentary when they actually cost $ .",service general ~ negative,ASD
+BG#5:6,I don ' t appreciate places or people that try to drive up the bill without the patron ' s knowledge so that was a huge turnoff ( more than the price ) .,service general ~ negative ~~ restaurant prices ~ negative,ASD
+BG#5:7,"But if you ' re prepared to spend some $ and remember to ask if something they offer is complimentary , then this is the place to go for Indian food",food quality ~ positive ~~ restaurant prices ~ negative,ASD
+BG#8:0,One of the BEST,restaurant general ~ positive,ASD
+BG#8:1,"Bukhara Grill , the tagline says it all . . "" INDIAN SPICE RAVE """,restaurant general ~ positive,ASD
+BG#8:3,The lunch buffet is expensive but is deff worth it .,food quality ~ positive ~~ food prices ~ negative,ASD
+BG#8:5,We have gone for dinner only a few times but the same great quality and service is given .,service general ~ positive ~~ food quality ~ positive,ASD
+BG#8:6,Bukhara is on my top 5 Indian places in NYC,restaurant general ~ positive,ASD
+DBG#2:0,Wretched and retching,restaurant general ~ negative,ASD
+DBG#2:3,I have never been so disgusted by both food an service .,service general ~ negative ~~ food quality ~ negative,ASD
+DBG#2:4,For starters they delivered us someone else ' s order .,service general ~ negative,ASD
+DBG#2:6,"However , once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair , ( sometimes you have to settle when it ' s your only option ) , I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting , slimy , clearly bad piece of fish skin .",food quality ~ negative ~~ food quality ~ negative,ASD
+DBG#2:8,"My main concern was the sanity of the food that was being sent out to myself and others , but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation .",service general ~ negative ~~ food quality ~ negative,ASD
+DBG#2:9,None was made so i hung up .,service general ~ negative,ASD
+DBG#2:10,Less than three minutes passed before I found myself doubled over the toilet .,food quality ~ negative,ASD
+DBG#2:11,"My girlfriend , being slightly more aggressive , and having been equally disgusted causing her to throw out the remainder of her barely eaten meal , called back only to be informed that I was probably wrong and that it was most likely an oyster , and that we were also blacklisted from their restaurant .",service general ~ negative ~~ food quality ~ negative,ASD
+DBG#2:14,"It wasn ' t as if this restaurant had any major bragging points before hand , but now it ' s simply repulsive .",restaurant general ~ negative,ASD
+DBG#2:15,Eat at your own risk .,food quality ~ negative,ASD
+CLF#7:0,Gorgeous place ideal for a romantic dinner,ambience general ~ positive ~~ restaurant miscellaneous ~ positive,ASD
+CLF#7:2,I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot .,food quality ~ positive ~~ ambience general ~ positive,ASD
+CLF#7:3,The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing !,service general ~ positive ~~ service general ~ positive,ASD
+CLF#7:4,I completely recommend Casa La Femme for any special occasion and to REALLY impress your date .,restaurant miscellaneous ~ positive,ASD
+DBG#7:0,More Williamsburg Garbage,restaurant general ~ negative,ASD
+DBG#7:3,The dishes came out around 5 minutes apart .,service general ~ negative,ASD
+DBG#7:4,"The bibimbap was average , but the stone bowl wasn ' t even close to sizzling .",food quality ~ negative ~~ food quality ~ neutral,ASD
+DBG#7:5,Too bad I had paid an extra $ 2 for the stone bowl .,food prices ~ negative,ASD
+DBG#7:6,The nakgi - bokum was horrible .,food quality ~ negative,ASD
+DBG#7:7,Easily the worst stir - fried squid I ' ve ever tasted .,food quality ~ negative,ASD
+DBG#7:8,The sauce tasted more like Chinese fast food than decent Korean .,food quality ~ negative,ASD
+DBG#7:9,"The side dishes were passable , and I did get a refill upon request .",food quality ~ neutral ~~ food style_options ~ positive,ASD
+DBG#7:10,The real problem I had with this place was the complete lack of service .,service general ~ negative,ASD
+DBG#7:12,She just nodded and walked off .,service general ~ negative,ASD
+DBG#7:14,"As to my comment about the food , no apology or acknowledgment was made .",service general ~ negative,ASD
+DBG#7:15,My wife had barely touched that mess of a dish .,food quality ~ negative,ASD
+DBG#7:16,We were charged full price .,service general ~ negative,ASD
+ADLT#9:0,Lives up to the hype,restaurant general ~ positive,ASD
+ADLT#9:2,We ' ve tried before but it always packed and doesn ' t take reservations .,restaurant miscellaneous ~ neutral,ASD
+ADLT#9:3,It was well worth the wait .,restaurant general ~ positive,ASD
+ADLT#9:4,The wife had the risotto which was amazing .,food quality ~ positive,ASD
+ADLT#9:5,"It doesn ' t look appetizing as it ' s covered in squid ink and it turns your lips and teeth black , but the taste was phenomenal .",food quality ~ positive ~~ food style_options ~ negative,ASD
+ADLT#9:6,The farro salad and the mashed yukon potatoes were also extremely tasty .,food quality ~ positive ~~ food quality ~ positive,ASD
+EVPK#4:0,i love margherita pizza – i looove east village pizza,restaurant general ~ positive ~~ food quality ~ positive,ASD
+EVPK#4:1,"Love this place , every time we are in the city this is one of the places we always go .",restaurant general ~ positive,ASD
+EVPK#4:2,A quintessential slice of NYC pizza .,food quality ~ neutral,ASD
+EVPK#4:3,"The crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .",food quality ~ positive ~~ food quality ~ positive ~~ food quality ~ positive,ASD
+EVPK#4:4,"Personally I like the margherita pizza better , but they are all good .",food quality ~ positive,ASD
+Z#6:0,Possibly the Most Romantic Restaurant in the City,ambience general ~ positive,ASD
+Z#6:1,"This is undoubtedly my favorite modern Japanese brasserie ( that don ’ t serve sushi ) , and in my opinion , one of the most romantic restaurants in the city !",restaurant general ~ positive ~~ ambience general ~ positive,ASD
+Z#6:2,"Not only is it an adventure getting to this somewhat hidden spot , once you enter the unmarked wooden doors , the zen and intimate décor will make you feel like you ’ re no longer in the city .",ambience general ~ positive ~~ ambience general ~ positive ~~ location general ~ neutral,ASD
+Z#6:3,"If you ’ re planning to come here , make sure that your date is someone whom you really like since you ’ ll be ushered to private booths where there will be no people or food watching ( choose the ones on the ground level that have glass ceilings so you may see the stars in the sky ! ) .",ambience general ~ positive ~~ ambience general ~ positive,ASD
+Z#6:4,It ’ s just you and your date and an occasional cute ‘ excuse me ’ before the waiter opens the little curtain to your booth !,service general ~ positive ~~ ambience general ~ positive,ASD
+Z#6:5,"My party had the BBE $ 29 fixe prix menu , which was such a wonderful deal since it also came with a flight of sake !",food style_options ~ positive ~~ food prices ~ positive,ASD
+Z#6:7,We started off with a delightful sashimi amuse bouche .,food quality ~ positive,ASD
+Z#6:9,"I picked the Grilled Black Cod as my entree , which I absolutely devoured while someone commented that the Grilled Salmon dish was better .",food quality ~ positive ~~ food quality ~ positive,ASD
+Z#6:10,The entrees were served with miso soup and rice .,food style_options ~ neutral,ASD
+Z#6:11,The sake ’ s complimented the courses very well and is successfully easing me into the sake world .,drinks quality ~ positive,ASD
+Z#6:12,"For desserts , we tried the frozen black sesame mousse ( interesting but not extraordinary ) and matcha ( powdered green tea ) and blueberry cheesecake , which was phenomenal .",food quality ~ positive ~~ food quality ~ neutral,ASD
+Z#6:13,"Maybe it was the great company ( I had friends visiting from Philly – yes , it was not a date this time ) or the super reasonable price point , but I just can ’ t say enough good things about this brasserie .",restaurant general ~ positive ~~ restaurant prices ~ positive,ASD
+Z#6:14,"I don ’ t usually visit the same establishment more than once , what more twice , but I ’ ll come to Zenkichi anytime for a quiet , unhurried and memorable dinner .",restaurant general ~ positive ~~ ambience general ~ positive,ASD
+CLF#6:0,Terrible would be a compliment !,restaurant general ~ negative,ASD
+CLF#6:1,"The service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night .",service general ~ negative,ASD
+CLF#6:3,We paid a fixed pricce but got nothing ! !,service general ~ negative,ASD
+CLF#6:4,We never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating .,service general ~ negative,ASD
+CLF#6:5,"They are extremely rude , not even apologizing for the horrible service we got and handing us a bill well over $ 500 for some drinks adn their pita bread !",service general ~ negative ~~ drinks prices ~ negative ~~ food prices ~ negative,ASD
+CLF#6:6,Stay away,restaurant general ~ negative,ASD
+DBG#6:0,Great Shabu Shabu,food quality ~ positive,ASD
+DBG#6:2,I love it .,restaurant general ~ positive,ASD
+DBG#6:4,I tried a couple other dishes but wasn ' t too impressed .,food quality ~ neutral,ASD
+DBG#6:5,"But for the Shabu Shabu , you won ' t find much better in NY .",food quality ~ positive,ASD
+DBG#6:7,"The meat is fresh , the sauces are great , you get kimchi and a salad free with your meal and service is good too .",service general ~ positive ~~ food quality ~ positive ~~ food quality ~ positive ~~ food style_options ~ positive ~~ food prices ~ positive ~~ food prices ~ positive,ASD
+DBG#1:0,Dokebi gives Williamsburg the right one - two punch of classic Korean food and fusion twists like pork belly tacos .,food quality ~ positive ~~ food quality ~ positive ~~ food quality ~ positive,ASD
+BHD#1:0,"The hot dogs are good , yes , but the reason to get over here is the fantastic pork croquette sandwich , perfect on its supermarket squishy bun .",food quality ~ positive ~~ food quality ~ positive ~~ food quality ~ positive,ASD
+TR#5:0,Restaurant with a view,location general ~ neutral,ASD
+TR#5:2,The food tasted very good .,food quality ~ positive,ASD
+TR#5:3,The family seafood entree was very good .,food quality ~ positive,ASD
+TR#5:4,The main entree was also very good .,food quality ~ positive,ASD
+TR#5:6,"Price is high but the food is good , so I would come back again .",restaurant general ~ positive ~~ food quality ~ positive ~~ food prices ~ negative,ASD
+Z#7:0,This place doesn ' t make any sense,restaurant general ~ negative,ASD
+Z#7:1,Just want to warn you all - don ' t waste your time and money .,restaurant general ~ negative,ASD
+Z#7:2,"This place has totally weird decor , stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional . . .",ambience general ~ negative ~~ ambience general ~ negative,ASD
+Z#7:3,This place is not inviting and the food is totally weird .,food quality ~ negative ~~ ambience general ~ negative,ASD
+Z#7:4,The concept of japanese tapas is newly created and clearly doesn ' t work .,food style_options ~ negative,ASD
+Z#7:5,"The food they serve is not comforting , not appetizing and uncooked .",food quality ~ negative,ASD
+Z#10:0,Good Food,food quality ~ positive,ASD
+Z#10:2,"The food was great and tasty , but the sitting space was too small , I don ' t like being cramp in a corner .",food quality ~ positive ~~ ambience general ~ negative,ASD
+Z#10:3,Over all it was a very nice romantic place .,restaurant general ~ positive ~~ ambience general ~ positive,ASD
+P#7:0,Loved it,restaurant general ~ positive,ASD
+P#7:1,A coworker and I tried Pacifico after work a few Fridays and loved it .,restaurant general ~ positive,ASD
+P#7:2,The atmosphere was great .,ambience general ~ positive,ASD
+P#7:3,"The food we ordered was excellent , although I wouldn ' t say the margaritas were anything to write home about .",food quality ~ positive ~~ drinks quality ~ neutral,ASD
+P#7:4,"Our waitress wasn ' t mean , but not especially warm or attentive either .",service general ~ neutral,ASD
+P#7:5,"I must say I am surprised by the bad reviews of the restaurant earlier in the year , though .",restaurant general ~ positive,ASD
+P#7:7,"Regardless , we ' ll be back and can ' t wait to visit in the summer to take advantage of the patio .",restaurant general ~ positive ~~ ambience general ~ positive,ASD
+FF#4:0,Dumbfoundingly Poor,restaurant general ~ negative,ASD
+FF#4:1,"This was , from start to finish , a mind - bogglingly uncomfortable experience .",restaurant general ~ negative,ASD
+FF#4:2,Lexicographers take note : a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn .,service general ~ negative,ASD
+FF#4:3,The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention .,service general ~ negative,ASD
+FF#4:4,Polite acknowledgement is out ;,service general ~ negative,ASD
+FF#4:5,supercilious scorn is in .,service general ~ negative,ASD
+FF#4:6,"And how many times can you pick up the same perfectly aligned set of napkins , inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent ?",service general ~ negative,ASD
+FF#4:7,"A different server enhanced the fun , dumping our entrees in front of us halfway through our appetizer ( which was delicious ) .",service general ~ negative ~~ food quality ~ positive,ASD
+FF#4:8,"Overall the food quality was pretty good , though I hear the salmon is much better when it hasn ' t sat cooling in front of the guest .",service general ~ negative ~~ food quality ~ positive,ASD
+FF#4:9,"The place has a nice fit - out , some attractive furnishings and , from what I could tell , a reasonable wine list ( I was given the food menu when I asked for the carte des vins )",service general ~ negative ~~ drinks style_options ~ positive ~~ ambience general ~ positive ~~ ambience general ~ positive,ASD
+FF#4:10,"At $ 120 for two people , however , this in no way represents value , unless you ' re looking to pay by the hour for passive - aggressive torture .",restaurant general ~ negative ~~ service general ~ negative ~~ restaurant prices ~ negative,ASD
+FF#4:11,"On that scale , it ' s a world - beater .",restaurant general ~ negative,ASD
+FF#3:0,How is this palce still open ?,restaurant general ~ negative,ASD
+FF#3:1,I honestly don ' t even know where to begin .,restaurant general ~ negative,ASD
+FF#3:3,"We arrived and were seated immediately , which made us both happy .",service general ~ positive,ASD
+FF#3:5,Everything was going good until we got our meals .,restaurant general ~ positive ~~ food quality ~ negative,ASD
+FF#3:6,I took one look at the chicken and I was appalled .,food style_options ~ negative,ASD
+FF#3:7,"It was served with skin , over a bed of extremely undercooked spinach and mashed potatoes .",food quality ~ negative ~~ food style_options ~ negative,ASD
+FF#3:9,"I took one bite from the $ 24 salmon , and I have never , in the 17 years I have been going to restaurants tasted salmon as fishy , as dry , and as bland as the one in Flatbush Farms .",food quality ~ negative ~~ food prices ~ negative,ASD
+FF#3:10,"At this point , the waitress comes over and asks us if everything was okay , I was literally so shocked that I was speechless and didn ' t say anything , and guess what , the waitress WALKED away .",service general ~ negative,ASD
+FF#3:11,"So , I switch with my boyfriend again to see if maybe I could stomach the meat and spinach again , but the spinach was so undercooked that I just could not bite through it .",food quality ~ negative,ASD
+FF#3:12,I couldn ' t even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach .,food style_options ~ negative,ASD
+FF#3:14,So I decide to report back to the waitress because it was completely inedible .,food quality ~ negative,ASD
+FF#3:15,"Guess what , I waited for TWENTY minutes before she came over and when she finally did , she says , "" oh well , I wish you would have said something earlier "" No apology , nothing .",service general ~ negative,ASD
+FF#3:16,"After that she simply took our plates , walked away , came back another TWENTY minutes later with the bill and the chicken on it ! ! ! ! ! ! ! ! ! ! ! !",service general ~ negative,ASD
+FF#3:17,"No desert menu , no apology , nothing ! ! ! ! ! !",service general ~ negative,ASD
+FF#3:19,"This is where it really really gets bad : the manager said , there is absolutely nothing we can do , it ' s a matter of taste that she didn ' t like it , and I cannot comp it .",service general ~ negative,ASD
+FF#3:20,"Again , no apology , no is there anything else I can get you , no can I get you a drink to make up for it , nothing ! ! ! !",service general ~ negative,ASD
+FF#3:22,The level of rudeness was preposterous .,service general ~ negative,ASD
+FF#3:23,"The manager came to the table and said we can do what we want , so we paid for what we did enjoy , the drinks and appetizers , and walked out .",service general ~ negative ~~ food quality ~ positive ~~ drinks quality ~ positive,ASD
+FF#3:24,I HAVE NEVER EVER HAD SUCH AN UNPLEASANT EXPERIENCE .,restaurant general ~ negative,ASD
+FF#3:25,THIS STAFF SHOULD BE FIRED .,service general ~ negative,ASD
+EVPK#9:0,cirspy crust margherita pizza,food quality ~ positive,ASD
+EVPK#9:2,it was really good pizza .,food quality ~ positive,ASD
+EVPK#9:3,the crust was imazingly cooked well and pizza was fully loaded : ) : ) : ),food quality ~ positive ~~ food style_options ~ positive,ASD
+EVPK#9:4,you know what i mean all the positives things happening there made mw write this review .,restaurant general ~ positive,ASD
+CLF#4:0,Single Worst Restaurant in Manhattan,restaurant general ~ negative,ASD
+CLF#4:1,"I ' ll being with a couple of positives : cool decor , good pita and hummus , and grilled octopus that was actually pretty tasty .",food quality ~ positive ~~ food quality ~ positive ~~ food quality ~ positive ~~ ambience general ~ positive,ASD
+CLF#4:3,If I could give 0 stars I would do so for this place .,restaurant general ~ negative,ASD
+CLF#4:5,The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews .,restaurant miscellaneous ~ negative,ASD
+CLF#4:6,Well . . . they can run but they can ' t hide .,restaurant general ~ negative,ASD
+CLF#4:10,This place . . . god where do i begin .,restaurant general ~ negative,ASD
+CLF#4:11,It is quite a spectacular scene i ' ll give them that .,ambience general ~ positive,ASD
+CLF#4:12,The decor however seems to be the distraction so you won ' t notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME ! ! ! !,service general ~ negative ~~ food quality ~ negative ~~ ambience general ~ neutral ~~ food prices ~ negative,ASD
+CLF#4:13,"How this place survives the competitive west village market in this economy , or any other for that matter , is beyond me .",restaurant general ~ negative,ASD
+BHD#4:0,Great Hot Dogs !,food quality ~ positive,ASD
+BHD#4:2,"Though it ' s been crowded most times I ' ve gone here , Bark always delivers on their food .",food quality ~ positive ~~ restaurant miscellaneous ~ neutral,ASD
+BHD#4:3,"The hot dogs are top notch , and they ' re Slamwich is amazing !",food quality ~ positive ~~ food quality ~ positive,ASD
+BHD#4:4,"Going to Bark is always worth the train ride , and will make your tongue and belly very happy !",restaurant general ~ positive ~~ food quality ~ positive,ASD
+BHD#4:5,Only complaint is the pricing - - I believe it would be more reasonable to pay a dollar less on each item listed on the menu .,food prices ~ negative,ASD
+BHD#4:6,"But nonetheless - - great spot , great food .",restaurant general ~ positive ~~ food quality ~ positive,ASD
+BFC#7:0,Fabulous food - if the front of house staff don ' t put you off –,service general ~ negative ~~ food quality ~ positive,ASD
+BFC#7:2,"It ' s a little out of our price range for dining there except on special occasions , but we ' ve eaten there 6 times in the last 2 years .",restaurant prices ~ negative,ASD
+BFC#7:3,"Each time we ' ve been , the front of house staff ( not the waiters - they ' re fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes I would never return .",service general ~ positive ~~ service general ~ negative ~~ food quality ~ positive,ASD
+BFC#7:4,"As BFC doesn ' t take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated , which can be over an hour later !",service general ~ negative ~~ restaurant miscellaneous ~ negative,ASD
+BFC#7:5,The frizzy retro girl ( with winged / Dame Edna glasses ) will yell at you if you try to order a drink .,service general ~ negative,ASD
+BFC#7:6,"I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she "" had a BBQ to go to "" that night - WTF ? ?",service general ~ negative,ASD
+BFC#7:7,I ' d be horrified if my staff were turning away customers so early and so rudely !,service general ~ negative,ASD
+BFC#7:8,"There ' s another girl who I can ' t describe , she is about 5 ' 6 "" with brown hair , who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said , so her uninvited opinions are often out of context and nothing to do with what you ' re * really * talking about .",service general ~ negative,ASD
+BFC#7:9,"I ' m a friendly person , so I wouldn ' t mind had she not been so nasty and gotten so personal .",service general ~ negative,ASD
+BFC#7:10,"Again , I ' d be super upset if that were my employee .",service general ~ negative,ASD
+BFC#7:11,"Considering you will spend at least $ 60 a head , I expect better service .",service general ~ negative ~~ restaurant prices ~ negative,ASD
+BFC#7:12,"So , if you ' re walking by and thinking about dining , you might want to see who ' s going to be seating you first . . .",service general ~ negative,ASD
+ADLT#6:0,"Maitre - D - "" Eat and get out """,service general ~ negative,ASD
+ADLT#6:2,"The food and service were fine , however the maitre - D was incredibly unwelcoming and arrogant .",service general ~ positive ~~ service general ~ negative ~~ food quality ~ positive,ASD
+ADLT#6:3,"While finishing our meals which included a high - end bottle of wine , our son ' s fiance joined us for a glass of wine and dessert .",drinks quality ~ positive,ASD
+ADLT#6:4,"This guy refused to seat her and she left , followed shortly by the four of us , but not before I told him that in my 40 years of world travel , including Paris , that I had never seen such a display of bad behavior by a frontman in a restaurant .",service general ~ negative,ASD
+ADLT#6:5,"His response was smug , arrogant , and condescending , totally consistent with his deportment on display all evening .",service general ~ negative,ASD
+ADLT#6:6,"A word to the wise : you can ' t dine here and disturb the maitre - D ' s sense of "" table turnover "" , as whacked as it is , or else .",service general ~ negative,ASD
+ADLT#6:7,"If you go here , do it on his off - night .",service general ~ negative,ASD
+NP#9:0,Best meal in a long time !,food quality ~ positive,ASD
+NP#9:1,Mussles and calamari were superb Saturday evening .,food quality ~ positive ~~ food quality ~ positive,ASD
+NP#9:2,I had the Lamb special which was perfect .,food quality ~ positive,ASD
+NP#9:3,"My father had the flank steak which was very good , and my mother had the swordfish .",food quality ~ positive,ASD
+TFS#2:0,The Four Seasons restaurant is a great experience .,restaurant general ~ positive,ASD
+TFS#2:1,The food is great and the environment is even better .,food quality ~ positive ~~ ambience general ~ positive,ASD
+TFS#2:2,Everyone must come here at least once .,restaurant general ~ positive,ASD
+TFS#2:3,Highly recommend it !,restaurant general ~ positive,ASD
+BHD#8:0,Taking Hot Dogs to the next level,food quality ~ positive,ASD
+BHD#8:1,"At first glance this place seems a bit pricey for a hot dog joint , but at Bark you don ' t just get your average hot dog .",food quality ~ positive ~~ restaurant prices ~ negative,ASD
+BHD#8:2,Here the hot dog is elevated to the level of a real entree with numerous variations available .,food quality ~ positive ~~ food style_options ~ positive,ASD
+P#3:0,Great Atmosphere,ambience general ~ positive,ASD
+P#3:2,"I highly recommend the fish tacos , everything else was ok .",food quality ~ positive ~~ food quality ~ neutral,ASD
+P#3:3,"Cool atmosphere , the fire place in the back really ads to it but needs a bit more heat throughout on a cold night .",ambience general ~ positive ~~ ambience general ~ positive ~~ ambience general ~ negative,ASD
+CLF#8:0,Poor service and management,service general ~ negative ~~ service general ~ negative,ASD
+CLF#8:1,Don ’ t go to this place !,restaurant general ~ negative,ASD
+CLF#8:2,Had an awful experience at Casa la Femme on a Saturday dinner .,restaurant general ~ negative,ASD
+CLF#8:3,Appetizers took nearly an hour .,service general ~ negative,ASD
+CLF#8:4,When the main course finally arrived ( another 45mins ) half of our order was missing .,service general ~ negative,ASD
+CLF#8:5,Never got an explanation as to what was going on .,service general ~ negative,ASD
+CLF#8:6,The manager was rude and handled the situation extremely poorly .,service general ~ negative,ASD
+CLF#8:7,"When we threatened to leave , we were offered a meager discount even though half the order was missing .",service general ~ negative,ASD
+CLF#8:8,"On the way out , we heard of other guests complaining about similar issues .",service general ~ negative,ASD
+CLF#8:9,Can ’ t believe how an expensive NYC restaurant can be so disrespectful to its clients .,service general ~ negative ~~ restaurant prices ~ negative,ASD
+ADLT#11:0,What a hassle !,restaurant general ~ negative,ASD
+ADLT#11:1,"The food is very good , but not outstanding .",food quality ~ neutral,ASD
+ADLT#11:2,"There is no way it justifies the accolades it receives , the attitude of the staff or the wait for a table .",service general ~ negative ~~ service general ~ negative ~~ food quality ~ negative,ASD
+ADLT#11:3,"On our last visit , they skipped over our name on the list , leaving us waiting an extra hour for a table .",service general ~ negative,ASD
+ADLT#11:4,"Mistakes happen , but they are usually accompanied by an apology , perhaps even a glass of wine . . . but not the grunt that we received from the Al Di La staff .",service general ~ negative,ASD
+WE#1:0,Expensive,restaurant prices ~ negative,ASD
+WE#1:3,"The bread was stale , the salad was overpriced and empty .",food quality ~ negative ~~ food style_options ~ negative ~~ food prices ~ negative,ASD
+WE#1:4,"The pasta was well cooked , didn ' t have enough sauce though or flavor .",food quality ~ positive ~~ food quality ~ negative ~~ food style_options ~ negative,ASD
+FF#6:0,So rude ! ! !,service general ~ negative,ASD
+FF#6:3,I was one of the people that went for this horrible experience .,restaurant general ~ negative,ASD
+FF#6:5,The hostess was rude and I got a distinct feeling that they did not want to serve us .,service general ~ negative,ASD
+FF#6:6,The only thing that my friend left out is that when we sat down at the bar the bartender disappeared .,service general ~ negative,ASD
+FF#6:7,I asked for a menu and the same waitress looked at my like I was insane .,service general ~ negative,ASD
+FF#6:8,"I was shocked that my friends wanted to stay after the waitress said , "" can I help you "" and "" how many are in your party . """,service general ~ negative,ASD
+FF#6:10,The three of us standing in front of her should have been an indication of how many of us there were .,service general ~ negative,ASD
+FF#6:11,We didn ' t look like the other patrons in there so unfortunately I think that may have been part of the problem .,restaurant miscellaneous ~ negative,ASD
+FF#6:12,Shame on this place for the horrible rude staff and non - existent customer service .,service general ~ negative ~~ service general ~ negative,ASD
+FF#10:0,bad staff,service general ~ negative,ASD
+FF#10:1,I generally like this place .,restaurant general ~ positive,ASD
+FF#10:2,The food is good .,food quality ~ positive,ASD
+FF#10:3,The design of the space is good .,ambience general ~ positive,ASD
+FF#10:4,But the service is HORRID !,service general ~ negative,ASD
+FF#10:5,"I was there for brunch recently , and we were tag teamed by a waitress and a waiter .",service general ~ negative ~~ service general ~ negative,ASD
+FF#10:6,The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand .,service general ~ negative,ASD
+FF#10:7,"I can ' t believe that it was , but please put the bag down before delivering food !",service general ~ negative,ASD
+FF#10:8,"The waitress came to check in on us every few minutes , and began to clear the plates while half of us were still eating ( a big pet peeve of mine that happens almost everywhere , so I try to ignore it ) .",service general ~ negative,ASD
+FF#10:9,"I couldn ' t ignore the fact that she reach over the plate of one of my friends , who was in mid bite , to clear the table .",service general ~ negative,ASD
+FF#10:10,"She then put the check down without asking if we were done , and came to check on the bill every two minutes , even though we were one of three occupied tables .",service general ~ negative,ASD

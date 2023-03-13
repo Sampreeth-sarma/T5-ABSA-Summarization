@@ -1,0 +1,1120 @@
+input_text_ids,input_text,target_text,prefix
+1004293:0,"Judging from previous posts this used to be a good place , but not any longer .",restaurant general,AD
+1004293:1,"We , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude .",service general,AD
+1004293:2,"They never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table .",service general,AD
+1004293:3,The food was lousy - too sweet or too salty and the portions tiny .,food quality ~~ food style_options,AD
+1004293:4,"After all that , they complained to me about the small tip .",service general,AD
+1004293:5,Avoid this place !,restaurant general,AD
+1014458:0,"I have eaten at Saul , many times , the food is always consistently , outrageously good .",food quality,AD
+1014458:1,Saul is the best restaurant on Smith Street and in Brooklyn .,restaurant general,AD
+1014458:2,The duck confit is always amazing and the foie gras terrine with figs was out of this world .,food quality ~~ food quality,AD
+1014458:3,The wine list is interesting and has many good values .,drinks style_options ~~ drinks prices,AD
+1014458:4,"For the price , you cannot eat this well in Manhattan .",food quality ~~ restaurant prices,AD
+1016296:0,I was very disappointed with this restaurant .,restaurant general,AD
+1016296:1,Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away .,service general,AD
+1016296:2,I had to ask her three times before she finally came back with the dish Ive requested .,service general,AD
+1016296:3,"Food was okay , nothing great .",food quality,AD
+1016296:4,Chow fun was dry ; pork shu mai was more than usually greasy and had to share a table with loud and rude family .,food quality ~~ food quality ~~ ambience general,AD
+1016296:5,I / we will never go back to this place again .,restaurant general,AD
+1028246:0,"Went on a 3 day oyster binge , with Fish bringing up the closing , and I am so glad this was the place it O trip ended , because it was so great !",restaurant general,AD
+1028246:1,"Service was devine , oysters where a sensual as they come , and the price can ' t be beat ! ! !",service general ~~ food quality ~~ restaurant prices,AD
+1028246:2,You can ' t go wrong here .,restaurant general,AD
+1032695:0,Every time in New York I make it a point to visit Restaurant Saul on Smith Street .,restaurant general,AD
+1032695:1,"Everything is always cooked to perfection , the service is excellent , the decor cool and understated .",service general ~~ food quality ~~ ambience general,AD
+1032695:2,I had the duck breast special on my last visit and it was incredible .,food quality,AD
+1032695:3,Can ' t wait wait for my next visit .,restaurant general,AD
+1041457:1,And I hate to say this but I doubt I ' ll ever go back .,restaurant general,AD
+1041457:2,"The food is very average . . . the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",food quality ~~ food quality,AD
+1041457:3,The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree .,food quality,AD
+1041457:4,I had never had Edamame pureed before but I thought it was innovative and tasty ( could ' ve used a bit more salt ) .,food quality ~~ food style_options,AD
+1041457:6,"The decor is night tho . . . but they REALLY need to clean that vent in the ceiling . . . its quite un - appetizing , and kills your effort to make this place look sleek and modern .",ambience general ~~ ambience general ~~ ambience general,AD
+1053543:2,"Their sake list was extensive , but we were looking for Purple Haze , which wasn ' t listed but made for us upon request !",service general ~~ drinks style_options,AD
+1053543:3,"The spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !",food quality ~~ food quality,AD
+1053543:4,We went around 9 : 30 on a Friday and it had died down a bit by then so the service was great !,service general,AD
+1055910:0,we love th pink pony .,restaurant general,AD
+1055910:1,THe perfect spot .,restaurant general,AD
+1055910:2,Food - awesome .,food quality,AD
+1055910:3,Service - friendly and attentive .,service general,AD
+1055910:4,Ambiance - relaxed and stylish .,ambience general,AD
+1055910:5,"Don ' t judge this place prima facie , you have to try it to believe it , a home away from home for the literate heart .",restaurant general,AD
+1058221:2,the food is decent .,food quality,AD
+1058221:3,"however , it ' s the service that leaves a bad taste in my mouth .",service general,AD
+1058221:4,"i happen to have a policy that goes along with a little bit of self - respect , which includes not letting a waiter intimidate me , i . e . make me feel bad asking for trivialities like water , or the check .",service general,AD
+1058221:5,"i know , you were too busy showing off your vintage tee shirt and looking bored , but my agenda is i ' m here to eat and enjoy the company of friends , seeking a pleasant experience .",service general,AD
+1058221:6,"well , i didn ' t find it there , and trust , i have told everyone i can think of about my experience .",restaurant general,AD
+1058221:7,the last time i walked by it looked pretty empty . hmmm .,restaurant miscellaneous,AD
+1062641:0,This place has got to be the best japanese restaurant in the new york area .,restaurant general,AD
+1062641:1,I had a great experience .,restaurant general,AD
+1062641:2,Food is great .,food quality,AD
+1062641:3,Service is top notch .,service general,AD
+1062641:4,I have been going back again and again .,restaurant general,AD
+1064477:0,"I tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .",food quality,AD
+1064477:1,"It melted in my little mouth and the perfect consistency - not too fishy , creamy , and slightly buttery .",food quality,AD
+1064477:2,The sushi seemed pretty fresh and was adequately proportioned .,food quality ~~ food style_options,AD
+1064477:3,The rice to fish ration was also good - - they didn ' t try to overpack the rice .,food style_options,AD
+1064477:4,We took advanatage of the half price sushi deal on saturday so it was well worth it .,food quality,AD
+1074868:2,Surprisingly nothing could be further from the truth .,restaurant miscellaneous,AD
+1074868:3,"In the evening , this place attracted a well dressed , with it , NY crowd .",restaurant miscellaneous,AD
+1074868:4,The food was well prepared and the service impecable .,service general ~~ food quality,AD
+1074868:5,I ' m going back .,restaurant general,AD
+1084394:1,Quite simply it ' s like stepping out of Manhattan and into a haven of tranquility .,ambience general,AD
+1084394:3,The Prix Fixe menu is worth every penny and you get more than enough ( both in quantity AND quality ) .,food quality ~~ food style_options ~~ food prices,AD
+1084394:4,I will be going back and heartily recommend it !,restaurant general,AD
+1086415:1,"It is terrific , as is the value .",food quality ~~ food prices,AD
+1086415:2,"$ 6 and there is much tasty food , all of it fresh and continually refilled .",food quality ~~ food style_options ~~ food prices,AD
+1086415:3,"I am not a vegetarian but , almost all the dishes were great .",food quality,AD
+1086415:5,Go hungry and enjoy .,restaurant general,AD
+1086478:0,"The food here is rather good , but only if you like to wait for it .",service general ~~ food quality,AD
+1086478:1,"I like the somosas , chai , and the chole , but the dhosas and dhal were kinda dissapointing .",food quality ~~ food quality ~~ food quality ~~ food quality ~~ food quality,AD
+1086478:2,"The service varys from day to day - sometimes they ' re very nice , and sometimes not .",service general,AD
+1086478:3,"The kitchen however , is almost always slow .",service general,AD
+1086478:4,"Also , specify if you like your food spicy - its rather bland if you don ' t .",food quality,AD
+1086478:5,"The ambience is pretty and nice for conversation , so a casual lunch here would probably be best .",ambience general ~~ restaurant miscellaneous,AD
+1090587:1,If you ' ve ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer .,location general,AD
+1090587:2,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening .,service general ~~ food quality ~~ food prices,AD
+1090587:3,The lava cake dessert was incredible and I recommend it .,food quality,AD
+1102681:0,"Once you step into Cosette , you ' re miraculously in a small , off - the - beaten path Parisian bistro .",ambience general,AD
+1102681:1,"This tiny restaurant is as cozy as it gets , with that certain Parisian flair .",ambience general,AD
+1102681:2,"The food was average to above - average ; the French Onion soup filling yet not overly impressive , and the desserts not brilliant in any way .",food quality ~~ food quality ~~ food quality ~~ food style_options,AD
+1102681:3,"However , go for the ambience , and consider the food just a companion for a trip across the world !",food quality ~~ ambience general,AD
+1118167:1,IT WAS HORRIBLE .,restaurant general,AD
+1118167:2,The pizza was delivered cold and the cheese wasn ' t even fully melted !,food quality ~~ food quality,AD
+1118167:3,It looked like shredded cheese partly done - still in strips .,food quality,AD
+1119578:0,This has got to be one of the most overrated restaurants in Brooklyn .,restaurant general,AD
+1119578:1,The pizza is overpriced and soggy .,food quality ~~ food prices,AD
+1119578:2,"Yes , they use fancy ingredients , but even fancy ingredients don ' t make for good pizza unless someone knows how to get the crust right .",food quality ~~ food quality ~~ food quality,AD
+1119578:3,"A big disappointment , all around .",restaurant general,AD
+1123262:0,I think I ' ve had some the best meals of my life at minnow .,food quality,AD
+1123262:1,"The seafood is amazing , there ' s a good wine list , and the ever - changing menu always offers some great surprises .",food quality ~~ food style_options ~~ drinks style_options,AD
+1123262:2,The combination of super - fresh ingredients in the dishes are unusual but really delicious .,food quality,AD
+1123262:3,Worth the trip from Manhattan .,restaurant general,AD
+1125006:1,Best Pastrami I ever had and great portion without being ridiculous .,food quality ~~ food style_options,AD
+1125006:3,My wife had the fried shrimp which are huge and loved it .,food quality ~~ food style_options,AD
+1125284:0,"As a Japanese native , I ' ve lived in the Tristate area for over 8 years , but I was just so amazed at this place .",restaurant general,AD
+1125284:1,This place is the most Japanese it can ever get .,restaurant miscellaneous,AD
+1125284:2,"The signs , the specials menus , food , and even all the waitstaff are ALL TOTALLY Japanese .",service general ~~ food quality ~~ food style_options ~~ restaurant miscellaneous,AD
+1125284:3,This place is worth an one - hour drive .,restaurant general,AD
+1125284:4,"I am so coming back here again , as much as I can .",restaurant general,AD
+1126814:0,"Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",restaurant general ~~ food quality ~~ food quality ~~ ambience general ~~ ambience general,AD
+1126814:1,"My wife and I always enjoy the young , not always well trained but nevertheless friendly , staff , all of whom have a story .",service general,AD
+1126814:3,Decent wine at reasonable prices .,drinks prices ~~ drinks quality,AD
+1126814:4,Have been dozens of times and never failed to enjoy the experience .,restaurant general,AD
+1126814:5,"Our teenage kids love it , too .",restaurant general,AD
+1126886:0,"Everytime I decide to try another place on the UES , I get angry that I didn ' t just go to Zucchero Pomodori .",restaurant general,AD
+1126886:1,This is by far my favorite place in the neighborhood .,restaurant general,AD
+1126886:2,"The service is excellent , the decor is great , and the food is delicious and comes in large portions .",service general ~~ food quality ~~ food style_options ~~ ambience general,AD
+1126886:4,I ' m partial to the Gnocchi .,restaurant general,AD
+1131595:0,This place is incredibly tiny .,ambience general,AD
+1131595:1,They refuse to seat parties of 3 or more on weekends .,service general,AD
+1131595:2,The hostess is rude to the point of being offensive .,service general,AD
+1131595:3,The food was bland oily .,food quality,AD
+1131595:4,I just don ' t understand all the hype . . .,restaurant general,AD
+1138996:1,"We have been to this place many times , and always have great food , wine , and service .",service general ~~ food quality ~~ drinks quality,AD
+1138996:2,"We were worried we would have trouble getting in , but somehow managed to have a short wait .",service general,AD
+1138996:3,As always we had a great glass of wine while we waited .,drinks quality,AD
+1138996:4,"When we sat , we got great and fast service .",service general,AD
+1138996:5,The people that work there are always so friendly you forget you are in New York sometimes .,service general,AD
+1138996:6,Make sure you try this place as often as you can .,restaurant general,AD
+1145510:0,This is a fun restaurant to go to .,restaurant general,AD
+1145510:1,The pizza is yummy and I like the atmoshpere .,food quality ~~ ambience general,AD
+1145510:2,But the pizza is way to expensive .,food prices,AD
+1147082:0,I went there for lunch and it was not as good as I expected from the reviews I read .,food quality,AD
+1147082:1,Sauce was watery and the food didn ' t have much flavor .,food quality ~~ food quality,AD
+1147082:3,I don ' t think I would go again .,restaurant general,AD
+1147211:0,This place is great .,restaurant general,AD
+1147211:1,I had a huge group for my birthday and we were well taken care of .,service general,AD
+1147211:2,The waitress was very patient with us and the food is phenomenal !,service general ~~ food quality,AD
+1147211:3,"Service was prompt , friendly and great .",service general,AD
+1147211:4,Slightly on the pricey side but worth it !,restaurant general ~~ restaurant prices,AD
+1153034:0,Great pizza and fantastic service .,service general ~~ food quality,AD
+1153034:1,"There was a small wait , but shorter than I expected .",service general,AD
+1153034:2,Located at the end of a magnificent block .,location general,AD
+1153034:3,Very cozy and warm inside . . . . .,ambience general,AD
+1153034:4,I will be back !,restaurant general,AD
+1154550:0,This is the best sushi in new york city - hands down .,food quality,AD
+1154550:1,The place is small and cramped but the food is fantastic .,food quality ~~ ambience general,AD
+1154550:2,Get the tuna of gari .,food quality,AD
+1162037:0,"Planet Thailand has always been a hit with me , I go there usually for the sushi , which is great , the thai food is excellent too .",restaurant general ~~ food quality ~~ food quality,AD
+1162037:1,"With the great variety on the menu , I eat here often and never get bored .",food style_options,AD
+1162037:2,"The atmosphere isn ' t the greatest , but I suppose that ' s how they keep the prices down .",restaurant prices ~~ ambience general,AD
+1162037:3,It ' s all about the food ! !,food quality,AD
+1167434:1,first it took us a long time to find the place .,restaurant miscellaneous,AD
+1167434:3,"but when we looked at the menu , there weren ' t a lot of choices , most of them were dumplings in the appetizer section .",food style_options,AD
+1167434:5,"those rolls were big , but not good and sashimi wasn ' t fresh .",food quality ~~ food quality ~~ food style_options,AD
+1167434:6,"they were dry and disgusting , i didn ' t even finish my first piece .",food quality,AD
+1175958:0,Hurley ' s is like Cheers where everyone knows your name and they are ACTUALLY glad you came .,service general,AD
+1175958:1,"Try the crunchy tuna , it is to die for .",food quality,AD
+1175958:2,"Try everything for that matter , it is all good .",food quality,AD
+1175958:3,I have been going there since it opened and I can ' t get enough .,restaurant general,AD
+1189674:0,First went here to enjoy their garden terrace .,ambience general,AD
+1189674:1,"The food was amazing , and the service was prompt and helpful , but not over - bearing or rushed .",service general ~~ food quality,AD
+1189674:2,"The Steak Tartare is a great bet , they fix it for you at the table .",food style_options,AD
+1189674:3,"Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .",ambience general ~~ ambience general,AD
+1189674:4,"Great wine selection , Gigondas is worth the price , and the house champagne is a great value .",drinks style_options ~~ drinks prices ~~ drinks quality,AD
+1189674:5,"It may be a bit packed on weekends , but the vibe is good and it is the best French food you will find in the area .",food quality ~~ ambience general ~~ ambience general,AD
+1189674:6,"Have recommended the place to friends , always gets good response .",restaurant miscellaneous,AD
+1199292:0,"Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best , freshly baked bread !",food quality ~~ food quality,AD
+1199292:3,I take all my NYC guests to VT ' s .,restaurant miscellaneous,AD
+1199480:0,"Not sure where the previous reviewer , lonk , dined , but Saul is in a great neighborhood and has great food !",food quality ~~ location general,AD
+1199480:1,I ' ve been there three times and have always had wonderful experiences .,restaurant general,AD
+1199480:2,I ' d highly recommend it for a special occasion - - it provides and intimate setting and nice service .,service general ~~ ambience general ~~ restaurant miscellaneous,AD
+1205520:0,I ' m not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and I all enjoy Mizu very much . . . and we ' re repeat customers .,restaurant general,AD
+1205520:1,Even after they overcharged me the last time I was there .,service general,AD
+1205520:2,Make sure you have the Spicy Scallop roll . . .,food quality,AD
+1205520:3,it ' s delicious !,food quality,AD
+1212346:0,"Moules were excellent , lobster ravioli was VERY salty !",food quality ~~ food quality,AD
+1212346:1,"Took my mom for Mother ' s Day , and the maitre d ' was pretty rude .",service general,AD
+1212346:2,"Told us to sit anywhere , and when we sat he said the table was reserved .",service general,AD
+1212346:3,Stepped on my foot on the SECOND time he reached over me to adjust lighting .,service general,AD
+1212346:4,Tiny dessert was $ 8 . 00 . . . just plain overpriced for what it is .,food quality ~~ food style_options ~~ food prices,AD
+1221938:0,The drinks are always welll made and wine selection is fairly priced .,drinks prices ~~ drinks quality,AD
+1221938:1,Try their chef ' s specials - - they are to die for .,food quality,AD
+1221938:2,"Service is not exactly five star , but thats not really a big deal .",service general,AD
+1221938:3,Downstairs lounge is always a good attraction,ambience general,AD
+1225162:0,"Raga ' s is a romantic , cozy restaurant .",ambience general,AD
+1225162:1,The exotic food is beautifully presented and is a delight in delicious combinations .,food quality ~~ food style_options,AD
+1225162:2,It is also extremely well priced .,food prices,AD
+1225162:3,The staff is incredibly helpful and attentive .,service general,AD
+1225162:4,The bar is very well stocked with interesting beers and well priced wines .,drinks style_options ~~ drinks style_options ~~ drinks prices,AD
+1225162:5,This is one of my favorite restaurants and it is not to be missed .,restaurant general,AD
+1225162:6,Your friends will thank you for introducing them to this gem !,restaurant general,AD
+1227999:0,"When we stumbled on Leon , we thought that we had found quite the gem BUT , we were certainly wrong .",restaurant general,AD
+1227999:1,"The waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet , we were told no . . .",service general,AD
+1227999:2,"Then , to top things off , she dropped used silverware on my boyfriend ' s jacket and did not stop to apologize or clean the mess that was left on clothes .",service general,AD
+1227999:3,Such a disappointment . . .,service general,AD
+1227999:4,"Rude service , medicore food . . . there are tons of restaurants in NY . . . stay away from this one",restaurant general ~~ service general ~~ food quality,AD
+1230993:0,I had a grat time at Jekyll and Hyde !,restaurant general,AD
+1230993:1,I loved everythig about it - especially the shows and actors .,restaurant general ~~ ambience general ~~ ambience general,AD
+1230993:2,Our server was very helpful and friendly .,service general,AD
+1230993:3,I am bringing my whole family back next time .,restaurant miscellaneous,AD
+1230993:4,The food was good too .,food quality,AD
+1232468:0,The tuna and wasabe potatoes are excellent .,food quality ~~ food quality,AD
+1232468:1,The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful .,location general,AD
+1232468:2,"Inside is a little cramped , but to be expected .",ambience general,AD
+1232468:3,Service was prompt and courteous .,service general,AD
+1232468:4,This was a repeat visit and we ' ll definitely be back again .,restaurant general,AD
+1241906:0,"Great service , great food .",service general ~~ food quality,AD
+1241906:1,Prices are in line .,restaurant prices,AD
+1241906:3,But too far east !,location general,AD
+1253117:1,"The pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria ' s .",food quality ~~ food quality,AD
+1253117:2,"Two complaints - their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .",food style_options,AD
+1253117:3,"Also , because it is so thin , it gets cold very quickly and its not that filling .",food quality ~~ food style_options,AD
+1253117:5,Wait staff is blantently unappreciative of your business but its the best pie on the UWS !,service general ~~ food quality,AD
+1256373:0,By far the best salad I have had in a fast food restaurant .,food quality,AD
+1256373:1,fine dining restaurant quality .,food quality,AD
+1256373:2,Over 100 different choices to create your own .,food style_options,AD
+1256373:3,A must try !,restaurant general,AD
+1264954:0,"On a recent Sunday afternoon , a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT .",restaurant general,AD
+1264954:1,"This was the perfect quiet , relaxing , and delicious accompaniment to our afternoon of theater .",food quality ~~ ambience general,AD
+1264954:2,"The chicken pot pie is excpetiona , the cheeseburger huge and delictable , and the service professional wan warm .",service general ~~ food quality ~~ food quality ~~ food style_options,AD
+1264954:3,"With so many poor experiences to be had in the theater district , is truly an excellent find !",restaurant general,AD
+1264954:4,We will return many times for this oasis in mid - town .,restaurant general,AD
+1269216:1,The staff is no nonsense .,service general,AD
+1269216:2,The food options rule .,food style_options,AD
+1269216:3,When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else .,food quality,AD
+1269216:4,Worth visiting the 1st Ave spot because it is the original store .,restaurant miscellaneous,AD
+1275154:4,"He served me an Uni Hand roll , which I never had before , and let me tell you . . . IT WAS HEAVEN !",food quality,AD
+1275154:6,The sake menu should not be overlooked !,drinks style_options,AD
+1275154:7,"All in all , this midtown gem instantly became one of my favorite sushi restaurants in the city .",restaurant general,AD
+1275154:8,Try the lobster teriyaki and the rose special roll .,food quality ~~ food quality,AD
+1280166:1,"Service was very good - prompt , attentive and non - intrusive .",service general,AD
+1280166:2,"Food was very good as well , considering that we tried the budget selection ( though I wish the pork belly that I ordered was roasted a bit longer , so that fat was more of a melt - in - your - mouth experience ) .",food quality ~~ food quality,AD
+1280166:3,Wine list selection is good and wine - by - the - glass was generously filled to the top .,drinks style_options ~~ drinks style_options,AD
+1280166:4,Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation .,ambience general ~~ ambience general,AD
+1280179:0,"I ' ve been to at Cafe Spice probably 5 - 8 times , it is probably still the best Indian restaurant around Union Square .",restaurant general,AD
+1280179:1,"To sum it up : Service varies from good to mediorce , depending on which waiter you get ; generally it is just average Ok .",service general,AD
+1280179:2,"Seating is always prompt , though the restaurant does fill up in the evening .",service general,AD
+1280179:3,"Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders .",food quality ~~ food quality,AD
+1280179:4,"As many other reviewers noticed , your order is often slow to arrive - this is particularly true in the evening but is not a problem during lunch time .",service general,AD
+1280179:5,"The decor is vibrant and eye - pleasing with several semi - private boths on the right side of the dining hall , which are great for a date .",ambience general ~~ ambience general,AD
+1286916:0,I have NEVER been disappointed in the Red Eye .,restaurant general,AD
+1286916:1,"The first time I went , and was completely taken by the live jazz band and atmosphere , I ordered the Lobster Cobb Salad .",ambience general ~~ ambience general,AD
+1286916:3,It ' s simply the best meal in NYC .,food quality,AD
+1286916:4,You cannot go wrong at the Red Eye Grill .,restaurant general,AD
+1287538:0,"If we were to move from the upper east side , we would genuinely miss this restaurant .",restaurant general,AD
+1287538:2,The restaurant is cute but not upscale .,restaurant general,AD
+1287538:3,The food is a diamond in rough - - the food is delicious and homemade with the perfect balance of herbs and tomatoes .,food quality ~~ food quality,AD
+1287538:4,I would highly recommend it .,restaurant general,AD
+1287538:5,It ' s one of our favorite places to eat in NY .,restaurant general,AD
+1289424:0,We had a great time at the Jekyll and hyde Pub last night .,restaurant general,AD
+1289424:2,After really enjoying ourselves at the bar we sat down at a table and had dinner .,restaurant miscellaneous,AD
+1289424:3,The server was really cool and served us our food and drinks with a smile .,service general,AD
+1289424:4,The place ' s decor and hidden bathrooms made for a good laugh .,ambience general ~~ ambience general,AD
+1289424:5,I highly recommend visiting this restaurant and having dinner and drinks !,restaurant general,AD
+1293334:0,"If you are the type of person who likes being scared and entertained , this is a great place to go and eat .",restaurant miscellaneous,AD
+1293334:1,"My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary , and to our surprise it was fantastic .",restaurant general,AD
+1293334:2,"The have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious , if I must recommend a dish it must be the pumkin tortelini .",food quality ~~ food quality ~~ drinks style_options,AD
+1293334:3,The entertainment was great they have shows that go on through out the dinner .,ambience general,AD
+1293334:4,"Please take my advice , go and try this place .",restaurant general,AD
+1293334:6,You will not be disapointed at all .,restaurant general,AD
+1297844:1,We were not dissappointed in the least bit by this little gem .,restaurant general,AD
+1297844:2,The bagel was huge .,food style_options,AD
+1297844:3,They were served warm and had a soft fluffy interior .,food quality,AD
+1297844:4,The workers there also absolutely load the bagel with cream cheese ( gets a little messy ) .,food style_options,AD
+1297844:5,I loved it and would HIGHLY RECOMMEND .,restaurant general,AD
+1300636:0,This was my frist time at Cafe St . Bart ' s and I must say how delicous the food and the service was .,service general ~~ food quality,AD
+1300636:2,I have to highly recommend the lobster roll - not to much mayo ; you can tell it was a fresh lobster .,food quality ~~ food quality,AD
+1300636:3,"Other guests enjoyed pizza , santa fe chopped salad and fish and chips .",food quality ~~ food quality ~~ food quality,AD
+1300636:4,"I highly recommend Cafe St . Bart ' s for their food , the ambience and wonderful service .",service general ~~ food quality ~~ ambience general,AD
+1303888:0,All the staff is absolutely professional ! !,service general,AD
+1303888:3,"( that is A MUST , but not every restaurant can do . . . )",service general,AD
+1303888:5,"There ' s nice and quiet , small but enough for 6 ( or more ) .",ambience general,AD
+1303984:0,This restaurant was way overhyped .,restaurant general,AD
+1303984:1,My chow fun and chow see was really bland and oily .,food quality,AD
+1303984:2,Okay - i don ' t mind the oily part ( cause most are cooked that way ) but it was way too bland .,food quality,AD
+1303984:3,The scallion pancakes and fried dumplings were nothing out of the ordinary .,food quality ~~ food quality,AD
+1308557:0,The service was the only thing good about this restaurant .,restaurant general ~~ service general,AD
+1308557:1,"It ' s boring on the inside , and our sushi was pretty below average . . . the tuna was soggy and the other rolls had no flavor .",food quality ~~ food quality ~~ food quality ~~ ambience general,AD
+1308557:2,I definitely wouldn ' t go back .,restaurant general,AD
+1310217:1,Their pad penang is delicious and everything else is fantastic .,food quality,AD
+1310217:2,The price is reasonable although the service is poor .,service general ~~ restaurant prices,AD
+1318537:0,fresh restaurant was amazing . . . . . . . . food was delicious and of course fresh .,restaurant general ~~ food quality,AD
+1318537:1,"great for a romantic evening , or a fun evening with friends . . .",ambience general ~~ restaurant miscellaneous,AD
+1318537:2,I will be going back very soon .,restaurant general,AD
+1318537:3,keep up the good work .,restaurant general,AD
+1318537:4,Hats off to the chef .,food quality,AD
+1328078:2,It was wonderful .,restaurant general,AD
+1328078:3,"the salads are delicious , both refreshing and very spicy .",food quality,AD
+1328078:4,We had Pam ' s special fried fish and it was amazing .,food quality,AD
+1328078:5,too large for just two people but nothing was left .,food quality ~~ food style_options,AD
+1335154:1,"Great vibe , lots of people .",ambience general,AD
+1335154:3,"My husbands was perfect , my was well done and dry .",food quality ~~ food quality,AD
+1335154:4,"I didn ' t complain , I liked the atmosphere so much .",ambience general,AD
+1335656:1,On a hot day it was fabulous to stop in and enjoy lunch .,restaurant general,AD
+1335656:2,"Ambience is so cute and quaint , good for business although we were there on vacation .",ambience general ~~ restaurant miscellaneous,AD
+1335656:3,Salads were fantastic .,food quality,AD
+1335656:4,Although we were looking for regular lettuce and some walnuts the salads we got were great .,food quality,AD
+1335656:5,Ingredients are organic which is a real plus for me .,food quality,AD
+1335656:6,We will be back .,restaurant general,AD
+1338124:0,"This is some really good , inexpensive sushi .",food quality ~~ food prices,AD
+1338124:2,The spicy Tuna roll is huge and probably the best that I ' ve had at this price range .,food quality ~~ food style_options ~~ food prices,AD
+1338124:3,The Yellowtail was particularly good as well .,food quality,AD
+1338124:4,"I have reservations about the all you can eat deal , however - - the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .",food style_options ~~ food prices,AD
+1338124:5,"In any event , this is a place I ' ll be sure to stop by again when I ' m in this part of town .",restaurant general,AD
+1340075:0,Big Wong gets big Ups for a fine establishment .,restaurant general,AD
+1340075:1,"They have it all - - great price , food , and service .",restaurant general ~~ service general ~~ food quality ~~ restaurant prices,AD
+1340075:2,The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .,service general ~~ ambience general,AD
+1340075:3,The food is prepared quickly and efficiently .,service general,AD
+1340075:4,"And it all comes at a very reasonable price ( congee , noodles , and rice dishes are no more than $ 3 - 6 each ) .",food prices ~~ food prices,AD
+1340075:5,The takeout is great too since they give high quality tupperware as well .,service general,AD
+1340075:6,This place is always very crowded and popular .,restaurant miscellaneous,AD
+1341354:1,Enjoyed a very nice Caesar Salad while my wife had arugula and goat cheese . . . . both very tasty .,food quality ~~ food quality,AD
+1341354:2,We both opted for a pasta dish and they were served timely and fresh .,service general ~~ food quality,AD
+1341354:3,"We concluded with tiramisu chocolate cake , both were delicious .",food quality,AD
+1341354:4,We ' d go back again,restaurant general,AD
+1347423:0,I recently went to this restaurant with some co - workers for lunch and had an amazing time .,restaurant general,AD
+1347423:1,"The staff was accomodating , the food was absolutely delicious and the place is lovely .",service general ~~ food quality ~~ ambience general,AD
+1347423:2,We even had a visit from the Manager who wanted to make sure we were enjoying ourselves .,service general,AD
+1347423:3,"Yes , the prices are high , but I felt it was worth it .",restaurant general ~~ restaurant prices,AD
+1347423:4,We all felt it was worth it .,restaurant general,AD
+1349391:0,sometimes i get good food and ok service .,service general ~~ food quality,AD
+1349391:1,"sometimes i get bad food and bad service , sometimes i get good good and bad service .",service general ~~ food quality ~~ food quality,AD
+1349391:2,it is not consistent .,restaurant general,AD
+1352948:0,The place is a BISTRO which means : simple dishes and wine served efficiently in a bustling atmosphere .,service general ~~ food style_options ~~ drinks style_options ~~ ambience general,AD
+1352948:1,And where does Patis go wrong ; no where .,restaurant general,AD
+1352948:2,"You are not eating haut cuisine with subtle hints of whatever but : Cassuolet , Steake Fritte , Tripe Stew , etc ; simple stuff .",food quality ~~ food style_options,AD
+1352948:3,And evaluated on those terms Pastis is simply wonderful .,restaurant general,AD
+1353599:0,Right off the L in Brooklyn this is a nice cozy place with good pizza .,food quality ~~ ambience general,AD
+1353599:1,Mine was a little burnt but still delicious with goat cheese and panchetta ( raddichio was kind of bitter though ) .,food quality ~~ food quality,AD
+1353599:2,My friend got the mushroom pizza which tasted better .,food quality,AD
+1353599:3,The sangria was pretty tasty and good on a hot muggy day .,drinks quality,AD
+1353599:4,Kind of a small place but I guess if they are not too busy might be able to fit a group or kids .,restaurant miscellaneous,AD
+1353599:5,Overall I would recommend it and go back again .,restaurant general,AD
+1357554:0,I started out with a Bombay beer which was big enough for two .,drinks style_options,AD
+1357554:2,MMmmm . . . it was delicious .,food quality,AD
+1357554:3,"Service was slow , but the people were friendly .",service general ~~ service general,AD
+1357554:4,It ' s a nice place to relax and have conversation .,ambience general,AD
+1357554:5,I can ' t wait to go back .,restaurant general,AD
+1367358:1,The food is authentic Italian - delicious !,food quality,AD
+1367358:2,"Pizza is terrific , as is homemade pasta .",food quality ~~ food quality,AD
+1367358:3,"Ambience is delightful , service impeccable .",service general ~~ ambience general,AD
+1380450:0,I ' m still mad that i had to pay for lousy food .,food quality,AD
+1380450:1,The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .,food quality ~~ food quality,AD
+1380450:2,Service was also horrible and the ambience is not that great .,service general ~~ ambience general,AD
+1380450:3,DO not try unless you ' re just going there to hang out like the rest of the hipsters who apparently have no sense of taste .,restaurant miscellaneous,AD
+1387314:0,I go and eat out at many different restaurants and this is one place you have go and try .,restaurant general,AD
+1387314:1,This is my first time writing a review for a restaurant because the food and service was excellent .,service general ~~ food quality,AD
+1387314:2,The filet mignon dish was superb !,food quality,AD
+1387314:3,I would defiantly come back here again as one of my top choices .,restaurant general,AD
+1387314:4,It ' s a small cute restaurant .,restaurant general,AD
+1390357:0,I absolutely love this place ! ! !,restaurant general,AD
+1390357:2,"I like the ambience , it ' s very dark and original .",ambience general,AD
+1390357:4,The sushi is amazing ! ! !,food quality,AD
+1390357:5,And amazingly cheap .,food prices,AD
+1390357:6,Big thumbs up !,restaurant general,AD
+1394712:0,Very affordable and excellent ambient !,restaurant prices ~~ ambience general,AD
+1394712:1,We ordered some beef and noodle soup dishes from the Thai section of the menu but nothing we got was Thai .,food quality,AD
+1394712:2,We were very disappointed .,food quality,AD
+1394712:3,We won ' t go to this place again for a good meal .,food quality,AD
+1394712:4,"However , I think this place is a good hang out spot .",ambience general,AD
+1395421:0,My Girlfriend and I stumbled onto this hopping place the other night and had a great time !,restaurant general,AD
+1395421:1,THe Pizza and wine were excellent - the service too - - but what really MADE this place was the backyard dining area .,service general ~~ food quality ~~ ambience general ~~ drinks quality,AD
+1395421:2,It is one the nicest outdoor restaurants I have ever seen in NY - - I am from Italy and this place rivals the ones in my country .,ambience general,AD
+1395421:3,"They tell me they are going to cover the garden in glass for the winter , so i ' m looking forward to going there on a snowy night to enjoy it .",restaurant miscellaneous,AD
+1395421:4,Check this place out !,restaurant general,AD
+1395421:5,HIGHLY RECOMMENDED ! ! ! ! !,restaurant general,AD
+1398844:0,"First of all , this place is * not * romantic , as claimed by Citysearch ' s editorial review .",ambience general,AD
+1398844:1,"Either that , or the editor ' s idea of romance must be sharing a conversation with the next table , while trying to speak louder than the traffic on 57th .",ambience general,AD
+1398844:2,"The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",food style_options ~~ drinks prices ~~ ambience general,AD
+1398844:3,Slightly above average wines start at $ 70 + with only one selection listed at $ 30 + .,drinks prices ~~ drinks quality,AD
+1398844:4,Service is not what one would expect from a joint in this price category .,service general,AD
+1398844:5,"For instance , plates were just dumped on the table , I was handed the wine list upside down , etc . . . .",service general,AD
+1398844:6,Somehow working the italian charm with constant mille grazie does not constitute proper service .,service general,AD
+1398844:7,"To be completely fair , the only redeeming factor was the food , which was above average , but couldn ' t make up for all the other deficiencies of Teodora .",restaurant general ~~ food quality,AD
+1404042:1,Not one of our meals was edible - bland and / or made with weird rosemary or orange flavoring .,food quality ~~ food quality,AD
+1404042:2,Fish was overdone .,food quality,AD
+1404042:3,"Cute place , nice wait staff but would never go there again .",restaurant general ~~ service general ~~ ambience general,AD
+1404042:4,Someone else recommended the dessert - we also left that .,food quality,AD
+1404042:5,One of us actually liked the expresso - that ' s it .,drinks quality,AD
+1404042:6,"Skip this restaurant , it ' s a big disappointment .",restaurant general,AD
+1410878:0,Myagi is one of my favorite restaurants in the City ; the place the negative reviews describe sound like they were somewhere else .,restaurant general,AD
+1410878:1,I ' ve never had bad service and the fish is fresh and delicious .,service general ~~ food quality,AD
+1410878:2,Their tuna tartar appetizer is to die for .,food quality,AD
+1413697:0,"I come from a family of pizzeria owners , and I ' m almost ashamed to say that the pizza in Fornino ' s blows my families receipies away .",food quality,AD
+1413697:1,It is simply amazing .,food quality,AD
+1413697:2,The place is so cool and the service is prompt and curtious .,service general ~~ ambience general,AD
+1413697:3,I highly recommend to anyone to give this place a try .,restaurant general,AD
+1413697:4,You will find yourself returning quite often .,restaurant general,AD
+1417496:0,A restaurant that doesn ' t try to do anything except serve great food with great service in a pleasant atmosphere .,service general ~~ food quality ~~ ambience general,AD
+1417496:1,No gimmicks here - - the food speaks for itself in its freshness and preparation .,food quality,AD
+1417496:2,The dining room is quietly elegant with no music to shout over - - how refreshing !,ambience general,AD
+1417496:3,"The service was impeccable and unobtrusive - - the staff knows what they are there to do - - to know their menu , present your meal , and attend to your needs .",service general ~~ service general,AD
+1417496:4,"Looking around , I saw a room full of New Yorkers enjoying a real meal in a real restaurant , not a clubhouse of the fabulous trying to be seen .",food quality ~~ ambience general,AD
+1417496:5,Beautiful experience .,restaurant general,AD
+1430994:0,The view is breathtaking the service is top notch . . . the ambiance is wonderfull .,service general ~~ ambience general ~~ location general,AD
+1430994:1,The staff offers impeccable service .,service general,AD
+1430994:2,I had Lobster Bisque it has 2 oz . of Maine Lobster in it .,food quality,AD
+1430994:3,My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque .,food quality ~~ food quality,AD
+1430994:5,It was divine melts in your mouth .,food quality,AD
+1430994:6,My boyfriend had Prime Rib it was good .,food quality,AD
+1430994:7,We didn ' t want a bottle of bubbly on a weekday so we each got little bottles of Korbett it was just enough .,drinks style_options,AD
+1430994:9,It ' s cuz it ' s so good you need to taste it ! ! !,food quality,AD
+1430994:10,All in all we ' re already coming up with excuses to go ahead really soon in the next few wks ! ! ! !,restaurant general,AD
+1431154:0,My wife and I ate here earlier this week and have not stopped ranting and raving about the food .,food quality,AD
+1431154:1,If you like spicy food get the chicken vindaloo .,food quality,AD
+1431154:2,It ' s very spicy but not offensive .,food quality,AD
+1431154:3,We will definitely go back .,restaurant general,AD
+1432551:0,Go to Volare for 1st class service and terrific food .,service general ~~ food quality,AD
+1432551:1,The portions are large and the servers always surprise us with a different starter .,food style_options,AD
+1432551:2,The wine list is excellent .,drinks style_options,AD
+1439875:0,The food is amazing . . . especially if you get the Chef ' s tasting menu and your favourite bottle ( or two ! ) of wine from an extensive selection of wines .,food quality ~~ drinks style_options,AD
+1439875:1,"The place is small and intimate and you may feel a little crowded , but the service is excellent and it ' s great for friends out , a romantic date , or a special occassion .",service general ~~ ambience general ~~ restaurant miscellaneous,AD
+1439875:3,The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don ' t like .,service general ~~ food quality ~~ food prices ~~ food prices,AD
+1439875:5,Please be aware that it ' s CASH or AMEX only !,restaurant miscellaneous,AD
+1448587:0,"With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .",food quality ~~ food quality,AD
+1448587:1,The menu is very limited - i think we counted 4 or 5 entrees .,food style_options,AD
+1448587:2,"We ordered the special , grilled branzino , that was so infused with bone , it was difficult to eat .",food quality,AD
+1448587:3,"The decor in this place is very diner - ish and the kind of place you expect in the East Village - not romantic , just simple , small and sparse .",ambience general,AD
+1448587:4,Problem is nothing at Prune is particularly memorable .,restaurant general,AD
+1448587:5,No plans to return anytime soon .,restaurant general,AD
+1451107:0,This place is so much fun .,ambience general,AD
+1451107:1,Our family never expected such incredible entertainment in a restaurant .,ambience general,AD
+1451107:4,Our food was great too !,food quality,AD
+1451107:5,And really large portions .,food style_options,AD
+1451107:6,The staff was the friendliest that have seen in New York .,service general,AD
+1451107:7,We will go back every time we are in the City .,restaurant general,AD
+1451109:0,If you want something really different than try Jekyll and Hyde .,restaurant general,AD
+1451109:1,It is a lot of fun with live entertainment and all kinds of Disney type special effects .,ambience general,AD
+1451109:2,The food was pretty tradional but it was hot and good with large portions .,food quality ~~ food style_options,AD
+1451109:3,I highly recommend it .,restaurant general,AD
+1457607:0,The place is a lot of fun .,ambience general,AD
+1457607:1,My six year old loved it .,restaurant general,AD
+1457607:2,The characters really make for an enjoyable experience .,ambience general,AD
+1457607:3,"The food however , is what one might expect .",food quality,AD
+1457607:4,It is very overpriced and not very tasty .,food quality ~~ food prices,AD
+1457607:5,"However , I think Jeckll and Hydes t is one of those places that is fun to do once .",restaurant general,AD
+1457607:6,We had a good time .,restaurant general,AD
+1459569:0,Went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them .,service general,AD
+1459569:1,Service was slow had to wait to order and get food although not crowded .,service general,AD
+1459569:2,Drinks way over priced .,drinks prices,AD
+1459569:3,Food was good not great not worth the wait or another visit,restaurant general ~~ food quality,AD
+1460715:0,Great pizza for lunch place .,food quality,AD
+1460715:1,Service was quick .,service general,AD
+1460715:2,The pizza was great .,food quality,AD
+1460715:3,And it was quick which is very important .,service general,AD
+1460715:5,It was wonderful .,drinks quality,AD
+1470286:0,"Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .",service general ~~ food quality,AD
+1470286:1,Delivery is fast too .,service general,AD
+1470286:2,"Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",service general ~~ service general ~~ service general ~~ food quality,AD
+1470286:3,A little overpriced but worth it once you take a bite .,food quality ~~ food prices,AD
+1470334:1,Ess - A - Bagel ( either by Sty - town or midtown ) is by far the best bagel in NY .,food quality,AD
+1470334:2,"The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",food quality ~~ food style_options,AD
+1470334:3,They have a huge selection of different cream cheeses and all of their salads are great .,food quality ~~ food style_options,AD
+1470334:4,The lox is always fresh too .,food quality,AD
+1470334:5,Highly recommended to all !,restaurant general,AD
+1471273:2,Not impressed with the food .,food quality,AD
+1471273:3,Prices too high for this cramped and unappealing resturant .,restaurant prices ~~ ambience general,AD
+1471273:4,Zero ambiance to boot .,ambience general,AD
+1476493:0,I thought this place was totally overrated .,restaurant general,AD
+1476493:1,Everything we had was good or ok . . . . but definitely nothing great .,food quality,AD
+1476493:2,"The ambience was nice , but service wasn ' t so great .",service general ~~ ambience general,AD
+1476493:3,"When you add it all together , it just doesn ' t seem worth it to me . . . especially considering the prices .",restaurant general ~~ restaurant prices,AD
+1477631:0,This is the BEST Shabu - Shabu Restaurant in the Try - State Area .,restaurant general,AD
+1477631:1,I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .,food quality ~~ ambience general,AD
+1477631:2,Thius is a must for anyone who loves Shabu - Shabu .,food quality,AD
+1486041:0,"The atmosphere is nothing special , but it feels like a Sushi establishment in Tokyo .",ambience general,AD
+1486041:1,The owner and staff are all Japanese as well and that adds to the entire ambiance .,ambience general ~~ restaurant miscellaneous ~~ restaurant miscellaneous,AD
+1486041:2,"Despite a slightly limited menu , everything prepared is done to perfection , ultra fresh and a work of food art .",food quality ~~ food style_options ~~ food style_options,AD
+1486041:3,I must give it Yon out of Yon stars !,restaurant general,AD
+1486041:4,Taxan delicious !,food quality,AD
+1490757:1,We weren ' t !,restaurant general,AD
+1490757:2,The prices were CHEAP compared to the quality of service and food .,service general ~~ food quality ~~ restaurant prices,AD
+1490757:3,"We liked it so much , that we will always make it a point to dine here when we visit New York .",restaurant general,AD
+1496205:1,The location and ambience is Ok but the food is what makes up for it .,food quality ~~ ambience general ~~ location general,AD
+1496205:2,There is a lot of variety even for people who eat vegetarian like me .,food style_options,AD
+1496205:3,Try green curry with vegetables .,food quality,AD
+1496205:4,"The quantity is also very good , you will come out satisfied .",food style_options,AD
+1496205:5,"The service is ok , some of the people didn ' t get what they asked for .",service general,AD
+1496707:0,I was there on sat . for my birthday and we had an excellent time .,restaurant general,AD
+1496707:1,I had the best ravioli ever .,food quality,AD
+1496707:2,The wine the service was very good too .,service general ~~ drinks quality,AD
+1496707:3,Moderate prices .,restaurant prices,AD
+1496707:4,A little noise but I think that was because of our party !,ambience general,AD
+1500453:1,This quaint and romantic trattoria is at the top of my Manhattan restaurant list .,restaurant general ~~ ambience general,AD
+1500453:2,"The food is delicious - from the specials to the regular menu - fare , the dishes are never a disappointment .",food quality ~~ food quality ~~ food quality ~~ food quality,AD
+1500453:3,"Whether it ' s the parmesean porcini souffle or the lamb glazed with balsamic vinegar , you will surely be transported to Northern Italy with one bite .",food quality ~~ food quality,AD
+1500453:4,"Although the tables may be closely situated , the candle - light , food - quality and service overcompensate .",service general ~~ food quality ~~ ambience general ~~ ambience general,AD
+1500453:5,A guaranteeed delight !,restaurant general,AD
+1506491:0,"I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .",food quality ~~ drinks prices ~~ food prices ~~ drinks quality,AD
+1506491:1,"If you go , try the marinara / arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm . . . . . everything is just delicious .",food quality,AD
+1506491:2,Check out the secret back room .,ambience general,AD
+1506491:4,I pray it stays open forever .,restaurant general,AD
+1506491:5,Thank You Emilio .,restaurant general,AD
+1538149:0,"I found the food , service and value exceptional everytime I have been there .",service general ~~ food quality ~~ restaurant prices,AD
+1538149:1,The food was authentic .,food quality,AD
+1538149:2,I felt as though I were eating in Paris .,food quality,AD
+1538149:3,The service was excellent - friendly and attentive .,service general,AD
+1538149:4,The prices are wonderfully low .,restaurant prices,AD
+1538149:5,Very good wine choices .,drinks style_options,AD
+1543345:1,Who has room for Cheesesticks with the best pizza in NYC !,food quality,AD
+1543345:2,Get the pepperoni - YUM - and a family style salad .,food quality ~~ food quality,AD
+1543345:3,Great staff .,service general,AD
+1543345:4,Always great service !,service general,AD
+1543345:5,I go twice a month !,restaurant general,AD
+1543345:6,Fantastic !,restaurant general,AD
+1561259:0,"The food is good , I can ' t lie .",food quality,AD
+1561259:1,But the staff was so horrible to us .,service general,AD
+1561259:2,The hostess and the waitress were incredibly rude and did everything they could to rush us out .,service general ~~ service general,AD
+1561259:3,We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order .,service general,AD
+1561259:4,"This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .",service general ~~ food quality ~~ restaurant prices,AD
+1561259:5,Save yourself the time and trouble and skip this one !,restaurant general,AD
+1572027:1,Amma is nothing special .,restaurant general,AD
+1572027:3,I ate here a week ago and found most dishes average at best and too expensive .,food quality ~~ food prices,AD
+1572027:4,Will not be back .,restaurant general,AD
+1572033:0,"Don ' t dine at Tamarind for the vegetarian dishes , they are simply not up to par with the non - veg selections .",food quality ~~ food quality,AD
+1572033:1,Decor is nice though service can be spotty .,service general ~~ ambience general,AD
+1572033:2,This place is always packed .,ambience general,AD
+1572033:4,"Most importantly , food is excellent .",food quality,AD
+1572033:5,Try the sea bass .,food quality,AD
+1572033:6,Highly recommended .,restaurant general,AD
+1573534:0,First of all Dal Bukhara Rocks .,food quality,AD
+1573534:3,I am happy i did the food was awsome .,food quality,AD
+1573534:4,JUST AWSOME .,food quality,AD
+1573534:5,and yes Dal Bukhara is so dam good and so are all the kababs .,food quality ~~ food quality,AD
+1573534:7,but overall i give it a 10,restaurant general,AD
+1573534:8,10,restaurant general,AD
+1577714:1,Haru on Park S is simply disgusting .,restaurant general,AD
+1577714:2,The fish was not fresh and the rice tasted old and stale .,food quality ~~ food quality,AD
+1577714:3,"Quite frankly , this is some of the worst sushi I have ever tried .",food quality,AD
+1577714:4,Will never be back .,restaurant general,AD
+1586174:0,honestly the worst sushi my husband and i had in our entire lives .,food quality,AD
+1586174:2,not sure why this restaurant would be rated that highly .,restaurant general,AD
+1586174:3,the all - u - can - eat sushi is definitely in very poor quality .,food quality,AD
+1586174:4,"limited menu , no - so - fresh ingredients , thinly - sliced fish , fall - apart rice .",food quality ~~ food style_options ~~ food style_options ~~ food style_options,AD
+1586174:5,"the only things u could really taste are the very salty soy sauce ( even its low sodium ) , the vinegar - soaked rice , and the scallion on top of the fish .",food quality ~~ food quality,AD
+1586174:6,the waitstaffs are nice though .,service general,AD
+1586174:7,wont come back again for sure !,restaurant general,AD
+1603698:0,I have been to Roth ' s twice and both times were very disappointing .,restaurant general,AD
+1603698:2,"Both times I was extremely dissappointed by the service , which was boarderline rude .",service general,AD
+1603698:3,They wouldnt even let me finish my glass of wine before offering another .,service general,AD
+1603698:4,Much of the time it seems like they do not care about you .,service general,AD
+1603698:5,"The dinner was ok , nothing I would have again .",food quality,AD
+1603698:6,"I had their eggs benedict for brunch , which were the worst in my entire life , I tried removing the hollondaise sauce completely that was how failed it was .",food quality,AD
+1606837:0,This was a great surprise .,restaurant general,AD
+1606837:1,With the theater 2 blocks away we had a delicious meal in a beautiful room .,food quality ~~ ambience general ~~ location general,AD
+1606837:2,The service was attentive .,service general,AD
+1606837:3,I look forward to eating here again,restaurant general,AD
+1609375:0,Planet Thai is great !,restaurant general,AD
+1609375:1,"We love the food , drinks , and atmosphere !",food quality ~~ ambience general ~~ drinks quality,AD
+1609375:2,"The svc can be a bit rude at times , esp if you have big group , but overall the restaurant is a must !",restaurant general ~~ service general,AD
+1609375:3,"Try the Pad Thai , it ' s fabulous and their prices are so cheap !",food quality ~~ restaurant prices,AD
+1609375:4,"Just because it ' s cheap does NOT mean the portions are small or the food is nasty , IT IS GREAT !",food quality ~~ food style_options ~~ restaurant prices,AD
+1611489:0,"They forgot a sandwich , didn ' t include plastic forks , and didn ' t include pita with the hummus platter .",service general,AD
+1611489:1,"Also , the sandwiches ( nearing $ 7 ) didn ' t come with anything like chips or a side .",food style_options ~~ food prices,AD
+1611489:2,"Overall , not worth the money .",restaurant general ~~ restaurant prices,AD
+1611489:3,"Eating in , the atmosphere saves it , but at your desk , it ' s a very disappointing experience .",restaurant general ~~ ambience general,AD
+1615322:1,Chennai Garden is my favorite Indian restaurant in the city .,restaurant general,AD
+1615322:2,They have authentic Indian at amazin prices .,food quality ~~ food prices,AD
+1615322:3,This restaurant is VEGETARIAN ; there are NO MEAT dishes whatsoever .,food style_options,AD
+1615322:4,The seats are uncomfortable if you are sitting against the wall on wooden benches .,ambience general,AD
+1615322:5,It ' s a rather cramped and busy restaurant and it closes early .,ambience general ~~ restaurant miscellaneous,AD
+1623276:0,Patroon features a nice cigar bar and has great staff .,service general ~~ ambience general,AD
+1623276:1,The food is tasty and portion sizes are appropriate .,food quality ~~ food style_options,AD
+1623276:2,This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates .,restaurant miscellaneous,AD
+1623276:3,Not a great place for family or general dining .,restaurant miscellaneous,AD
+1626564:0,LLOOVVE THIS PLACE .,restaurant general,AD
+1626564:1,Food is excellent .,food quality,AD
+1626564:2,Fish is so very fresh .,food quality,AD
+1626564:3,Waitstaff are very friendly .,service general,AD
+1626564:4,Love YUKA .,restaurant general,AD
+1632445:0,Mermaid Inn is an overall good restaurant with really good seafood .,restaurant general ~~ food quality,AD
+1632445:1,The menu is limited but almost all of the dishes are excellent .,food quality ~~ food style_options,AD
+1632445:2,The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great .,food quality ~~ food quality,AD
+1632445:3,The service is good and ambience is good for a date or group outing .,service general ~~ ambience general,AD
+1632445:4,The only fallback on this restaurant is the prices .,restaurant prices,AD
+1632445:5,"Even though its good seafood , the prices are too high .",food quality ~~ restaurant prices,AD
+1632445:6,The lobster sandwich is $ 24 and although it was good it was not nearly enough to warrant that price .,food quality ~~ food prices,AD
+1632929:2,We were very pleasantly surprised .,restaurant general,AD
+1632929:3,"The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top - notch .",service general ~~ food quality ~~ food quality ~~ food quality,AD
+1632929:4,"When my dessert came , there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift , and said he knew it was a special occassion of some sort .",service general,AD
+1632929:5,Truly the mark of an attentive waiter .,service general,AD
+1632929:6,I highly recommend the restaurant based on our experience last night .,restaurant general,AD
+1642666:0,We ate at this Thai place following the reviews but very unhappy with the foods .,food quality,AD
+1642666:1,We thought that this place is using too much of MSG cooking in the foods .,food quality,AD
+1642666:3,"They don ' t concern much of customer ' s health , just want to make money .",restaurant miscellaneous,AD
+1642666:4,please don ' t fool us .,restaurant miscellaneous,AD
+1649025:1,"I recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .",food quality ~~ food quality ~~ food quality ~~ food quality,AD
+1649025:2,The food is so cheap and the waiters are nice .,service general ~~ food prices,AD
+1649025:3,"Of course , it is crowded but who cares .",ambience general,AD
+1649025:4,Authentic Shanghai style and I cannot recommend a better Shanghai place in New York .,restaurant miscellaneous,AD
+1655504:0,Have frequented ' ino for several years and the food remains excellent .,food quality,AD
+1655504:1,Cheese plate is a varied delight and great bargain at $ 10 .,food quality ~~ food style_options ~~ food prices,AD
+1655504:2,"The large selection of bruschettas , paninis , tramezzinis keep the palate from stagnating .",food style_options ~~ food style_options ~~ food style_options,AD
+1655504:3,"( The asparagus , truffle oil , parmesan bruschetta is a winner ! )",food quality,AD
+1655504:4,Wine list is extensive without being over - priced .,drinks style_options ~~ drinks prices,AD
+1655504:5,"Be sure to try the seasonal , and always delicious , specials .",food quality,AD
+1655504:6,Definitely a neighborhood favorite .,restaurant general,AD
+1655521:0,I loved this place ! !,restaurant general,AD
+1655521:1,I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded .,ambience general,AD
+1655521:2,"The food was very good , a great deal , and the place its self was great .",food quality ~~ ambience general ~~ food prices,AD
+1655521:3,"The wait staff is very freindly , they make it feel like you ' re eating in a freindly little european town .",service general,AD
+1660047:0,"I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! !",restaurant general ~~ service general,AD
+1660047:1,"The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .",service general,AD
+1660047:2,"The waitress , seems to be more concerned of looking good than actually waitressing .",service general,AD
+1660047:3,"After dinner the manager grabbed my boyfriend , asked him : Where are you from . . . maybe you dont know how things work in America . . . and in the end stormed away almost teareyed yelling that tips are the only thing they survive on .",service general,AD
+1660047:4,"We did tip , I guess the model / waitress just wanted more and complained to the manager .",service general,AD
+1660047:5,"The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff , because despite the current one this is a great place .",restaurant general ~~ service general,AD
+1661043:0,Pizza here is consistently good .,food quality,AD
+1661043:1,Salads are a delicious way to begin the meal .,food quality,AD
+1661043:2,You should pass on the calamari .,food quality,AD
+1661043:3,It is thick and slightly soggy .,food quality,AD
+1661043:4,Decor is charming .,ambience general,AD
+1661043:5,Service is average .,service general,AD
+1661757:0,What a great place .,restaurant general,AD
+1661757:2,"The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .",food quality ~~ restaurant prices ~~ ambience general,AD
+1661757:3,"I wasn ' t thrilled to have to wait on line for thirty minutes , but I guess that ' s the price you pay for a popular place .",service general,AD
+1661757:4,I would definitely recommend SEA if you like thai cuisine !,food quality,AD
+1662726:0,I was here a few weeks back and we had the worst customer service experience at a restaurant ever .,service general,AD
+1662726:1,"A gentleman , maybe the manager , came to our table , and without so much as a smile or greeting asked for our order .",service general,AD
+1662726:2,"When asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not Mcdonald ' s , every place makes things differently",service general,AD
+1662726:3,"While it is understandable that every place is indeed different , there was not a need to be uncourteous to customers and downright rude .",service general,AD
+1662726:5,Never again !,restaurant general,AD
+1663111:0,I absolutely Loved this place .,restaurant general,AD
+1663111:2,"Excellent atmosphere , delicious dishes good and friendly service .",service general ~~ food quality ~~ ambience general,AD
+1663111:3,this is can became on e of the NY Italian Food fare institutions .,restaurant general,AD
+1663111:4,I think that it is absolutely brilliant and well runned business operation .,restaurant general,AD
+1663111:5,The wine list is also really nice .,drinks style_options,AD
+1664346:1,"Everything was wonderful ; food , drinks , staff , mileau .",restaurant general ~~ service general ~~ food quality ~~ ambience general ~~ drinks quality,AD
+1664346:2,I would highly recommend this place !,restaurant general,AD
+1671113:0,I have been to Casimir over 5 times and I have always had a great time there .,restaurant general,AD
+1671113:1,The food is great and reasonably priced .,food quality ~~ food prices,AD
+1671113:2,"I have tried to make reservations , but both times , the hostess didn ' t have my name .",service general,AD
+1671113:3,"If the weather is nice , try to snag an outside table .",ambience general,AD
+1671113:4,"The staff has been nice , but they seemed really stressed and the unisex bathroom needs to be cleaned more often .",service general ~~ ambience general,AD
+1700205:0,My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent .,restaurant general,AD
+1700205:1,"From the spectacular caviar to the hospitable waitstaff , I felt like royalty and enjoyed every second of it .",service general ~~ food quality,AD
+1700205:2,"Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .",service general,AD
+1700205:3,I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .,service general ~~ food quality,AD
+1702257:0,Nice Family owned traditional restaurant .,restaurant general,AD
+1702257:1,Fresh ingredients and everything is made to order .,food quality,AD
+1702257:2,I was pleasantly surprised to find this gem in Hoboken .,restaurant general,AD
+1702257:3,Friendly staff that actually lets you enjoy your meal and the company you ' re with .,service general,AD
+1706644:1,"I found the food to be outstanding , particulary the salmon dish I had .",food quality ~~ food quality,AD
+1706644:2,"I also ordered the Change Mojito , which was out of this world .",drinks quality,AD
+1706644:3,"My friends settled for rice dishes , but we came back the following day to try the dim sum , which was good . . . not outstanding , but good .",food quality,AD
+1706644:4,"We ate out in the back patio , which is worth it as it ' s cool and the music is hear well there .",ambience general ~~ ambience general,AD
+1706644:5,"Overall , excellent restaurant !",restaurant general,AD
+1707201:1,The food was good .,food quality,AD
+1707201:2,The place was nice and calm .,ambience general,AD
+1707201:3,but the service was a bit slow .,service general,AD
+1707741:1,The buffet had a nice selection .,food style_options,AD
+1707741:2,The food was average or above including some surprising tasty dishes .,food quality ~~ food quality,AD
+1707741:3,Service was also very good .,service general,AD
+1707741:4,I would go back .,restaurant general,AD
+1710746:0,I got an excellent piece of cheesecake and we had several other nice pastries .,food quality ~~ food quality,AD
+1710746:1,"I would recommend Roxy ' s for that , but not for their food .",food quality ~~ food quality,AD
+1710746:2,My son and his girlfriend both wanted cheeseburgers and they were huge !,food style_options,AD
+1710746:3,"But , they were too big for the bun .",food style_options,AD
+1710746:4,"Consequently , their burgers fell apart in their hands and made such a mess that they did ' nt feel like finishing them .",food style_options,AD
+1710746:5,Also they were $ 15 each !,food prices,AD
+1710746:6,I had a huge pastrami sandwich on a roll .,food style_options,AD
+1710746:7,It was $ 14 not really bad for a pound of Pastrami - but it didn ' t have much taste - I ' ve had better for less elsewhere !,food quality ~~ food prices,AD
+1713185:0,"This place is really trendi but they have forgotten about the most important part of a restaurant , the food .",food quality ~~ ambience general,AD
+1713185:1,"The last two times I ordered from here my food was soo spicy that I could barely eat it , and the spice took away from the flavor of the dish .",food quality ~~ food quality,AD
+1713185:2,And the Tom Kha soup was pathetic .,food quality,AD
+1713185:3,If you want good authentic Thai this place is not the place to go .,food quality,AD
+1718513:0,"We went here for lunch a couple of weeks ago on a Saturday , and I was thoroughly impressed with the food .",food quality,AD
+1718513:1,"The pesto pizza was excellent , thin - crust pizza with a nice amount of spicy Italian cheese that I ' d never heard of before .",food quality ~~ food quality,AD
+1718513:2,"Conveniently located too , being right on Bedford ave .",location general,AD
+1718513:3,"THe back garden sitting area is very pleasant , where you can see their personal herb garden .",ambience general,AD
+1718513:4,I will definetly be going back .,restaurant general,AD
+1719567:0,We had the lobster sandwich and it was FANTASTIC .,food quality,AD
+1719567:1,"My husband said he could ' ve eaten several more , the portion was fine for me he even exclaimed that the french fries were the best he has had .",food quality ~~ food style_options ~~ food style_options,AD
+1719567:2,We had the scallops as an appetizer and they were delicious and the sauce was wonderful .,food quality ~~ food quality,AD
+1719567:4,We waited at the bar and had martinis that were just right .,drinks quality,AD
+1719567:5,We will be back .,restaurant general,AD
+1723402:0,love the food .,food quality,AD
+1723402:1,it ' s the only place you can get yummy authentic japanese comfort food .,food quality,AD
+1723402:3,and you can ' t beat the prices .,restaurant prices,AD
+1723402:4,highly recommended .,restaurant general,AD
+1723658:0,I ' ve lived in NY for 5 years and this place has it all .,restaurant general,AD
+1723658:1,"Great food , good size menu , great service and an unpretensious setting .",service general ~~ food quality ~~ food style_options ~~ ambience general,AD
+1723658:2,"The dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest I ' ve ever had ) .",food quality ~~ food quality ~~ food quality ~~ food quality ~~ food quality,AD
+1723658:3,I ' m glad I was introduced to this place and this is a rare gem in NY .,restaurant general,AD
+1726001:1,"The freshest , best variety , and the fastest delivery .",service general ~~ food quality ~~ food style_options,AD
+1726001:2,Also very inexpensive .,restaurant prices,AD
+1726001:3,A great choice at any cost and a great deal .,restaurant general ~~ restaurant prices,AD
+1726427:0,The service was excellent and the food was delicious .,service general ~~ food quality,AD
+1726427:1,"We are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura .",food quality ~~ food quality ~~ food quality ~~ food quality ~~ food quality ~~ drinks quality,AD
+1726427:3,Definitely a great spot for a nice occasion or date .,restaurant miscellaneous,AD
+1726473:0,"Average to good Thai food , but terrible delivery .",service general ~~ food quality,AD
+1726473:1,I ' ve waited over one hour for food .,service general,AD
+1726473:2,They were very abrupt with me when I called and actually claimed the food was late because they were out of rice .,service general,AD
+1726473:3,A Thai restaurant out of rice during dinner ?,restaurant miscellaneous,AD
+1726473:4,"The food arrived 20 minutes after I called , cold and soggy .",service general ~~ food quality,AD
+1727363:1,This is a wonderful place on all stand points especially value ofr money .,restaurant general ~~ restaurant prices,AD
+1727363:2,An excellent service,service general,AD
+1728733:1,We were greeted promptly by the waiter who was very nice and cordial .,service general,AD
+1728733:2,She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food .,service general ~~ food quality,AD
+1728733:4,The food looked very appetizing and delicious since it came on a variety of fancy plates .,food style_options,AD
+1728733:5,We ended our great experience by having Gulab Jamun ( dessert ) recommended by the waiter .,food quality,AD
+1728733:6,I thanked my friend who recommended me this restaurant and will certainly recommend it to others .,restaurant general,AD
+1730014:1,"Service here was great , food was fantastic .",service general ~~ food quality,AD
+1730014:2,"Guacamole + shrimp appetizer was really great , we both had the filet , very good , didn ' t much like the frites that came with , but the filet was so good , neither of us cared .",food quality ~~ food quality,AD
+1730014:3,Will absolutely visit again .,restaurant general,AD
+1730127:0,You cannot go wrong with this place .,restaurant general,AD
+1730127:1,"The food is outstanding and the service is quick , friendly and very professional .",service general ~~ food quality,AD
+1730127:2,"Always a nice crowd , but never loud .",ambience general ~~ restaurant miscellaneous,AD
+1730127:3,Go here .,restaurant general,AD
+1730127:4,Good for dates or with friends .,restaurant miscellaneous,AD
+1730447:0,I am reluctant to write because I would not want my jem of a pizza place to become overcrowded .,restaurant miscellaneous,AD
+1730447:1,"However , it is jus too good to not praise it .",restaurant general,AD
+1730447:2,"By far , the best pizza in Manhattan .",food quality,AD
+1730447:3,"The crust is thin , the ingredients are fresh and the staff is friendly .",service general ~~ food quality ~~ food quality,AD
+1746113:1,The menu has so many fish items and oysters .,food style_options,AD
+1746113:3,"The fish was really , really fresh .",food quality,AD
+1746113:5,We all agreed that mare is one of the best seafood restaurants in New York .,restaurant general,AD
+1748813:0,I stumbled upon this great pizzeria as I explored my new neighborhood .,restaurant general,AD
+1748813:1,All of the pizzas are terrific and the price is even better !,food quality ~~ restaurant prices,AD
+1748813:2,I highly recommend the Sophia pizza .,food quality,AD
+1748813:3,It ' s to die for !,food quality,AD
+1748839:0,The food was mediocre at best but it was the horrible service that made me vow never to go back .,service general ~~ food quality,AD
+1748839:1,"Immediately after we paid , the waiter took the money and said , okay , you guys are outta here .",service general,AD
+1748839:6,So rushing us out was absolutely unnecessary !,service general,AD
+1748839:7,"For the people who want great food plus great service , Roxy is a place to AVOID !",service general ~~ food quality,AD
+378848:1,"The first time the sushi was outstanding , the second time it was a little bland .",food quality ~~ food quality,AD
+378848:2,I ' m sure I ' ll return for a final judgement tho .,restaurant general,AD
+378848:3,"The blond wood decor is very soothing , the premium sake is excellent and the service is great .",service general ~~ ambience general ~~ drinks quality,AD
+397331:0,Mizu is the Japenese find in Grammercy .,restaurant general,AD
+397331:1,"While their kitchen food is delicious , their Sushi is out of this world .",food quality ~~ food quality,AD
+397331:2,Mizu is home to creative and unique rolls not to found anywhere else .,food style_options,AD
+397331:3,"Not only is the cuisine the best around , the service has always been attentive and charming .",service general ~~ food quality,AD
+397331:4,Warning : You may find it difficult to dine at other Japanese restaurants after a visit to Mizu !,restaurant general,AD
+404464:0,"Thalia is a beautiful restaurant with beautiful people serving you , but the food doesn ' t quite match up .",service general ~~ food quality ~~ ambience general,AD
+404464:1,I ordered the smoked salmon and roe appetizer and it was off flavor .,food quality,AD
+404464:2,"The entree was bland and small , dessert was not inspired .",food quality ~~ food quality ~~ food style_options,AD
+404464:3,I expected quite a bit more from such an expensive menu .,food quality ~~ food prices,AD
+426805:0,"The view is spectacular , and the food is great .",food quality ~~ location general,AD
+426805:1,Wonderful strawberry daiquiries as well !,drinks quality,AD
+426805:2,Definitely worth the trip to Battery Park City !,restaurant general,AD
+426805:3,One of my favorite places in Manhattan .,restaurant general,AD
+426930:0,Authentic Taiwanese food that ' s cheap . . . what more could you ask for ?,food quality ~~ food prices,AD
+426930:1,( Besides that there should be more restaurants like it around the city ) .,restaurant general,AD
+426930:2,The cold appetizer dishes taste like the way I remember them to taste when I was growing up in Taiwan .,food quality,AD
+430342:0,delicious simple food in nice outdoor atmosphere .,food quality ~~ food style_options ~~ ambience general,AD
+430342:1,"Kind , attentive wait staff .",service general,AD
+430342:2,I really like both the scallops and the mahi mahi ( on saffron risotto - yum ! ) .,food quality,AD
+430342:3,My friend devoured her chicken and mashed potatos .,food quality,AD
+430342:4,Delicious crab cakes too .,food quality,AD
+430342:5,"Even if the food wasn ' t this good , the garden is a great place to sit outside and relax .",food quality ~~ ambience general,AD
+430342:6,Great neighborhood joint .,restaurant general,AD
+433878:0,This is a nice pizza place with good selection of thin crust pizza including the Basil slice .,restaurant general ~~ food quality ~~ food quality ~~ food style_options,AD
+433878:1,"Their calzones are horrific , bad , vomit - inducing , YUCK .",food quality,AD
+433878:2,They smell like they stuff them with old canned vegetables like the spinach mushroom calzone .,food quality,AD
+433878:3,The counter service is bad .,service general,AD
+433878:4,They charge different prices all the time .,service general,AD
+433878:5,"They ' re rude at times , and not very friendly .",service general,AD
+433878:6,NO PIZZA 33 for me !,restaurant general,AD
+436868:0,"Anybody who likes this place must be from a different planet , where greasy , dry and tasteless are complimentary .",food quality,AD
+436868:1,"The dosas are skimpy , unattractive and drip with grease , and personally I ' d drink popcorn topping before I ' d eat another one of these .",food quality ~~ food style_options,AD
+436868:2,"The sandwiches are dry , tasteless and way overpriced .",food quality ~~ food prices,AD
+436868:3,"Calling the place Hampton Chutney Co . does warn you that these folks offer more style than substance , but in this unattractive room with unhelpful clerks there was a dearth of the former too .",restaurant general ~~ service general ~~ ambience general,AD
+444818:0,"Seriously , this place kicks ass .",restaurant general,AD
+444818:1,"The atmosphere is unheralded , the service impecible , and the food magnificant .",service general ~~ food quality ~~ ambience general,AD
+444818:2,"Best Italian food I ever had ( and being Italian , that means alot ) .",food quality,AD
+444818:3,"It is nearly impossible to get a table , so if you ever have the chance to go here for dinner , DO NOT pass it up .",restaurant general,AD
+445960:0,"This is such a lovely , peaceful place to eat outside .",ambience general,AD
+445960:1,The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty .,location general,AD
+445960:2,"It is set far from the small street it ' s on , and there is no traffic noise .",location general,AD
+445960:3,"The food is good , especially their more basic dishes , and the drinks are delicious .",food quality ~~ food quality ~~ drinks quality,AD
+445960:4,"This is a great place to take out - of - towners , and perfect for watching the sunset .",location general,AD
+447697:0,Great sushi experience .,food quality,AD
+447697:1,Nice value .,restaurant prices,AD
+447697:2,Unique apppetizers .,food quality,AD
+447697:3,Try sushimi cucumber roll .,food quality,AD
+449802:0,"Good spreads , great beverage selections and bagels really tasty .",food quality ~~ food quality ~~ drinks style_options,AD
+449802:1,THE BIG COMPLAINT : NO TOASTING AVAILABLE .,service general,AD
+449802:3,Murray won ' t do it .,service general,AD
+449802:5,But who says Murray ' s is anything about service .,service general,AD
+449802:6,"So close , but not good enough .",restaurant general,AD
+454704:0,Don ' t be fooled by crowds of people .,restaurant miscellaneous,AD
+454704:1,The service is awful .,service general,AD
+454704:2,This place is not worth the prices .,restaurant general ~~ restaurant prices,AD
+454704:3,"Also , don ' t plan on asking for your favorite roll , if it ' s not on the menu , you can ' t have it .",service general,AD
+455623:0,Love Pizza 33 . .,restaurant general,AD
+455623:1,I will be out with friends and all of a sudden I am hungry and I only crave one thing . . . their Pizza .,food quality,AD
+455623:3,It hits the spot every time,restaurant general,AD
+461928:0,This tiny Williamsburg spot is always pleasantly surprising .,restaurant general,AD
+461928:1,The pizza is delicious and the proprietor is one of the nicest in NYC .,service general ~~ food quality,AD
+461928:3,I ' ve been many time and have never been disappointed .,restaurant general,AD
+464215:1,They even scoop it out nice ( for those on a diet ) not too much not to little .,food style_options,AD
+464215:2,The cream cheeses are out of this world and I love that coffee ! !,food quality ~~ drinks quality,AD
+464215:3,A little crowded but they move that line really fast !,service general ~~ restaurant miscellaneous,AD
+464215:4,A little pricey but it really hits the spot on a Sunday morning !,restaurant general ~~ restaurant prices,AD
+464342:0,"Bagels are ok , but be sure not to make any special requests !",service general ~~ food quality,AD
+464342:1,I asked for an open faced cheese sandwich and the manager basically told me to take my business elsewhere !,service general,AD
+464342:2,Be sure not to get anything other than bagels ! . .,food quality ~~ food quality,AD
+464342:3,the turkey burgers are scary !,food quality,AD
+470488:0,The worst excuse for Japanese food I ' ve ever encountered .,restaurant miscellaneous,AD
+470488:1,The soup for the udon was soy sauce and water .,food quality,AD
+470488:2,The sushi was awful !,food quality,AD
+470488:3,The rice was poor quality and was cooked so badly it was hard .,food quality,AD
+470488:4,"Furthermore , the rice had no seasoning , so the sushi was bland and disgusting .",food quality ~~ food quality,AD
+470488:5,"The fish was adequate , but inexpertly sliced .",food style_options,AD
+470488:6,It is obvious that no one in the restaurant has any idea about or experience with Japanese cuisine .,food quality,AD
+475298:0,"Good , fast service .",service general,AD
+475298:1,I would highly recommend .,restaurant general,AD
+475298:2,Food is great and inexpensive .,food quality ~~ food prices,AD
+475298:3,The location is perfect .,location general,AD
+475298:4,Give it a try and enjoy .,restaurant general,AD
+475512:2,"Well , this place is so Ghetto its not even funny .",ambience general,AD
+475512:3,If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you ' ll love it here .,drinks prices ~~ ambience general,AD
+475512:4,Would NEVER go back there .,restaurant general,AD
+476473:0,Awsome Pizza especially the Margheritta slice .,food quality ~~ food quality,AD
+476473:1,Always busy but fast moving .,service general,AD
+476473:2,Great atmoshere and worth every bit .,restaurant general ~~ ambience general,AD
+476473:3,Open late ( well as late as I ever got there and I ' m a night person ),restaurant miscellaneous,AD
+483111:0,Winnie and her staff are the best crew you can find serving you .,service general ~~ service general,AD
+483111:1,The food is reliable and the price is moderate .,food quality ~~ restaurant prices,AD
+483111:2,What more can you ask for ?,restaurant general,AD
+485026:0,"For authentic Thai food , look no further than Toons .",food quality,AD
+485026:2,"Try the Pad Thai , or sample anything on the appetizer menu . . . they ' re all delicious .",food quality ~~ food quality,AD
+485767:0,Everything about this restaurant was special .,restaurant general,AD
+485767:1,"The service was attentive , yet discreet .",service general,AD
+485767:2,The flavors robust and subtle .,food quality,AD
+485767:3,The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal .,food quality,AD
+485767:4,I ' m saving up for my next visit .,restaurant general,AD
+485966:1,The place was quiet and delightful .,ambience general,AD
+485966:2,Service was good and food is wonderful .,service general ~~ food quality,AD
+485966:3,I did not try the caviar but I tried their salmon and crab salad ( they are all good ),food quality ~~ food quality,AD
+485966:4,It is definitely a good spot for snacks and chat .,restaurant general,AD
+490565:0,"As a retired hipster , I can say with some degree of certainty that for the last year Lucky Strike has been the best laid - back late night in the city .",restaurant general,AD
+490565:1,"The wait staff is pleasant , fun , and for the most part gorgeous ( in the wonderful aesthetic beautification way , not in that she ' s - way - cuter - than - me - that - b @ # $ * way ) .",service general,AD
+490565:2,"The food is yummy , especially their cooked - to - perfection mussels in spicy tomato sauce and their shoestring crispy fries .",food quality ~~ food quality ~~ food quality,AD
+490565:3,"But the best part about LS is the late night atmosphere , delightfully free of the BTs .",ambience general,AD
+490565:4,"You can get a completely delish martini in a glass ( that ' s about 2 1 / 2 drinks ) for $ 8 . 50 ( I recommend the Vanilla Shanty , mmmm ! ) in a great homey setting with great music .",drinks style_options ~~ drinks prices ~~ ambience general ~~ ambience general ~~ drinks quality ~~ drinks quality,AD
+490565:5,"The in - house lady DJ on Saturday nights has outrageously good taste in music , and moreover , takes requests .",ambience general,AD
+490565:6,You can ' t go wrong with this place .,restaurant general,AD
+493013:0,Suan is a great place that I often take my friends ( classmates ) too .,restaurant general,AD
+493013:1,"Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .",restaurant prices ~~ location general,AD
+493013:2,I LOVE their Thai,food quality,AD
+493013:3,noodles with shrimp and chicken and coconut juice is the MUST !,food quality,AD
+493013:5,I will go back to Suan soon !,restaurant general,AD
+493013:6,In summer - eat outside on a terrace ( another great feature of Suan ) ! ! !,ambience general,AD
+493514:0,I cannot imagine a friendlier staff working in a restaurant .,service general,AD
+493514:1,I cannot imagine better Indian food in all of the city .,food quality,AD
+493514:2,I cannot imagine you not rushing out to eat there .,restaurant general,AD
+494850:1,"During the course of the past 3 months , the chef and staff changed and it was not for the better .",service general ~~ food quality,AD
+494850:2,I wish they would change back to what it was before .,restaurant general,AD
+494850:3,The food now is inconsistent .,food quality,AD
+496132:0,This is the kind of place you ' d like to take all your friends to and still keep a secret .,restaurant miscellaneous,AD
+496132:1,The setting is casual and romantic .,ambience general,AD
+496132:2,Prices are very good .,restaurant prices,AD
+496132:3,The food is excellent !,food quality,AD
+496132:4,"if you ' re daring , try the balsamic vinegar over icecream , it ' s wonderful !",food quality,AD
+498657:0,"Do not get the Go Go Hamburgers , no matter what the reviews say .",food quality,AD
+498657:1,They were such a rip - off ( $ 8 . 95 for four small meat patties in steamed buns ) and not worth trying .,food quality ~~ food style_options ~~ food prices,AD
+498657:2,"The rest of the dim sum , though pricey by Chinatown standards , is worth it .",food quality ~~ food prices,AD
+498657:3,Steamed fresh so brought hot hot hot to your table .,food quality,AD
+498657:4,"The wait here is long for dim sum , but if you don ' t like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .",service general ~~ ambience general ~~ restaurant miscellaneous,AD
+498657:5,"A few tips : skip the turnip cake , roast pork buns and egg custards .",food quality ~~ food quality ~~ food quality,AD
+498657:6,These are overpriced and you can get better just around the corner :,food quality ~~ food prices,AD
+503807:1,I was pleasantly suprised .,restaurant general,AD
+503807:2,The food was exceptional .,food quality,AD
+503807:4,"I choose to go with one of the special , the braised lamb shank in red wine , which was excellent .",food quality,AD
+503807:5,The service was friendly and the atmosphere was casual .,service general ~~ ambience general,AD
+503807:6,The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal,food quality ~~ ambience general,AD
+505535:0,this little place has a cute interior decor and affordable city prices .,restaurant prices ~~ ambience general,AD
+505535:1,"the pad se ew chicken was delicious , however the pad thai was far too oily .",food quality ~~ food quality,AD
+507755:0,"Have eaten at Ginger House several times , and it ' s always good .",restaurant general,AD
+507755:1,The fried dumplings are GREAT !,food quality,AD
+507755:2,Finally a reliable Chinese restaurant !,restaurant general,AD
+507844:0,This place would be so much better served by being run by a group that actually understands customer service .,service general,AD
+507844:2,"They are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place , but also become hostile !",service general,AD
+507844:3,"Nobody at this restaurant will give firm answers about anything and in the end , not one person takes responsibility for anything .",service general,AD
+507844:4,"Terrible , terrible management - deserves to be shut - down .",restaurant general ~~ service general,AD
+507937:0,Never fails to please .,restaurant general,AD
+507937:1,"delicious bagels , especially when right out of the oven .",food quality,AD
+507937:2,Spreads and toppings are great - though a bit pricey .,food quality ~~ food quality ~~ food prices ~~ food prices,AD
+507937:3,Service is fast and friendly .,service general,AD
+507937:4,"Only drawback - they won ' t toast your bagel , and they don ' t make eggs for the bagel .",service general,AD
+507937:5,But that is highly forgivable .,restaurant miscellaneous,AD
+509227:1,"The food is decent at best , and the ambience , well , it ' s a matter of opinion , some may consider it to be a sweet thing , I thought it was just annoying .",food quality ~~ ambience general,AD
+509227:2,"If celebrities make you sweat , then your in for a ride , but if your like most around these parts then you ' ll just yawn and wonder whats with all the hype .",restaurant miscellaneous,AD
+509227:3,"Rao is a good restaurant , but it ' s nothing special .",restaurant general,AD
+511290:1,"But after last night , Spice Grill is the only place I ' m eating indian cuisine .",food quality,AD
+511290:2,You must try the shrimp appetizers .,food quality,AD
+511290:3,Even my Indian friend couldn ' t believe how good and tasty everything was .,food quality,AD
+511290:4,This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time .,service general ~~ ambience general,AD
+512294:0,"Great food , great prices , great service .",service general ~~ food quality ~~ restaurant prices,AD
+512294:1,"If you are looking for a good quality , cheap eats - this is the place .",food quality ~~ food prices,AD
+512925:0,it ' s a perfect place to have a amanzing indian food .,food quality,AD
+512925:1,I really loved the different and inovated touch that ' s the cheff gives to the food .,food style_options,AD
+512925:2,"also it ' s great to have dinner in a very romantic and confortable place , the service it ' s just perfect . . . they ' re so frendly that we never want to live the place !",service general ~~ ambience general,AD
+513395:1,"Their bagels are fine , but they are a little overcooked , and not really a ' special ' bagel experience .",food quality,AD
+513521:0,Great bagels made the old - fashioned way .,food quality ~~ food style_options,AD
+513521:2,Drawbacks : service is slow and they don ' t toast !,service general,AD
+519425:0,The food was absolutely amazing ! !,food quality,AD
+519425:1,The baked clams octopus we shared as appetizers were the best we ' ve ever had ! !,food quality,AD
+519425:2,"The lamb was tender so full of flavor , the dessert was divine ! !",food quality ~~ food quality,AD
+519425:3,The waiter was attentive .,service general,AD
+519425:4,The place itself is beautiful the bar scene seems to be happening .,ambience general ~~ ambience general,AD
+521916:0,"Downtown Dinner 2002 - Prixe fix : Appetizers were ok , waiter gave me poor suggestion . . try the potato stuff kanish best one .",service general ~~ food quality ~~ food quality,AD
+521916:1,"Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",food quality ~~ food quality ~~ food general,AD
+521916:2,Dessert is a joke . . . dont bother,food quality,AD
+527109:0,"Volare virgins or weekly regulars , everyone gets treated the same and you can ' t ask for more than that when the service is this friendly .",service general,AD
+527109:1,"The restaurant has a Family feel , not least with regard to the portions which are enormous ; the veal alone could have single - handedly solved third world famine .",food style_options ~~ food style_options ~~ ambience general,AD
+527109:2,"The anti - pasta was excellent , especially the calamari , as were the filling pasta mains .",food quality ~~ food quality ~~ food quality ~~ food style_options,AD
+527109:3,The wine list is extensive and can easily hike up an otherwise reasonably priced meal .,drinks style_options ~~ food prices,AD
+527109:4,"Still , any quibbles about the bill were off - set by the pour - your - own measures of liquers which were courtesey of the house . . .",drinks style_options ~~ restaurant prices,AD
+528251:0,Fantastic place .,restaurant general,AD
+528251:1,Cute and decorative .,ambience general,AD
+528251:2,A pleasant surprise .,restaurant general,AD
+528251:3,Go there to relax and feel like your somewhere else .,ambience general,AD
+530517:0,Lucky Strike is a great casual place to just grab a bite to eat .,restaurant general,AD
+530517:2,"Great food , great decor , great service .",service general ~~ food quality ~~ ambience general,AD
+530517:3,I recommend it !,restaurant general,AD
+535086:0,"This is the perfect spot for meeting friends , having lunch , dinner , pre - theatre or after - theatre drinks !",restaurant miscellaneous,AD
+535086:1,( Always ask the bartender for the SEASONAL beer ! ! !,drinks quality,AD
+535086:2,Guaranteed to be a tasty experience ! ),drinks quality,AD
+535086:3,Excellent spot for holiday get togethers with co - workers or friends that you haven ' t seen in a while .,restaurant miscellaneous,AD
+535086:4,I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED !,restaurant general,AD
+535086:5,All the people that I bring there go back on their own and bring THEIR friends !,restaurant miscellaneous,AD
+535086:6,Go there once and oh yes . . . you will go back . . . you will . . .,restaurant general,AD
+535171:0,What a great place !,restaurant general,AD
+535171:1,Not the typical NYC gimmick theme restaurant .,ambience general,AD
+535171:2,"A cool bar with great food , and tons of excellent beer .",food quality ~~ drinks style_options ~~ ambience general ~~ drinks quality,AD
+535171:3,And even with it ' s Pub atmosphere they were great to my kids too !,service general,AD
+535171:4,Loved it !,restaurant general,AD
+535248:1,The shrimp scampi was excellent and the antipasti were plentiful .,food quality ~~ food style_options,AD
+535248:2,It is expensive but well worth the money .,restaurant general ~~ restaurant prices,AD
+535248:3,"If you venture off the island of Manhattan and can ' t seem to find a great Italian restaurant , drive to Corona .",restaurant general,AD
+536919:0,The only thing more wonderful than the food ( which is exceptional ) is the service .,service general ~~ food quality,AD
+536919:1,The only thing the waiters don ' t do for you is wipe your chin when you leave .,service general,AD
+536919:2,Wonderful at holiday time .,restaurant miscellaneous,AD
+541532:0,Cozy romantic atomosphere with only around 15 tables at most .,ambience general,AD
+541532:1,Service was very prompt but slightly rushed .,service general,AD
+541532:2,"Food was very good , but not what I would consider out of this world .",food quality,AD
+541532:3,Go here for a romantic dinner but not for an all out wow dining experience .,ambience general ~~ restaurant miscellaneous,AD
+553097:0,My friend from Milan and myself were pleasantly surprised when we arrived and everyone spoke italian .,restaurant miscellaneous,AD
+553097:1,Too bad the food wasn ' t of the same heritage .,food quality,AD
+553097:2,"The porcini mushroom pasta special was tasteless , so was the seafood tagliatelle .",food quality ~~ food quality,AD
+553097:3,A real dissapointment .,food quality,AD
+553097:4,But that wasn ' t the icing on the cake : a tiramisu that resembled nothing I have ever had .,food quality,AD
+553097:5,They should have called it mascarpone with chocolate chips - good but a far cry from what the name implies .,food quality,AD
+553097:6,Priced at upper intermediate range .,restaurant prices,AD
+555734:0,I really liked this place .,restaurant general,AD
+555734:1,"Everything I had was good , and I ' m a eater .",food quality,AD
+555734:2,It was pretty inexpensive too .,restaurant prices,AD
+558423:0,This place has the best Chinese style BBQ ribs in the city .,food quality ~~ food style_options,AD
+558423:1,I also recommend the rice dishes or the different varieties of congee ( rice porridge ) .,food quality,AD
+558423:2,It ' s great to go for a quick lunch either alone or with a friend .,restaurant miscellaneous,AD
+558423:3,It ' s definately not a place to go if you want to impress someone .,restaurant miscellaneous,AD
+558423:4,"However , if you want great food at a great price and don ' t mind the decor , you can ' t beat this place .",food quality ~~ ambience general ~~ food prices,AD
+558423:5,Quick and friendly service .,service general,AD
+558423:6,This is one of the best comfort food places in the city .,restaurant general,AD
+558423:7,It ' s somewhere you can eat and be happy .,restaurant general,AD
+561054:1,"When you ' re sitting in their main dining room ( which has a spectacular , hand - painted high ceiling ) you ' d never know there was a world outside .",ambience general ~~ ambience general,AD
+561054:2,"The food is wonderful , tasty and filling , and the service is professional and friendly .",service general ~~ food quality ~~ food style_options,AD
+561054:3,"I can ' t wait for summer , when they serve outside on their gigantic patio .",ambience general,AD
+565344:0,I recently tried Suan and I thought that it was great .,restaurant general,AD
+565344:1,This little place definitely exceeded my expectations and you sure get a lot of food for your money .,restaurant general ~~ food style_options ~~ food prices,AD
+565344:2,The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals .,service general ~~ food quality ~~ food quality,AD
+565344:3,I have to say that I am pleasantly suprised and I will most likely stop in again if I am in the neighborhood .,restaurant general,AD
+571962:0,They all know you .,service general,AD
+571962:1,Good food .,food quality,AD
+571962:2,Good drink .,drinks quality,AD
+571962:3,How do you rate home ?,restaurant miscellaneous,AD
+578016:0,I have never had cheescake like this .,food quality,AD
+578016:1,I thought I had died and gone to heaven .,food quality,AD
+584025:0,"Great spot , whether looking for a couple of drinks or quiet dinner .",restaurant general ~~ restaurant miscellaneous,AD
+584025:1,Warm and friendly in the winter and terrific outdoor seating in the warmer months .,ambience general,AD
+584025:2,The food is great and they have a good selecion of wines at reasonable prices .,food quality ~~ drinks style_options ~~ drinks prices,AD
+584025:3,Have been several times and it never dissapoints .,restaurant general,AD
+608500:1,We were less than impressed .,restaurant general,AD
+608500:2,"While the ambiance and atmosphere were great , the food and service could have been a lot better .",service general ~~ food quality ~~ ambience general ~~ ambience general,AD
+608500:3,"We ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .",food quality ~~ food style_options,AD
+608500:4,Probably would not go again . . .,restaurant general,AD
+610611:0,"i ' ve been to sapphire twice and both times the food was fine , if not good .",food quality,AD
+610611:1,"stick with the chicken , beef , and lamb dishes .",food quality ~~ food quality ~~ food quality,AD
+610611:4,"service is friendly , and never had a problem walking in and getting a table .",service general ~~ restaurant miscellaneous,AD
+610611:6,skip dessert .,food quality,AD
+611117:0,Best Reuben sandwich ever !,food quality,AD
+611117:1,A classic !,food quality,AD
+611117:2,Don ' t miss Bloom ' s on your next trip to Manhatten .,restaurant general,AD
+611117:3,"It was the first place we ate on our first trip to New York , and it will be the last place we stop as we head out of town on our next trip to New York .",restaurant miscellaneous,AD
+611117:4,Thanks Bloom ' s for a lovely trip .,restaurant general,AD
+615180:1,"The food was not fresh , the sauces were bland and very oily .",food quality ~~ food quality,AD
+615180:2,It just wasn ' t Thai .,food quality,AD
+620892:1,Was surprisingly disappointed .,food quality,AD
+620892:2,Pizza was a little soggy .,food quality,AD
+620892:3,Ravioli was good . . . but I have to say that I found everything a bit overpriced .,food quality ~~ food prices,AD
+620892:4,Not enough wines by the glass either .,drinks style_options,AD
+620892:5,"Service , however , was excellent . . . and I liked the setting / atmosphere a lot .",service general ~~ ambience general,AD
+620892:6,"Food was just average . . . if they lowered the prices just a bit , it would be a bigger draw .",food quality ~~ restaurant prices,AD
+624715:0,This place is a great bargain .,restaurant prices,AD
+624715:1,Authentic Pakistani food .,food quality,AD
+624715:2,People are always friendly .,service general,AD
+624715:4,"Just straight up cheap , good food .",food quality ~~ food prices,AD
+626269:0,Faan is sooo good .,restaurant general,AD
+626269:1,The best pad thai i ' ve ever had .,food quality,AD
+626269:2,The design and atmosphere is just as good .,ambience general ~~ ambience general,AD
+626269:3,bottles of wine are cheap and good .,drinks prices ~~ drinks quality,AD
+626269:4,What more could you want ?,restaurant general,AD
+630914:0,The food was actually aweful .,food quality,AD
+630914:1,I ' m not picky - but it was actually gross .,food quality,AD
+630914:2,"The mussles were the fishiest things I ' ve ever tasted , the seabass was bland , the goat cheese salad was missing the goat cheese , the penne w / chicken had bones in it . . . It was disgusting .",food quality ~~ food quality ~~ food quality,AD
+630914:3,"Nice atmosphere , the service was very pleasant and the desert was good .",service general ~~ food quality ~~ ambience general,AD
+630914:4,Wouldn ' t recomend it for dinner !,restaurant general,AD
+632121:0,This is the perfect date spot for Williamsburg couples .,restaurant miscellaneous,AD
+632121:1,The jukebox plays everything from Italian Opera to The Strokes .,ambience general,AD
+632121:2,"The food is amazing , rich pastas and fresh doughy pizza .",food quality ~~ food quality ~~ food style_options,AD
+632121:3,"Best of all is the warm vibe , the owner is super friendly and service is fast .",service general ~~ service general ~~ ambience general,AD
+632121:4,"If only they delivered , they ' d make a mint !",restaurant miscellaneous,AD
+657129:0,go here for the drinks !,drinks quality,AD
+657129:3,the drinks are amazing and half off till 8pm .,drinks prices ~~ drinks quality,AD
+657129:4,"Ask for Usha , the nicest bartender in manhattan .",service general,AD
+657129:5,My fav was the sassy lassi . . .,drinks quality,AD
+680345:0,This is an amazing place to try some roti rolls .,food quality,AD
+680345:1,I really recommend the very simple Unda ( Egg ) rolls .,food quality,AD
+680345:2,"Delicate spices , onions , eggs and a kick - ass roti .",food quality ~~ food quality ~~ food quality ~~ food quality,AD
+680345:3,Amazing !,food quality,AD
+680390:0,"Toons has recently been redone , so it ' s now a very attractive space .",ambience general,AD
+680390:1,The food ' s as good as ever .,food quality,AD
+680390:2,"In an area sadly lacking in decent Thai food , this is one of the best spots .",food quality,AD
+682250:0,"Went here last night - nice decor , good service , but the food was surprisingly excellent .",service general ~~ food quality ~~ ambience general,AD
+682250:1,"The portions are HUGE , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people .",food style_options,AD
+682250:3,Can ' t wait to go back .,restaurant general,AD
+682391:0,Best drumsticks over rice and sour spicy soup in town !,food quality ~~ food quality,AD
+682391:1,Beef noodle soup is good as well .,food quality,AD
+682391:2,The service is good and the resturant is clean .,service general ~~ ambience general,AD
+682391:3,Best Taiwanese food in NY !,food quality,AD
+707917:0,I have been to Rao ' s probably 15 times the past 3 years and it keeps getting better .,restaurant general,AD
+707917:1,"For those that go once and don ' t enjoy it , all I can say is that they just don ' t get it .",restaurant miscellaneous,AD
+707917:2,Rao ' s has the best service and atmosphere in NYC .,service general ~~ ambience general,AD
+707917:3,Good luck getting a table .,restaurant miscellaneous,AD
+709294:0,My roommate and I LOVE this place .,restaurant general,AD
+709294:1,"We recently decided to try this location , and to our delight , they have outdoor seating , perfect since I had my yorkie with me .",ambience general,AD
+709294:2,Indoor was very cozy and cute .,ambience general,AD
+709294:3,"The portion sizes here are huge , and the sushi is good .",food quality ~~ food style_options,AD
+709294:5,Staff is very accomodating .,service general,AD
+713152:0,"Excellent dumplings served amid clean , chic decor .",food quality ~~ ambience general,AD
+713152:1,"I got the $ 10 10 - piece dim sum combo , every bite of which was great .",food quality,AD
+713152:2,But $ 1 for each small piece ? ? ?,food prices,AD
+713152:3,Not worth it .,food prices,AD
+713152:4,I won ' t go back unless someone else is footing the bill .,restaurant prices,AD
+717570:1,The decor is very simple but comfortable .,ambience general,AD
+717570:2,The food was delicious but do not come here on a empty stomach .,food quality ~~ food style_options,AD
+717570:3,The portions are small but being that the food was so good makes up for that .,food quality ~~ food style_options,AD
+717570:4,You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .,food quality ~~ food quality,AD
+717570:5,The staff there is very attentive and down to earth .,service general,AD
+717570:6,I loved it and would go again .,restaurant general,AD
+720418:0,Great Indian food and the service is incredible .,service general ~~ food quality,AD
+720418:1,The owner truly caters to all your needs .,service general,AD
+720418:2,"When family came in he gave them apps to test their palets , and then ordered for them .",service general,AD
+720418:3,Everyone was more then happy with his choices .,service general,AD
+720418:4,Great food and the prices are very reasonable .,food quality ~~ restaurant prices,AD
+720620:1,The food here does a great service to the name ( Cantonese that is . . . ) .,food quality,AD
+720620:2,I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork .,food quality,AD
+720620:3,This dish is my favorite and I always get it when I go there and never get tired of it .,food quality,AD
+720620:4,"Try the congee and the donut like deep fried dough they call Ow Ley Soh , a delicious and sweet tasting bread .",food quality ~~ food quality,AD
+720620:5,Simply some good tasting Chinese food at incredible prices . . .,food quality ~~ food prices,AD
+720620:6,Service is not what you are coming here for . . .,service general,AD
+720620:8,Big Wong is a great place to eat and fill your stomach .,restaurant general,AD
+735448:1,"whoever the jazz duo was , they were on POINT .",ambience general,AD
+735448:2,"good music , great food , speedy service affordable prices .",service general ~~ food quality ~~ restaurant prices ~~ ambience general,AD
+735448:3,even the wine by the glass was good .,drinks quality,AD
+735448:4,"its a little out of the way if you don ' t live in the neighborhood , but definitely worth the trip from wherever you are .",restaurant general ~~ location general,AD
+737999:0,Consistently good Japanese Tapas .,food quality,AD
+737999:2,Always good drinks and service is pretty good ;,service general ~~ drinks quality,AD
+737999:3,Atmosphere is nice and relaxed too . . .,ambience general,AD
+737999:4,A great place to meet up for some food and drinks . . .,restaurant miscellaneous,AD
+737999:5,Yakitori ( bbq meats ) is tasty too .,food quality,AD
+740923:1,"If you don ' t mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .",service general ~~ food quality ~~ restaurant miscellaneous,AD
+740923:2,Price and quality of fish alone will keep us from making a return visit .,restaurant general ~~ food quality ~~ food prices,AD
+740923:3,Wasn ' t going to share but I feel obligated . . . while sitting at the sushi bar dining we watched the chef accidentally drop a piece of Unagi on the floor and upon retrieving it from the floor proceed to use the piece in the delivery order he was preparing .,food quality,AD
+740923:4,No thanks ! ! !,restaurant general,AD
+744478:0,"This place , which is only a few months old , is perhaps Queens ' biggest secret !",restaurant general,AD
+744478:1,"Fabulous decor - makes you feel like you ' re in a trendy Manhattan restaurant , very very good food , cheaply - priced , generally friendly staff , and if you ' re a Manhattanite , or spend most of your time in Manhattan , Rice Avenue will make you feel at home . . . . . very Soho / Village / Upper West Side minus the expensive prices and pretentious clientele . . . . . all on Roosevelt Avenue !",service general ~~ food quality ~~ restaurant prices ~~ ambience general ~~ ambience general ~~ food prices ~~ location general,AD
+746254:0,We were seated outside and the waiter spilled red wine and hot tea on myself and my date .,service general,AD
+746254:1,We were then shooed inside .,service general,AD
+746254:2,"One would think we ' d get an apology or complimentary drinks - instead , we got a snobby waiter wouldn ' t even take our order for 15 minutes and gave us lip when we asked him to do so .",service general,AD
+746254:3,"We left , never to return .",restaurant general,AD
+746254:4,"With so many good restaurants on the UWS , I don ' t need overpriced food , absurdly arrogant wait - staff who don ' t recognize they work at a glorified diner , clumsy service , and management that doesn ' t care .",service general ~~ service general ~~ service general ~~ food prices,AD
+751493:0,I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .,service general ~~ food quality ~~ food prices,AD
+754495:2,The food is okay and the prices here are mediocre .,food quality ~~ restaurant prices,AD
+757762:0,Baluchi ' s has solid food and a nice decor at reasonable prices .,food quality ~~ restaurant prices ~~ ambience general,AD
+757762:1,The only problem is that the manager is a complete incompetent .,service general,AD
+757762:2,He offers subpar service and has no personality .,service general,AD
+757762:3,"In fact , it appears he is going to go postal at any moment .",service general,AD
+757762:5,There is no excuse for such lousy service !,service general,AD
+758263:0,I have never before eaten 40 pieces of relatively good nigiri .,food quality,AD
+758263:2,You can do it here .,food style_options,AD
+758263:3,$ 20 for all you can eat sushi cannot be beaten .,food prices,AD
+759781:0,"I went to Areo on a Sunday afternoon with four of my girlfriends , and spent three enjoyable hours there .",restaurant general,AD
+759781:2,"Most of the servers are very attentive , friendly and quite attractive .",service general,AD
+759781:4,"The vibe is very relaxed and cozy , service was great and the food was excellent !",service general ~~ food quality ~~ ambience general,AD
+759781:5,Me and my girls will definitely go back .,restaurant general,AD
+773720:0,Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went .,food quality ~~ location general,AD
+773720:1,I would highly recommand requesting a table by the window .,location general,AD
+773720:2,Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .,service general ~~ ambience general,AD
+872763:1,The food is great .,food quality,AD
+872763:2,Personal pans are the perfect size for those hungry nights .,food style_options,AD
+872763:3,I heartily recommend .,restaurant general,AD
+872763:4,There is a downside if you ' re ordering in - - the delivery guys have MAJOR attitude .,service general,AD
+872763:5,Never have I had such dramatic delivery guys ( a lot of huffing and panting and muttering under breath b / c I live in a walkup ) who always seem disappointed with their tips .,service general,AD
+875139:0,"Love the scene first off - the place has a character and nice light to it . . very fortunate , location wise .",ambience general ~~ ambience general ~~ location general,AD
+875139:1,The pizza was pretty good and huge .,food quality ~~ food style_options,AD
+875139:2,The price very reasonable .,restaurant prices,AD
+875139:3,We were 4 and got the family size penne a la vodka which was tremendously gigantic portion . . . a bucket of food literally .,food style_options,AD
+875139:5,I would say that all was fine and tasty but the heaviness on my stomach someting that i can ' t not mention or undermine .,food quality,AD
+875139:6,"The pasta penne was pretty extra buttery , creamy which means a big task to diggest . . tasty at first but i would say that i was full with a slice of pizza and 7 to count , penne . . . got a little moody afterwards cause was stuffed . . . lol",food quality ~~ food style_options,AD
+929329:2,"La Rosa waltzes in , and I think they are doing it the best .",food quality,AD
+929329:3,"Interesting selection , good wines , service fine , fun decor .",service general ~~ food style_options ~~ ambience general ~~ drinks quality,AD
+935633:1,I love it .,restaurant general,AD
+935633:2,I plan on stopping by next week as well .,restaurant general,AD
+935633:3,"I found it on a cold night , the perfect spot to warm up .",restaurant miscellaneous,AD
+935633:4,I recieved prompt service with a smile .,service general,AD
+935633:5,"To me it exemplifies Soho , cute , artsy , interesting .",ambience general,AD
+935633:6,Definately check it out ! ! !,restaurant general,AD
+955711:0,This place blew me away . . . by far my new favorite restaurant on the uppereast side .,restaurant general,AD
+955711:1,The wine list is extensive and impressive .,drinks style_options,AD
+955711:2,LOVE the atmosphere - felt like I was in Paris .,ambience general,AD
+955711:3,The mussels were fantastic and so was the dessert . . . definitely going to be back very soon .,restaurant general ~~ food quality ~~ food quality,AD
+957145:1,I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna .,service general ~~ service general,AD
+957145:2,"Over the years the host , Vittorio , and his crew , have always treated me as family - - although with all the business this not - so - little gem does , it amazing he ' s even able to remember a consistent but not - so - frequent visitor .",service general ~~ service general,AD
+957145:3,"I ' ve also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",food quality ~~ food quality ~~ ambience general ~~ ambience general,AD
+957145:4,I lOVE THIS PLACE !,restaurant general,AD
+957145:5,Keep up the good work guys !,restaurant general,AD
+958809:1,I have to say I have never had a disapointing meal here .,food quality,AD
+958809:2,We could have made a meal of the yummy dumplings from the dumpling menu .,food quality,AD

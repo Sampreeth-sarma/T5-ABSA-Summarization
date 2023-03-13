@@ -1,0 +1,801 @@
+prefix,input_text,target_text
+ASD,The bread is top notch as well.,food ~ positive
+ASD,I have to say they have one of the fastest delivery times in the city.,service ~ positive
+ASD,Food is always fresh and hot- ready to eat!,food ~ positive
+ASD,Did I mention that the coffee is OUTSTANDING?,food ~ positive
+ASD,"Certainly not the best sushi in New York, however, it is always fresh, and the place is very clean, sterile.",food ~ conflict ~~ ambience ~ positive
+ASD,"I trust the people at Go Sushi, it never disappoints.",anecdotes ~ positive
+ASD,"Straight-forward, no surprises, very decent Japanese food.",food ~ positive
+ASD,"BEST spicy tuna roll, great asian salad.",food ~ positive
+ASD,Try the rose roll (not on menu).,food ~ positive
+ASD,"I love the drinks, esp lychee martini, and the food is also VERY good.",food ~ positive
+ASD,"In fact, this was not a Nicoise salad and was barely eatable.",food ~ negative
+ASD,"While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.",food ~ positive ~~ service ~ negative
+ASD,"Once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening.",food ~ positive ~~ ambience ~ positive
+ASD,Our waiter was horrible; so rude and disinterested.,service ~ negative
+ASD,The sangria's - watered down.,food ~ negative
+ASD,"menu - uneventful, small.",food ~ negative
+ASD,Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.,price ~ positive ~~ food ~ positive
+ASD,Great food but the service was dreadful!,food ~ positive ~~ service ~ negative
+ASD,The portions of the food that came out were mediocre.,food ~ neutral
+ASD,the two waitress's looked like they had been sucking on lemons.,service ~ negative
+ASD,"From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.",anecdotes ~ positive ~~ service ~ positive
+ASD,We enjoyed ourselves thoroughly and will be going back for the desserts ....,anecdotes ~ positive ~~ food ~ positive
+ASD,Desserts are almost incredible: my personal favorite is their Tart of the Day.,food ~ positive
+ASD,I am surprised at the lower reviews because it is definitely better than other places I have tried with higher ratings.,anecdotes ~ positive
+ASD,Maybe the secret was that we went on a Sunday night and everything was great.,anecdotes ~ positive
+ASD,"The food was extremely tasty, creatively presented and the wine excellent.",food ~ positive
+ASD,WE ENDED UP IN LITTLE ITALY IN LATE AFTERNOON.,anecdotes ~ neutral
+ASD,WE WERE PLEASANTLY SURPRISED WITH OUR CHOICE.,anecdotes ~ positive
+ASD,THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED.,food ~ positive
+ASD,Harumi Sushi has the freshest and most delicious array of sushi in NYC.,food ~ positive
+ASD,"I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.",food ~ positive ~~ service ~ positive
+ASD,"If you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice.",food ~ positive ~~ ambience ~ positive
+ASD,I definitely enjoyed the food as well.,food ~ positive
+ASD,have always had a great time here.,anecdotes ~ positive
+ASD,"It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.",food ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,You will be very happy with the experience.,anecdotes ~ positive
+ASD,"The food is surprisingly good, and the decor is nice.",food ~ positive ~~ ambience ~ positive
+ASD,How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners!,food ~ negative
+ASD,Two wasted steaks -- what a crime!,food ~ negative
+ASD,The staff should be a bit more friendly.,service ~ negative
+ASD,I absolutely suggest this place.,anecdotes ~ positive
+ASD,I think the meatball parm is good.,food ~ positive
+ASD,"If you want good tasting, well seasoned latin food eat at Cabana and you can't go wrong.",food ~ positive
+ASD,Definitely try the taglierini with truffles - it was incredible.,food ~ positive
+ASD,"Also, the staff is very attentive and really personable.",service ~ positive
+ASD,"Overall, this is a great new restaurant that has been consistently good every time I have been.",anecdotes ~ positive
+ASD,The gnocchi literally melts in your mouth!,food ~ positive
+ASD,Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.,food ~ positive ~~ service ~ positive
+ASD,"Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana.",food ~ neutral
+ASD,"The food is good, the teriyaki I recommend.",food ~ positive
+ASD,Meal was very expensive for what you get.,price ~ negative ~~ food ~ negative
+ASD,Try the Peanut Butter Sorbet and the pizza with soy cheese!,food ~ positive
+ASD,"Good food at the right price, what more can you ask for.",price ~ positive ~~ food ~ positive
+ASD,"We love it, and took buses and cabs to get there.",anecdotes ~ positive
+ASD,"If you' re in New York, you do not want to miss this place.",anecdotes ~ positive
+ASD,"The food is top notch, the service is attentive, and the atmosphere is great.",food ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,"I've been coming here on and off for the past five years and I have to say that La Lanterna has never, ever dissapointed me.",anecdotes ~ positive
+ASD,"Great food, great waitstaff, great atmosphere, and best of all GREAT beer!",food ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.,price ~ positive ~~ food ~ positive ~~ ambience ~ positive
+ASD,"My husband and I moved to Nolita 6 years ago and for as long as we have lived here, Peasant has been our favorite!",anecdotes ~ positive
+ASD,The whole experience was satisfying.,anecdotes ~ positive
+ASD,"However, it was worth the visit.",anecdotes ~ positive
+ASD,The menu is interesting and quite reasonably priced.,price ~ positive ~~ food ~ positive
+ASD,The food was delicious and clearly fresh ingredients were used.,food ~ positive
+ASD,This made it obvious that the food wasn't cooked fresh; it was obviously made before hand and then reheated.,food ~ negative
+ASD,Appetizer are excellent here; you can make a great (and inexpensive) meal out of them.,price ~ positive ~~ food ~ positive
+ASD,The spicy mussels are a highlight.,food ~ positive
+ASD,Also get the Onion Rings -- best we've ever had.,food ~ positive
+ASD,Would not return for the amount we paid.,price ~ negative
+ASD,"However, being foodies, we were utterly disappointed with the food.",food ~ negative
+ASD,"Huge portions, great and attentive service, and pretty good prices.",price ~ positive ~~ food ~ positive ~~ service ~ positive
+ASD,I was highly disappointed by their service and food.,food ~ negative ~~ service ~ negative
+ASD,"I complained to the waiter and then to the manager, but the intensity of rudeness from them just went up.",service ~ negative
+ASD,The food is great and the milkshakes are even better!,food ~ positive
+ASD,Stay away if you're claustrophobic,ambience ~ negative
+ASD,"If you're in the 'hood, definitely stop in.",anecdotes ~ positive
+ASD,the mushroom barley soup is amazing.,food ~ positive
+ASD,"On the recommendation of a friend, I checked out Arezzo with my wife.",anecdotes ~ neutral
+ASD,"I'm glad I did as the food was very good and the staff was friendly, courteous and efficient.",food ~ positive ~~ service ~ positive
+ASD,Their duck here is also absolutely delicious.,food ~ positive
+ASD,This is definitely one of the places that I have continued to come back to over the years.,anecdotes ~ positive
+ASD,"While it was large and a bit noisy, the drinks were fantastic, and the food was superb.",food ~ positive ~~ ambience ~ negative
+ASD,One caveat: Some of the curried casseroles can be a trifle harsh.,food ~ negative
+ASD,I wasn't impressed and it wasn't SPICEY????,food ~ negative
+ASD,The food was almost always EXCELLENT.,food ~ positive
+ASD,I was pleasently surprised at the taste.,food ~ positive
+ASD,"A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.",food ~ positive ~~ ambience ~ conflict
+ASD,I never had an orange donut before so I gave it a shot.,food ~ neutral
+ASD,"they really provide a relaxing, laid-back atmosphere.",ambience ~ positive
+ASD,This particular location certainly uses substandard meats.,food ~ negative
+ASD,I stumbled upon this resteraunt on my way home from the subway.,anecdotes ~ neutral
+ASD,The Management was less than accomodating.,service ~ negative
+ASD,The ambience is also more laid-back and relaxed.,ambience ~ positive
+ASD,the teas are great and all the sweets are homemade.,food ~ positive
+ASD,mojitos and the service are the best part in there,food ~ positive ~~ service ~ positive
+ASD,"Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes.",food ~ positive
+ASD,this restaurant is absolutely beautiful.,anecdotes ~ positive
+ASD,The design is very intimate and romantic.,ambience ~ positive
+ASD,The food was wonderful and imaginative.,food ~ positive
+ASD,The staff is very sharp and they look good too.,service ~ positive
+ASD,The worst though was the taste.,food ~ negative
+ASD,"They were dry, stale and pretty flavorless.",food ~ negative
+ASD,The fajita we tried was tasteless and burned and the mole sauce was way too sweet.,food ~ negative
+ASD,Stay with the roasted chickens and you'll be fine.,food ~ positive
+ASD,"The atmosphere is warm, comfortable, artsy and sexy.",ambience ~ positive
+ASD,"The food is great (big selection, reasonable prices) and the drinks are really good.",price ~ positive ~~ food ~ positive
+ASD,The steak melted in my mouth.,food ~ positive
+ASD,"The food did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it.",service ~ conflict
+ASD,"Most importantly, it is reasonably priced.",price ~ positive
+ASD,"The selection of food is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great.",food ~ positive ~~ ambience ~ positive
+ASD,"Only suggestion is that you skip the dessert, it was overpriced and fell short on taste.",price ~ negative ~~ food ~ negative
+ASD,"Food was decent, but not great.",food ~ positive
+ASD,I have no idea why this restaurant is so often overlooked.,anecdotes ~ positive
+ASD,"From the moment you walk in, you feel like you're in the perfect place.",anecdotes ~ positive
+ASD,i dont know what some people who rave about this hot dog are talking about.,food ~ negative
+ASD,it is a hidden delight complete with a quaint bar and good food.,food ~ positive ~~ ambience ~ positive
+ASD,"I find that most Kosher restaurants are average to good, but this has been the best I've eaten so far.",anecdotes ~ positive
+ASD,The waiters ALWAYS look angry and even ignore their high-tipping regulars.,service ~ negative
+ASD,"the atmosphere is very nice, and a welcome escape from the rest of the SI mall.",ambience ~ positive
+ASD,"Yes, they're a bit more expensive then typical, but then again, so is their food.",price ~ negative ~~ food ~ positive
+ASD,"Not terrible, but not the restaurant in the reviews of 2002.",anecdotes ~ negative
+ASD,"I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.",price ~ positive ~~ food ~ positive
+ASD,It was delicious and large!,food ~ positive
+ASD,"Anywhere else, the prices would be 3x as high!",price ~ positive
+ASD,The service we experienced was friendly and good.,service ~ positive
+ASD,Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with.,service ~ conflict
+ASD,The folding chair I was seated at was uncomfortable.,ambience ~ negative
+ASD,As we waited I watched 3 seperate groups of diners discuss how dissapointed they also were.,anecdotes ~ negative
+ASD,An excellent choice in midtown.,anecdotes ~ positive
+ASD,Service was among the best I have ever had in NYC.,service ~ positive
+ASD,The fettucino alfredo was amazing.,food ~ positive
+ASD,The food was very good and I was pleasantly surprised to see so many vegan options.,food ~ positive
+ASD,I know real Indian food and this wasn't it.,food ~ negative
+ASD,"Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on...",food ~ positive
+ASD,"Even when the chef is not in the house, the food and service are right on target.",food ~ positive ~~ service ~ positive
+ASD,Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty.,food ~ positive
+ASD,"The waiters were very professional, courteous and attentive.",service ~ positive
+ASD,My boyfriend and I went here last night and LOVED it!,anecdotes ~ positive
+ASD,The falafal was rather over cooked and dried but the chicken was fine.,food ~ conflict
+ASD,"I highly reccomend the grand marnier shrimp, it's insanely good.",food ~ positive
+ASD,"We been there and we really enjoy the food, was areally great food, and the service was really good.",food ~ positive ~~ service ~ positive
+ASD,Desserts include flan and sopaipillas.,food ~ neutral
+ASD,I was starving and the small portions were driving me crazy!,food ~ negative
+ASD,The wait staff was loud and inconsiderate.,service ~ negative
+ASD,"However, the food and service and dramatically lacking.",food ~ negative ~~ service ~ negative
+ASD,The sushi is cut in blocks bigger than my cell phone.,food ~ negative
+ASD,"The service is great, my soup always arrives nice and hot.",food ~ positive ~~ service ~ positive
+ASD,It had been awhile and I forgot just how delicious crepes can be.,food ~ positive
+ASD,Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.,food ~ positive
+ASD,My friend told me about this restaurant for a year before he finally took me this weekend.,anecdotes ~ neutral
+ASD,i had a delicious shrimp creole.,food ~ positive
+ASD,The chicken dinner was real good.,food ~ positive
+ASD,Beware of the chili signed food items not unless you want to call the fire department to douse the flames in your mouth.,food ~ negative
+ASD,The decor is designed in a contemporary Japanese style restaurant.,ambience ~ neutral
+ASD,but the food was delicious.,food ~ positive
+ASD,"Try the ribs, sizzling beef and couple it with coconut rice.",food ~ positive
+ASD,The only drawback is that it's a little pricey.,price ~ negative
+ASD,Everything about this place was wonderful.,anecdotes ~ positive
+ASD,The avocado salad is a personal fave.,food ~ positive
+ASD,"And, the honey BBQ rib tips are yummy!",food ~ positive
+ASD,The BEST Chinese food Uptown!,food ~ positive
+ASD,Service is known for bending over backwards to make everyone happy.,service ~ positive
+ASD,"The atmosphere is attractive, but a little uncomfortable.",ambience ~ conflict
+ASD,The staff is very friendly.,service ~ positive
+ASD,Waiters are very friendly and the pasta is out of this world.,food ~ positive ~~ service ~ positive
+ASD,Great wine list and great cocktail menu.,food ~ positive
+ASD,The crab cakes are delicious and the BBQ rib was perfect.,food ~ positive
+ASD,"The food is wonderful, artfully done and simply delicious.",food ~ positive
+ASD,Tiny restaurant with very fast service.,ambience ~ neutral ~~ service ~ positive
+ASD,"The sauce may not be for everyone, since it is distintive.",food ~ conflict
+ASD,My husband and I have been there at least 6 times and we've always been given the highest service and often free desserts.,price ~ positive ~~ service ~ positive
+ASD,"A beautiful atmosphere, perfect for drinks and/or appetizers.",ambience ~ positive
+ASD,Curioni's Pizza has been around since the 1920's.,anecdotes ~ neutral
+ASD,They make the best pizza in New Jersey.,food ~ positive
+ASD,I recently visited over this past summer after being away for a year.,anecdotes ~ neutral
+ASD,"What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.",food ~ positive ~~ service ~ positive
+ASD,"Frankly, the chinese food here is something I can make better at home.",food ~ negative
+ASD,There was only one waiter for the whole restaurant upstairs.,service ~ negative
+ASD,We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.,food ~ neutral
+ASD,"Not to be overlooked, the service is excellent.",service ~ positive
+ASD,this without question is one of the worst hotdogs i have ever had.,food ~ negative
+ASD,"The staff is unbelievably friendly, and I dream about their Saag gosht...so good.",food ~ positive ~~ service ~ positive
+ASD,I also recommend the garlic knots.,food ~ positive
+ASD,Best Indian food I have ever eaten.,food ~ positive
+ASD,You won't be dissapointed.,anecdotes ~ positive
+ASD,This place has the best pizza.,food ~ positive
+ASD,Culinaria is a welcome addition to the Garment district- far better than any restaurant in the area.,anecdotes ~ positive
+ASD,The music which is sometimes a little too heavy for my taste.,ambience ~ negative
+ASD,The service is excellent and always informative without an air.,service ~ positive
+ASD,The owner and staff go to great lengths to make you feel comfortable.,service ~ positive
+ASD,I can't stand this dungeon.,ambience ~ negative
+ASD,The sushi is always fresh and yummy and the menu is pretty varied.,food ~ positive
+ASD,"The food was great - sushi was good, but the cooked food amazed us.",food ~ positive
+ASD,their dinner specials are fantastic.,food ~ positive
+ASD,Delish and made to your liking!,food ~ positive
+ASD,"Great food, great drinks, nice dining atmosphere.",food ~ positive ~~ ambience ~ positive
+ASD,"For the price you pay for the food here, you'd expect it to be at least on par with other Japanese restaurants.",price ~ negative ~~ food ~ negative
+ASD,Food portion was SMALL and below average.,food ~ negative
+ASD,Do yourself a favor and avoid this place at ALL COST!,anecdotes ~ negative
+ASD,since the first time I came here I've been hooked.,anecdotes ~ positive
+ASD,Sit back in one of those comfortable chairs.,ambience ~ positive
+ASD,"People in the neighborhood seem to love it, too.",anecdotes ~ positive
+ASD,"in conclusion, THIS PLACE SUCKS!!!",anecdotes ~ negative
+ASD,My favs here are the Tacos Pastor and the Tostada de Tinga...,food ~ positive
+ASD,"Nick Stef's is one of the only places worthy of going in the area, so if you happen to be by Madison Square Garden or Herald's Square check it out!",anecdotes ~ positive
+ASD,Have to tell you: Not at all impressed.,anecdotes ~ negative
+ASD,"The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.",ambience ~ positive ~~ service ~ positive
+ASD,"For a savory take on the soup and sandwich meal, try the hot and sour soup.",food ~ positive
+ASD,"This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.",food ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,"Also, the chick peas with shrimp (appetizer) is divine.",food ~ positive
+ASD,"Finally, I got sick of the bad service, obnoxious smirks, and snotty back talk.",service ~ negative
+ASD,How have I never been to Agave before?,anecdotes ~ positive
+ASD,"You're going to drop some coin, but completely worth it, especially if you are looking to impress someone.",price ~ conflict
+ASD,We ordered lamb which was perfectly cooked and tasted awesome.,food ~ positive
+ASD,i especially like their soft shell crab sandwich with fries.,food ~ positive
+ASD,"if you're looking for authentic hong kong-style food, look no further.",food ~ positive
+ASD,My wife I lived on the west side and found this while visiting firends on the UES.,anecdotes ~ neutral
+ASD,good food good wine that's it.,food ~ positive
+ASD,A nice find in the neighborhood.,anecdotes ~ positive
+ASD,The staff was extremely friendly and pleasant.,service ~ positive
+ASD,"And as SOON as one person is done, she asked to pick up the plate immediately.",service ~ negative
+ASD,"This place is Italian, not French.",anecdotes ~ neutral
+ASD,"After so many great reviews here, my bf and I went to Esca to celebrate my birthday last nite.",anecdotes ~ neutral
+ASD,"While their kitchen food is delicious, their Sushi is out of this world.",food ~ positive
+ASD,"There was a heat problem to boot, so it was about 40 degrees in the restaurant -- we had to request to uncheck our coats!",ambience ~ negative
+ASD,"everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.",ambience ~ positive ~~ service ~ positive
+ASD,"It's traditional, simple italian food.",food ~ positive
+ASD,My girlfriend and I just spent our 10 month anniversary at Lou Lou.,anecdotes ~ neutral
+ASD,"The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.",food ~ positive
+ASD,(The sashimi is cut a little thinly.,food ~ negative
+ASD,"Bay Terrace mall is nothing (ok, almost nothing) without it!",anecdotes ~ positive
+ASD,Could have had better for 1/3 the price in Chinatown.,price ~ negative
+ASD,My husband and I had a blast.,anecdotes ~ positive
+ASD,personally i say save your money.,anecdotes ~ negative
+ASD,"In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.",food ~ positive
+ASD,"Believe me, they live up to the name.",anecdotes ~ positive
+ASD,"Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.",service ~ negative
+ASD,"Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.",ambience ~ positive ~~ service ~ positive
+ASD,"When the dish arrived it was blazing with green chillis, definitely not edible by a human.",food ~ negative
+ASD,The absolute worst service I've ever experienced and the food was below average (when they actually gave people the meals they ordered).,food ~ negative ~~ service ~ negative
+ASD,It's about $7 for lunch and they have take-out or dine-in.,price ~ neutral ~~ service ~ neutral
+ASD,They are by far the BEST past in New York.,anecdotes ~ positive
+ASD,I have eaten here several times before attending an afternoon performance.,anecdotes ~ neutral
+ASD,Everything is very cheap.,price ~ positive
+ASD,Be sure to accompany your food with one of their fresh juice concoctions.,food ~ positive
+ASD,The food is great and the prices are reasonable.,price ~ positive ~~ food ~ positive
+ASD,"The place is clean, and if you like soul food, then this is the place to be!",food ~ positive ~~ ambience ~ positive
+ASD,You'll see a lot of people eating there after church.,anecdotes ~ neutral
+ASD,I had roast chicken and a salad.,food ~ neutral
+ASD,I've been a regular customer at Juice Generation for the last 3 months - my office moved to the Film Center on Ninth Avenue and they are on the next block.,anecdotes ~ neutral
+ASD,They have a very good chicken with avocado and good tuna as well.,food ~ positive
+ASD,It's the kind of place I like to support!,anecdotes ~ positive
+ASD,But the meals were terrible.,food ~ negative
+ASD,My chicken was completely dried out and on the cold side and the sauce was not very flavorful.,food ~ negative
+ASD,Malted Milk Ball Gelato - have you ever in your life heard of anything so ridiculously wonderful?,food ~ positive
+ASD,just walk by the window and see all the unbiased positive reviews in all the major nyc publications.,anecdotes ~ positive
+ASD,Way too much money for such a terrible meal.,price ~ negative ~~ food ~ negative
+ASD,Would not recommend anyone to go.,anecdotes ~ negative
+ASD,"However, the service is absolutely horrible.",service ~ negative
+ASD,A con was the slow bar service.,service ~ negative
+ASD,Dessert was also to die for!,food ~ positive
+ASD,"BTW, the service is very good .",service ~ positive
+ASD,We loved it and will go back!,anecdotes ~ positive
+ASD,I came again weeks later with my boyfriend and again had a very nice experience.,anecdotes ~ positive
+ASD,It's eaten with black vinegar and shredded ginger.,food ~ neutral
+ASD,"The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.",price ~ negative ~~ food ~ negative ~~ ambience ~ negative
+ASD,We'll definitly be back again!,anecdotes ~ positive
+ASD,This is the best Italian restaurant in the city.,anecdotes ~ positive
+ASD,it is a cozy place to go with a couple of friends.,ambience ~ positive
+ASD,"The service is always great, and the owner walks around to make sure you enjoy.",service ~ positive
+ASD,because the waiters need SEVERE ATTITUE ADJUSTMENTS.,service ~ negative
+ASD,"There are numerous shavue restaurants in LA, but few out here.",anecdotes ~ neutral
+ASD,Horrible experience - stay away!,anecdotes ~ negative
+ASD,"If this restaurant was in Manhattan, I would definitely go more often.",anecdotes ~ positive
+ASD,the food is delicious and highly recommended.,food ~ positive
+ASD,"When it came time to take the order the waiter gave us a hard time, walked away then came back with a paper and pen for us to write down what we wanted...excuse me but isn't that his job???",service ~ negative
+ASD,One of my Fav spots in the city.,anecdotes ~ positive
+ASD,"Over priced, overrated....stay away!",price ~ negative ~~ anecdotes ~ negative
+ASD,Do not go to this restaurant.,anecdotes ~ negative
+ASD,"since i was in the neighborhood, we made sure to give this a try.",anecdotes ~ neutral
+ASD,All I can say is they are fantastic.,anecdotes ~ positive
+ASD,Dieters stick to salads or indulge in vegetarian platters.,food ~ positive
+ASD,So for a filling and healthy meal give it a go.,food ~ positive
+ASD,I can't imagine how much worse it would have been if we'd gone at a prime time!,anecdotes ~ negative
+ASD,I have dined at Mammino several times now and each time it gets bettter.,anecdotes ~ positive
+ASD,Definitely something to come down and check out.,anecdotes ~ positive
+ASD,"Since I cook for a living, I'm very fussy about the food I eat in restaurants.",anecdotes ~ neutral
+ASD,The service was outstanding.,service ~ positive
+ASD,I went for restaurant week.,anecdotes ~ neutral
+ASD,My friends and I stop here for pizza before hitting the Kips Bay movie theater.,anecdotes ~ neutral
+ASD,We always enjoy the pizza.,food ~ positive
+ASD,The service is pretty good.,service ~ positive
+ASD,I went there with a few friends and will return.,anecdotes ~ positive
+ASD,This place has been around for a few years.,anecdotes ~ neutral
+ASD,"Yum, the chicken is great here.",food ~ positive
+ASD,I highly recommend this restaurant!!,anecdotes ~ positive
+ASD,You will find everything about Trio to your liking!,anecdotes ~ positive
+ASD,This place was the worst.,anecdotes ~ negative
+ASD,I ordered from here last week.,anecdotes ~ neutral
+ASD,"This is a nice sushi restaurant in Brooklyn that's located on 86 street, right underneath the train station.",anecdotes ~ positive
+ASD,"The food here was great, a treat from beginning to end.",food ~ positive
+ASD,The host (owner) and servers are personable and caring.,service ~ positive
+ASD,I decided to try out this place after hearing about it in many magazines.,anecdotes ~ neutral
+ASD,"It's just everything...the food, the atmosphere...the incrediby kind and gracious hostess.",food ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,Having moved I truly miss this place.,anecdotes ~ positive
+ASD,The food is very good and the service is great.,food ~ positive ~~ service ~ positive
+ASD,I usually get one the Vietnamese Beef Noodle Soup.,food ~ neutral
+ASD,"SUM IT: local investment bankers like it, try for yourself at least once.",anecdotes ~ positive
+ASD,I started going to dosa hut more after that.,anecdotes ~ positive
+ASD,We were wondering why they were there to make our dining experience miserable?,anecdotes ~ negative
+ASD,"Too bad, has a lot of potential.",anecdotes ~ conflict
+ASD,"This place has the best Indian food in New York, hands down.",food ~ positive
+ASD,The waiters are very friendly and helpful and if you frequent they will remember you.,service ~ positive
+ASD,Intimate but charming interior with extremely friendly and attentive service.,ambience ~ positive ~~ service ~ positive
+ASD,The food was as creative as the decor and both worked.,food ~ positive ~~ ambience ~ positive
+ASD,Siam Square is fairly new to the neighborhood and I think in time will gain the recognition it deserves.,anecdotes ~ positive
+ASD,My first experience at Siam Square was very pleasant.,anecdotes ~ positive
+ASD,I have gone back to Siam Square many times since and everytime I am very satisfied overall.,anecdotes ~ positive
+ASD,"The menu is great, with a good selection, and everything that I have tried is absolutely delicious.",food ~ positive
+ASD,We had our Christmas party at Dos Caminos and it was wonderful.,anecdotes ~ positive
+ASD,My personal favorite is Nick and Joe's.,anecdotes ~ positive
+ASD,The sauce is zesty and flavorful and the crust is nice and crispy.,food ~ positive
+ASD,This place has the best sushi in the city.,food ~ positive
+ASD,They have an excellent selection (the rolls with crab are really great).,food ~ positive
+ASD,"Everyone who works there (the host, the bartender, the servers) is so helpful.",service ~ positive
+ASD,And the food is fantastic.,food ~ positive
+ASD,Favourites include: potato spinach gnocchi and the lamb.,food ~ positive
+ASD,Another great thing about Glechik-everything is very cheap!,price ~ positive
+ASD,"Unfortunately, we chose this spot for lunch as we had done a lot of walking and ended up at the South St Seaport.",anecdotes ~ negative
+ASD,But regulars know that the sandwiches are the real star here.,food ~ positive
+ASD,The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending.,food ~ positive
+ASD,My friend had a burger and I had these wonderful blueberry pancakes.,food ~ positive
+ASD,We were so happy with our food and were even more thrilled when we saw the bill.,price ~ positive ~~ food ~ positive
+ASD,I would definitely come back to this restaurant.,anecdotes ~ positive
+ASD,The place just isn't ready for prime time.,anecdotes ~ negative
+ASD,"All toppings are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made.",food ~ positive
+ASD,Quartino is my favoriate resturant in NYC.,anecdotes ~ positive
+ASD,We've always gotten amazing service and we love the food.,food ~ positive ~~ service ~ positive
+ASD,"The waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.",food ~ positive ~~ service ~ positive
+ASD,I'm in love with the lobster ravioli!,food ~ positive
+ASD,My order is on my table even on a busy friday night within 10 minutes (at the most) of hanging up the phone.,service ~ positive
+ASD,We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our meal.,food ~ positive
+ASD,"Service is excellent, no wait, and you get a lot for the price.",price ~ positive ~~ food ~ positive ~~ service ~ positive
+ASD,I thought the food isn't cheap at all compared to Chinatown.,price ~ negative
+ASD,And you never get the feeling that you need to leave.,anecdotes ~ positive
+ASD,Coffee is a better deal than overpriced Cosi sandwiches.,price ~ conflict
+ASD,We didn't know if we should order a drink or leave?,anecdotes ~ neutral
+ASD,great neighbhorhood spot.,anecdotes ~ positive
+ASD,Bobb V's is a great place to take your Friends and Family!,anecdotes ~ positive
+ASD,") It's not the best Japanese restaurant in the East Village, but it's a pretty solid one for its modest prices, and worth repeat visits.",price ~ positive ~~ anecdotes ~ conflict
+ASD,The food is so good and so popular that waiting can really be a nightmare.,food ~ positive ~~ service ~ negative
+ASD,"Here's the thing, you're in the best city in the world for restaurants.",anecdotes ~ positive
+ASD,Go spend your money somewhere that really wows you.,anecdotes ~ neutral
+ASD,"The crowd was older and the restaurant is very cramped, but it has old school charm.",ambience ~ conflict
+ASD,This is a real gem of a place.,anecdotes ~ positive
+ASD,I think this a a wonderful place.,anecdotes ~ positive
+ASD,First walking in the place seemed to have great ambience.,ambience ~ positive
+ASD,I went to Kitchenette this weekend for brunch.,anecdotes ~ neutral
+ASD,"This place doesn't get the publicity that Sylvias Soul Food restaurant does, but it should.",anecdotes ~ positive
+ASD,Just because P Diddy had a party at Butter doesn't mean we should be automatically impressed.,anecdotes ~ negative
+ASD,Even for two very hungry people there is plenty of food left to be taken home (it reheats really well also).,food ~ positive
+ASD,"Like I said, Nick and Joe's may not be everyone's favorite, but it's mine.",anecdotes ~ positive
+ASD,The help was extremely nice and did not rush us.,service ~ positive
+ASD,"Then they somehow made a dry and burnt crust, around a raw and cold inside.",food ~ negative
+ASD,"It's just good food, nothing more and that's all we want!",food ~ positive
+ASD,DON'T KNOW WHAT THE OTHERS ON THE BLOCK WERE LIKE BUT WE WERE PLEASED WITH OUR CHOICE.,anecdotes ~ positive
+ASD,Average cake thats been courted by a LOT of hype.,food ~ negative
+ASD,It's cute and simple and I loved it.,anecdotes ~ positive
+ASD,My wife and I recently visited the bistro for dinner and had a wonderful experience.,anecdotes ~ positive
+ASD,THE SERVICE IS PERFECT TOO  NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT,anecdotes ~ positive ~~ service ~ positive
+ASD,My fiance and I recently wanted to see the city and deceided to take a dinner cruise.,anecdotes ~ neutral
+ASD,The $72 Delmonico steak had to be sent back because it was not cooked to order.,price ~ negative ~~ food ~ negative
+ASD,Everytime I go there I can't pick anything to eat and not because the menu is filled with great things to eat.,food ~ negative
+ASD,Half a chicken with a mountain of rice and beans for $6.25.,price ~ positive
+ASD,"The service is really fast and friendly, and the value is great.",price ~ positive ~~ service ~ positive
+ASD,We were very impressed with the food and value.,price ~ positive ~~ food ~ positive
+ASD,You must try the garlic soup!,food ~ positive
+ASD,"Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive.",price ~ positive ~~ food ~ positive
+ASD,"Even after a few bad evenings at Bardolino, I keep coming back.",anecdotes ~ conflict
+ASD,"The pizza's are made fresh, crispy, and ready to serve.",food ~ positive
+ASD,"There are many french bistros in the midtown area, and I wholheartedly recommend this one.",anecdotes ~ positive
+ASD,Staff is accomodating make sure you are satified.,service ~ positive
+ASD,Chef Waldy's always measures up.,food ~ positive
+ASD,This diamond in the ruff is definitely worth my 10-minute walk from the 6 train.,anecdotes ~ positive
+ASD,"Being a vegan myself, I've made a point of trying all the vegan restaurants in Manhattan--and Zen Palate is easily my favorite.",anecdotes ~ positive
+ASD,Don Pedro's is one of my favorite restaurants.,anecdotes ~ positive
+ASD,Reasonably priced with very fresh sushi.,price ~ positive ~~ food ~ positive
+ASD,Go for the Seafood Paella for two.,food ~ positive
+ASD,All of the apetizers are good and the Sangria is very good.,food ~ positive
+ASD,Cantinetta is a real treasure in a see of mediocre Italian restaurants.,anecdotes ~ positive
+ASD,"The one positive thing I can say is that the service was prompt, we got seated right away and the server was very friendly.",service ~ positive
+ASD,The staff greeted me warmly at the door and I was seated promptly and the food was excellent.,food ~ positive ~~ service ~ positive
+ASD,Whether one pizza place is better than another is often very subjective.,anecdotes ~ neutral
+ASD,Really nice restaurant to go with a group or on a date.,anecdotes ~ positive
+ASD,Service is usually pretty good.,service ~ positive
+ASD,Host and Hostess was quite rude.,service ~ negative
+ASD,You will not be missing anything.,anecdotes ~ negative
+ASD,I discovered Applebees when I went away to college in VA.,anecdotes ~ neutral
+ASD,"the wait staff is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -.",food ~ positive ~~ service ~ positive
+ASD,I recommend any of their salmon dishes......,food ~ positive
+ASD,The foie gras was sweet and luscious.,food ~ positive
+ASD,"The menu, which changes seasonally, shows both regional and international influences.",food ~ neutral
+ASD,but their mac cheese was YUMMY!,food ~ positive
+ASD,their brunch menu had something for everyone.,food ~ positive
+ASD,jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more.,ambience ~ positive
+ASD,"I often find myself with time to kill in Times Square, which is a shame since I don't love this area.",anecdotes ~ negative
+ASD,They have very quick service which is great when you don't have much time.,service ~ positive
+ASD,"The food is average: breakfast food, soups, salads, sandwiches, etc.",food ~ neutral
+ASD,I WAS HIGHLY DISAPPOINTED BY THE FOOD.,food ~ negative
+ASD,"THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.",food ~ negative
+ASD,"The staff is arrogant, the prices are way high for Brooklyn.",price ~ negative ~~ service ~ negative
+ASD,This place is average... at best.,anecdotes ~ negative
+ASD,the service is prompt friendly.,service ~ positive
+ASD,Whatever the reason it is definitely the place to be.,anecdotes ~ positive
+ASD,This is literally a hot spot when it comes to the food.,food ~ positive
+ASD,The downstairs bar scene is very cool and chill...,ambience ~ positive
+ASD,"The food was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 drinks, $100/person)...",price ~ negative ~~ food ~ positive
+ASD,I've come here for casual lunches as well as for a friend's birthday and I always enjoy myself.,anecdotes ~ positive
+ASD,If you are a Tequila fan you will not be disappointed.,food ~ positive
+ASD,"Great beer selection too, something like 50 beers.",food ~ positive
+ASD,"After reading the great reviews, I invited a die-hard downtown friend of mine to join me at TASTE.",anecdotes ~ neutral
+ASD,Not to sound too negative but be wary of the delivary.,service ~ negative
+ASD,Feels like family when we go there.,anecdotes ~ positive
+ASD,"I found the food to be just as good as its owner, Da Silvano, just much less expensive.",price ~ positive ~~ food ~ positive ~~ service ~ positive
+ASD,They have homemade pastas of all kinds -- I recommend the gnocchi -- yum!,food ~ positive
+ASD,"My vegetable risotto was burnt, and infused totally in a burnt flavor.",food ~ negative
+ASD,What a pleasant surprise!,anecdotes ~ positive
+ASD,The main draw of this place is the price.,price ~ positive
+ASD,How can hope to stay in business with service like this?,service ~ negative
+ASD,"But dinner here is never disappointing, even if the prices are a bit over the top.",price ~ negative ~~ food ~ positive
+ASD,"Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!",food ~ positive
+ASD,"the homemade Guacamole, the unbelievable entree, and thee most amazing deserts.",food ~ positive
+ASD,The sushi is reasonably priced and fresh.,price ~ positive ~~ food ~ positive
+ASD,"It's no-fuss, fast and delicious.",food ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,Save room for deserts - they're to die for.,food ~ positive
+ASD,Best things to order are from the grill (Churrasco and Ribs).,food ~ positive
+ASD,The traditional Italian items are great - cheap and served in a cozy setting.,price ~ positive ~~ food ~ positive ~~ ambience ~ positive
+ASD,Whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy.,food ~ positive
+ASD,last Tuesday for a late lunch with a friend.,anecdotes ~ neutral
+ASD,It was delish and I didn't feel bad eating it.,food ~ positive
+ASD,Another friend had to ask 3 times for parmesan cheese.,service ~ negative
+ASD,"Our waitress had apparently never tried any of the food, and there was no one to recommend any wine.",service ~ negative
+ASD,"The service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.",anecdotes ~ negative ~~ food ~ negative ~~ service ~ negative
+ASD,"No doubt the next time we want to go out for a special occasion or are entertaining guests from out of town, Spirit and Bateaux will be our destination.",anecdotes ~ positive
+ASD,i would recommend Jewel Bako if you want to feel like you were kicked in the groin and had to pay for it too.,anecdotes ~ negative
+ASD,"The ambiance was pretty cool, but not worth the hassle.",anecdotes ~ negative ~~ ambience ~ conflict
+ASD,The unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a quesedilla.,service ~ negative
+ASD,"El Nidos one of the best restaurants in New York which I've ever been to, has a great variety of tasty, mouth watering pizza's.",anecdotes ~ positive ~~ food ~ positive
+ASD,"The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.",price ~ negative ~~ anecdotes ~ negative ~~ food ~ negative ~~ service ~ negative
+ASD,Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit.,price ~ positive ~~ food ~ positive ~~ service ~ positive
+ASD,I had to wait for my friend at the bar for a few minutes,anecdotes ~ neutral
+ASD,"Chef Vincenzo, always there if you need him, is a real talent and a real Roman.",food ~ positive
+ASD,"If you're looking to taste some great Indian food and want good service, definitely visit Curry Leaf.",food ~ positive ~~ service ~ positive
+ASD,"You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",anecdotes ~ positive ~~ food ~ positive
+ASD,My daughter and I left feeling satisfied (not stuffed) and it felt good to know we had a healthy lunch.,food ~ positive
+ASD,I'm almost tempted to give this place a bad review so I can keep the crowds away...been going there on and off for a year now and it's really my fave hang out in the city.,anecdotes ~ positive
+ASD,"When she complained, the waitress said, Sorry.",service ~ neutral
+ASD,The quality of the meat was on par with your local grocery store.,food ~ negative
+ASD,They specialize in smoothies and fresh juices.,food ~ positive
+ASD,"It first came well done, and I politely sent it back.",food ~ negative
+ASD,"I recommend the black roasted codfish, it was the best dish of the evening.",food ~ positive
+ASD,The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.,anecdotes ~ negative ~~ service ~ negative
+ASD,"In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste.",food ~ negative
+ASD,"during busy hrs, i recommend that you make a reservation.",anecdotes ~ neutral
+ASD,Don't waste your time or your money.,anecdotes ~ negative
+ASD,"it's good but, like the movie is never as good as the book, this is same analogy.",anecdotes ~ conflict
+ASD,it was a very warm experience.,anecdotes ~ positive
+ASD,I went to Common Stock for brunch and I was so impressed.,anecdotes ~ positive
+ASD,"now called nikki sushi, sushi is OK.",food ~ neutral
+ASD,The food is also outstanding and is served quite quickly.,food ~ positive ~~ service ~ positive
+ASD,I just have nothing to say about this place that is negative except that it's not a cheap night out...but it's SO worth it.,price ~ conflict ~~ anecdotes ~ positive
+ASD,"From the erbazzone emiliana to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care.",food ~ positive
+ASD,The food is delicious and the bar has a great vibe.,food ~ positive ~~ ambience ~ positive
+ASD,expectations were real hi reading the '10's'.,anecdotes ~ neutral
+ASD,There's candlelight and music.,ambience ~ neutral
+ASD,It's nice to find a place that is open 24 hours (especially in downtown Brooklyn).,anecdotes ~ positive
+ASD,Simple healthy unglamorous food cheap.,price ~ positive ~~ food ~ positive
+ASD,"It was such a fantastic dining experience, that I returned again the same week.",anecdotes ~ positive
+ASD,"To be fair, the food still is good and the service is quick and attentative even though its usually very busy.",food ~ positive ~~ service ~ positive
+ASD,The place is absolutely adorable and the food is delicious.,food ~ positive ~~ ambience ~ positive
+ASD,I ordered the Chicken Teriyaki and my husband got Garlic Shrimp.,food ~ neutral
+ASD,I've had better Japanese food at a mall food court.,food ~ negative
+ASD,The staff members are extremely friendly and even replaced my drink once when I dropped it outside.,service ~ positive
+ASD,Cool atmosphere but such a let down.,anecdotes ~ negative ~~ ambience ~ positive
+ASD,"The Sashimi portion are big enough to appease most people, but I didn't like the fact they used artifical lobster meat.",food ~ conflict
+ASD,They have wheat crusted pizza made with really fresh and yummy ingredients.,food ~ positive
+ASD,"Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.",food ~ positive ~~ service ~ positive
+ASD,"the icing MADE this cake, it was fluffy, not ultra sweet, creamy and light.",food ~ positive
+ASD,"Finally let into the store 5 at a time, to buy expensive slices from a harried staff.",price ~ negative ~~ anecdotes ~ negative ~~ service ~ negative
+ASD,We ended up having to just leave because we were essentially being ignored by the wait staff--even though the rest of the restaurant was largely empty.,anecdotes ~ negative ~~ service ~ negative
+ASD,"The wine list is extensive, well priced and covers alot of regions.",price ~ positive ~~ food ~ positive
+ASD,Go here if you want fresh and tasty salads of any type you can imagine.,food ~ positive
+ASD,Everything about this place is adorable - even the bathroom!,anecdotes ~ positive ~~ ambience ~ positive
+ASD,"Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.",price ~ positive ~~ food ~ positive ~~ service ~ positive
+ASD,THEY HAVE WAITERS ON THE SIDEWALK TRYING TO PULL YOU IN WHICH MADE US SUSPICIOUS.,anecdotes ~ negative
+ASD,IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC ITALIAN MEAL.,anecdotes ~ neutral
+ASD,It took 100 years for Parisi to get around to making pizza (at least I don't think they ever made it before this year)...but it was worth the wait.,anecdotes ~ conflict ~~ food ~ positive
+ASD,I asked for a simple medium rare steak.,food ~ neutral
+ASD,"Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.",food ~ positive
+ASD,"Probably my worst dining experience in new york, and I'm a former waiter so I know what I'm talking about.",anecdotes ~ negative
+ASD,"Result (red velvet): Great texture, soft and velvety, nice hint of cocoa.",food ~ positive
+ASD,Ask for the round corner table next to the large window.,anecdotes ~ positive
+ASD,"Their twist on pizza is heatlhy, but full of flavor.",food ~ positive
+ASD,The lack of AC and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.,anecdotes ~ conflict ~~ ambience ~ negative
+ASD,"I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people.",anecdotes ~ conflict ~~ service ~ negative
+ASD,"Unfortunately, unless you live in the neighborhood, it's not in a convenient location but is more like a hidden treasure.",anecdotes ~ conflict
+ASD,Didn't seem like any effort was made to the display and quality of the food.,food ~ negative
+ASD,The food--though mostly deep-fried--is simple and satisfying.,food ~ positive
+ASD,We live in the neighborhood and have been going there twice a week since the day they first opened.,anecdotes ~ neutral
+ASD,"Glechik might be way too tiny for a restaurant by Russian standards, but it is cozy and the food is simply GREAT.",food ~ positive ~~ ambience ~ conflict
+ASD,The food was excellent - authentic Italian cuisine made absolutely fresh.,food ~ positive
+ASD,At night the atmoshere changes turning into this hidden jewel that is waiting to be discovered.,ambience ~ positive
+ASD,"The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service.",food ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,I would only go for the coffee which is way better than Starbucks or the like.,food ~ positive
+ASD,I used to be a regular costumer at pongal until dosa hut opened right next door to it.,anecdotes ~ neutral
+ASD,Somewhat disappointing wine list (only new vintages.,food ~ negative
+ASD,"Both were very good, but nothing you couldn't get at similar restaurant.",anecdotes ~ conflict
+ASD,If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!,price ~ negative ~~ food ~ negative ~~ ambience ~ negative
+ASD,new hamburger with special sauce is ok - at least better than big mac!,food ~ conflict
+ASD,"Perfectly al dente pasta, not drowned in sauce -- generous portions.",food ~ positive
+ASD,"I can understand the prices if it served better food, like some Chinese restaurants in midtown/uptown area.",price ~ negative ~~ food ~ negative
+ASD,Service was awful - mostly because staff were overwhelmed on a Saturday night.,anecdotes ~ negative ~~ service ~ negative
+ASD,"To the owners; good job guys, this place is a keeper!",anecdotes ~ positive
+ASD,and the owner is simply lovely and friendly.,service ~ positive
+ASD,This little place is wonderfully warm welcoming.,ambience ~ positive
+ASD,perfect for a quick meal.,anecdotes ~ positive
+ASD,Has the warmth of a family local yet it is a great place to watch sporting events.,ambience ~ positive
+ASD,"The service was great, and they have a whole great deal for birthdays.",price ~ positive ~~ service ~ positive
+ASD,The staff is 100% Italian and the food is as authentic as it gets.,food ~ positive ~~ service ~ positive
+ASD,My only complaint might be the fortune cookies - I've never had a cookie predict bad luck for me before I visited Kar.,anecdotes ~ negative
+ASD,Good for a quick sushi lunch.,anecdotes ~ positive
+ASD,Have a mojito and sit in the back patio.,food ~ positive ~~ ambience ~ positive
+ASD,The service was dreadfully slow (the place was only half full) and a smile would have been nice...,service ~ negative
+ASD,I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes.,food ~ positive
+ASD,The waitress came by to pick up the soy sauce WHILE we were eating our lunch!!!!!,service ~ negative
+ASD,"So we sat at the bar, the bartender didn't seem like he wanted to be there.",service ~ negative
+ASD,"I reccomend the fried pork dumplings, the orange chicken/beef, and the fried rice.",food ~ positive
+ASD,You will not be dissapointed by any of the choices in the menu.,food ~ positive
+ASD,The french fries -- with the kalmata dip were terrific!,food ~ positive
+ASD,"Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?",service ~ negative
+ASD,The boutique selection of wines covers a wide variety without being imposeing.,food ~ neutral
+ASD,"If you're lucky and there's not a private party going on back there, you'll get a chance to really chill out.",ambience ~ conflict
+ASD,They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare.,food ~ positive
+ASD,"Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.",food ~ positive
+ASD,"Disappointingly, their wonderful Saketini has been taken off the bar menu.",food ~ conflict
+ASD,In Short The Black Sheep distinguishes itself from the Midtown pub herd with a look that's a mix of sports-bar butch and ornate kitsch.,ambience ~ negative
+ASD,I would definitely go back -- if only for some of those exotic martinis on the blackboard.,anecdotes ~ positive ~~ food ~ positive
+ASD,They are located off the beaten path but are certainly worth the trip.,anecdotes ~ conflict
+ASD,then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.,anecdotes ~ positive ~~ service ~ negative
+ASD,"The happy hour is so cheap, but that does not reflect the service or the atmosphere.",price ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,"After waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order.",service ~ negative
+ASD,With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere.,anecdotes ~ positive ~~ ambience ~ positive
+ASD,"A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.",price ~ positive ~~ food ~ positive ~~ ambience ~ negative
+ASD,"Give it a try, menu is typical French but varied.",anecdotes ~ positive ~~ food ~ neutral
+ASD,It gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.,ambience ~ conflict ~~ service ~ positive
+ASD,"but for the value, it was a great affordable spot to enjoy a fun night out with small group.",price ~ positive ~~ ambience ~ positive
+ASD,the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.,food ~ positive ~~ service ~ positive
+ASD,We ordered a glass of wine and were finished eating and paying before the wine came.,food ~ neutral ~~ service ~ negative
+ASD,"It was good, but none of the flavors WOW.",food ~ conflict
+ASD,"Overall, this is a nice place to take a few friends to hang out at and the service is excellent.",ambience ~ positive ~~ service ~ positive
+ASD,Food is excellent quality for a good restaurant price.,price ~ positive ~~ food ~ positive
+ASD,"Actually, everyone who worked there seemed to be annoyed.",anecdotes ~ negative
+ASD,"for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert.",price ~ positive ~~ food ~ positive
+ASD,The space is traditional in feel.,ambience ~ neutral
+ASD,"the restaurant was completely empty, but she gave me a dirty look and asked, no reservations?",service ~ negative
+ASD,the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.,food ~ negative ~~ ambience ~ negative ~~ service ~ negative
+ASD,"Good service, great food, good value, and never have to wait in line!",price ~ positive ~~ food ~ positive ~~ service ~ positive
+ASD,Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast.,food ~ neutral
+ASD,"I have been going to this restaurant for years, in the past the service was average and the food inconsistant.",food ~ negative ~~ service ~ neutral
+ASD,"The music was fascinating, but left room for conversation, and the bartender made superb drinks.",food ~ positive ~~ ambience ~ positive
+ASD,rice dishes and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!,price ~ positive ~~ food ~ positive
+ASD,Cuisine is billed as asian fusion - doesn't meet the bill.,price ~ negative ~~ food ~ negative
+ASD,Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.,food ~ positive
+ASD,"Dishes denoted as ""Roy's Classics"" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.",food ~ positive
+ASD,"The cold sesame noodles, which are a freebie when you order $10+, are delectable.",price ~ positive ~~ food ~ positive
+ASD,"I came to fresh expecting a great meal, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating.",food ~ negative ~~ ambience ~ negative
+ASD,The lone argentine chorizo appetizer at $8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $2.99/lb at the store.,price ~ negative ~~ food ~ negative
+ASD,"I went to Swiftys with some friends of the family and we had a very nice dinner, but nothing amazing.",anecdotes ~ conflict
+ASD,"Best Chinese on the Upper East, prompt delivery, good value.",price ~ positive ~~ anecdotes ~ positive ~~ service ~ positive
+ASD,Most of the sandwiches are made with soy mayonaise which is actually pretty good.,food ~ positive
+ASD,i went in one day asking for a table for a group and was greeted by a very rude hostess.,service ~ negative
+ASD,It's worthwhile to take a cab to Chelsea just for an awesome dinner at My Chelsea.,anecdotes ~ positive
+ASD,"Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.",food ~ positive ~~ service ~ positive
+ASD,"It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.",food ~ positive ~~ ambience ~ positive
+ASD,"The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.",food ~ positive
+ASD,"And the food, well the food will keep you coming back.",food ~ positive
+ASD,Waiting three hours before getting our entrees was a treat as well.,service ~ negative
+ASD,It's the conversations that make this a fun place to be.,ambience ~ positive
+ASD,"My gf's duck confitte was very solid as well, although i have little base of reference.",food ~ positive
+ASD,"The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.",food ~ positive ~~ ambience ~ positive
+ASD,You can eat gourmet food at a fast food price.,price ~ positive ~~ food ~ positive
+ASD,"I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable.",price ~ positive ~~ food ~ positive ~~ service ~ positive
+ASD,"Not because I was pregnant, but the food here is always delicious.",food ~ positive
+ASD,Had a great meal there this weekend before heading to the movies!,food ~ positive
+ASD,We had a birthday party here recently and the food and service was amazing.,food ~ positive ~~ service ~ positive
+ASD,"the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.",food ~ positive
+ASD,This place has the strangest menu and the restaurants tries too hard to make fancy food.,food ~ negative
+ASD,"The appetizers are ok, but the service is slow.",food ~ neutral ~~ service ~ negative
+ASD,the food - not worth the price.,price ~ negative ~~ food ~ negative
+ASD,"What can you say about a place where the waitress brings out the wrong entree, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).",service ~ negative
+ASD,The prices are not terrible.,price ~ positive
+ASD,15% gratuity automatically added to the bill.,price ~ negative
+ASD,"The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal.",food ~ conflict
+ASD,Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.,food ~ positive
+ASD,Both a number of the appetizer and pasta specials were amazing.,food ~ positive
+ASD,"All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.",food ~ positive
+ASD,"Although somewhat loud, the noise was minimally intrusive.",ambience ~ conflict
+ASD,"It's a basic pizza joint, not much to look at, but the pizza is what I go for.",food ~ positive ~~ ambience ~ neutral
+ASD,"Tables are close, so you better be comfortable bumping elbows with other patrons.",ambience ~ negative
+ASD,Was her Monday for lunch - was working on a film in the area - and found this rare jewel.,anecdotes ~ positive
+ASD,"Not too much so, but enough that there's a great scene.",ambience ~ positive
+ASD,You feel like you made it to New York when you eat here.,anecdotes ~ positive
+ASD,We'd walked by it dozens of times and finally settled on a Monday night.,anecdotes ~ neutral
+ASD,"SUM IT: don't read the '10's' reviews, try it to judge for yourself so you won't have as hi expectations, then you'll be sure to enjoy it.",anecdotes ~ positive
+ASD,"We went there, no one greeted us.",service ~ negative
+ASD,Dug the blue bar area too.,ambience ~ positive
+ASD,We spent so much time getting elbowed around while we waited we left.,ambience ~ negative
+ASD,"I got the opportunity to dine at your establishment again a few weeks ago, I was in your upstrairs dining area.",anecdotes ~ neutral
+ASD,"Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.",food ~ positive
+ASD,"At peak times, the restaurant is overcrowded and tables are uncomfortably close.",ambience ~ negative
+ASD,The service was on point - what else you would expect from a Ritz?,service ~ positive
+ASD,"Menus feature seasonal picks, like sweet corn-foie gras brulee.",food ~ neutral
+ASD,"Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.",food ~ positive
+ASD,"And these are not small, wimpy fast food type burgers - these are real, full sized patties.",food ~ positive
+ASD,"There restaurant is very casual, but perfect for lunch, and their delivery service is always very fast.",ambience ~ positive ~~ service ~ positive
+ASD,Chinatown definitely has better quality with cheaper prices.,price ~ positive ~~ food ~ positive
+ASD,I had to flag down a third staff person for a fork... so now it's goodbye Little RUDE Pie Company.,service ~ negative
+ASD,I have been in NYC for over 10 years and could not find this delicacy east of the Hudson .,anecdotes ~ positive
+ASD,"Go with the specials, and stay away from the salmon.",food ~ conflict
+ASD,The pastas were pretty good.,food ~ positive
+ASD,Atmosphere is a bore.,ambience ~ negative
+ASD,The decor is what initially got me in the door.,ambience ~ positive
+ASD,The wait staff was very attentive and polite.,service ~ positive
+ASD,"Great restaurant, and even greater food!",anecdotes ~ positive ~~ food ~ positive
+ASD,The dishes are remarkably tasty and such a cozy and intimate place!,food ~ positive ~~ ambience ~ positive
+ASD,Save room for the desserts! ;-),food ~ positive
+ASD,"I love the simplicity and respect which was given to the food, as well the staff was freindly and knowledgable.",food ~ positive ~~ service ~ positive
+ASD,Service was good and so was the atmosphere.,ambience ~ positive ~~ service ~ positive
+ASD,MY date and I both ordered the Branzini and both felt the fish was very average.,food ~ negative
+ASD,We were there March 7 and found Maison very nice.,anecdotes ~ positive
+ASD,"The food was good, the service prompt, and the price very reasonable.",price ~ positive ~~ food ~ positive ~~ service ~ positive
+ASD,"Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!",food ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,"Great food, good wine and an excellent host.",food ~ positive ~~ service ~ positive
+ASD,went there last night with my coworker.,anecdotes ~ neutral
+ASD,Pizzas were excellent in addition to appetizers and main courses.,food ~ positive
+ASD,"Definitely try the calamari, any pasta, or even the Sliced steak entree.",food ~ positive
+ASD,The caeser salad was great.,food ~ positive
+ASD,The fried calamari was even better!,food ~ positive
+ASD,The atmosphere was nice but it was a little too dark.,ambience ~ conflict
+ASD,The food was good overall.,food ~ positive
+ASD,The food was outstanding and the service was tops.,food ~ positive ~~ service ~ positive
+ASD,The portions are very large and the service is fantastic!!,food ~ positive ~~ service ~ positive
+ASD,I recomend the chicken milanese.,food ~ positive
+ASD,"excellent tapas at great prices, romantic, small but not overly crowed, excellent",price ~ positive ~~ food ~ positive ~~ ambience ~ positive
+ASD,"The service is a quite slow, but friendly.",service ~ conflict
+ASD,"The chocolate raspberry cake is heavenly- not too sweet, but full of flavor.",food ~ positive
+ASD,"Our waiter was helpful and charming, the food was perfect, and the wine was good, too.",food ~ positive ~~ service ~ positive
+ASD,Alias is warm and cozy and you don't get that squished-in feeling you get at 71 Clinton.,ambience ~ positive
+ASD,I HAVE NEVER HAD A BAD MEAL(OR BAD SERVICE )@ PIGALLE.,food ~ positive ~~ service ~ positive
+ASD,Best hot dogs in the tri-state area.,food ~ positive
+ASD,This is a typical example of an establishment in which its owners do not know anything about the restaurant business!,anecdotes ~ negative
+ASD,"I would not recommend MEET at all, it is a rip off all the way from the time to step in!",anecdotes ~ negative
+ASD,Went there for a special celebration.,anecdotes ~ neutral
+ASD,The restaurant was quiet and intimate.,ambience ~ positive
+ASD,The service was very attentive and very generous.,service ~ positive
+ASD,"We had tons of great food, wine, and desserts.",food ~ positive
+ASD,Really Lovely dining experience in the midst of buzzing midtown area.,anecdotes ~ positive
+ASD,"OK, I've been to Dumont a few times now.",anecdotes ~ neutral
+ASD,The food really isn't very good and the service is terrible.,food ~ negative ~~ service ~ negative
+ASD,"Maybe it's that most of Dumont's patrons are younger and have lower expectations, but I cannot recommend Dumont.",anecdotes ~ negative
+ASD,"Not only do they have the best escargot in town,they always try to accomodate our toddler.",food ~ positive ~~ service ~ positive
+ASD,"I've been to Sotto Voce several time, and I have to say this one place that hits the nail right on the head ever time!",anecdotes ~ positive
+ASD,"Between my guest and I, we sampled at least 80% of the menu, and they were all hits.",food ~ positive
+ASD,The Deco and ambiance was really romantic.,ambience ~ positive
+ASD,This is the best unknown restaurant in and around New York.,anecdotes ~ positive
+ASD,Just go in and sample the greatest french food west of Daniel.,food ~ positive
+ASD,"For someone who used to hate Indian food, Baluchi's has changed my mid.",food ~ positive
+ASD,"Finally a curry that I can eat, enjoy and not suffer from gastritis from 3 hours later.",food ~ positive
+ASD,"All are GREAT - poori, naan, paratha all FRESH.",food ~ positive
+ASD,Try the homemade breads.,food ~ positive
+ASD,"This place has beautiful sushi, and it's delicious CHEAP.",price ~ positive ~~ food ~ positive
+ASD,It also has lots of other Korean dishes that are affordable and just as yummy.,price ~ positive ~~ food ~ positive
+ASD,I went for restaurant week and ordered off the prix fixe menu,food ~ neutral
+ASD,"Not only was the waiter efficient and courteous, but also extremely helpful.",service ~ positive
+ASD,It took a bigger bite from my wallet than my appetite - I would not reccomend this to anyone that I would want to talk to me again!!,price ~ negative ~~ anecdotes ~ negative ~~ food ~ negative
+ASD,"This place is classy, chic, the service is warm and hospitable, and the food is outstanding.",food ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,I read about this place in Time Out magazine.,anecdotes ~ neutral
+ASD,It's a great find in Astoria.,anecdotes ~ positive
+ASD,"Great burgers, grilled cheeses and french fries.",food ~ positive
+ASD,The Yellowfin Tuna and Calf's liver are my favorites!,food ~ positive
+ASD,Sushi so fresh that it crunches in your mouth.,food ~ positive
+ASD,But make sure you have enough room on your credit card as the bill will leave a big dent in your wallet.,price ~ negative
+ASD,Despite the 5th ave address there are no frills whick I also love.,ambience ~ positive
+ASD,They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).,food ~ positive
+ASD,"Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!",food ~ positive
+ASD,good variety but nothing surprising.,food ~ conflict
+ASD,"After I paid for my purchase, I noticed they had not given me utensils so I could eat my pie.",service ~ negative
+ASD,Likewise if you like really thin crust or really big slices then Nick and Joe's may not be your favorite.,food ~ negative
+ASD,It's always quiet because it's awful.,anecdotes ~ negative
+ASD,"No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion.",food ~ negative
+ASD,"Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.",food ~ neutral
+ASD,"Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.",food ~ positive
+ASD,I always find myself asking the waiter to make something bland and different than what is on the menu.,food ~ neutral
+ASD,"Good cake BUT: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.",food ~ conflict ~~ service ~ negative
+ASD,"The closest that I got was the Cherry Marscapone, but they were out of it that day.",food ~ neutral
+ASD,"The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.",food ~ positive
+ASD,"It doesn't look like much on the outside, but the minute you walk inside, it's a whole other atmosphere.",ambience ~ conflict
+ASD,I have to say the place was awesome.,anecdotes ~ positive
+ASD,The ground chickpea soup we sampled as a starter tasted somewhat thin.,food ~ negative
+ASD,"We requested they re-slice the sushi, and it was returned to us in small cheese-like cubes.",food ~ negative
+ASD,"The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",food ~ positive ~~ ambience ~ negative ~~ service ~ negative
+ASD,"If you're in the neighborhood, definitely stop by for a great meal.",food ~ positive
+ASD,"Unfortunately, with our show tickets, we didn't have time to sample any desserts.",food ~ neutral
+ASD,"The restaurant could use a little paint, but all in all a great sushi place!",anecdotes ~ positive ~~ ambience ~ conflict
+ASD,Make more tables- perhaps a rooftop bar?,ambience ~ negative
+ASD,"The decoration was feeling like we was on the Cairo, actually the street is part of that adventure.",anecdotes ~ positive ~~ ambience ~ positive
+ASD,"Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.",food ~ positive ~~ ambience ~ positive ~~ service ~ positive
+ASD,I didn't go there for food so I can't comment.,anecdotes ~ neutral
+ASD,"My friends and I go once a week (minimum, we live in the area) and everytime can't resist walking out ready to burst.",anecdotes ~ positive
+ASD,"Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great.",food ~ positive
+ASD,"Hip boutiques and bars on Ludlow add to the artsy, laid-back atmosphere at this Israeli-style takeout and eat-in burger joint.",ambience ~ positive
+ASD,"Young neighborhood trendies graze at the counter during the day, while chic, art-house drinkers with heavy doses of the munchies pile in late at night.",ambience ~ neutral
+ASD,Bring your date and a bottle of wine!,anecdotes ~ neutral
+ASD,"Not only is this the best Thai restaurant I have been to, but it also ranks as one of my favorite places to dine.",anecdotes ~ positive
+ASD,Don't be put off by another reviewers extremely negative review.,anecdotes ~ positive
+ASD,"My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",food ~ positive
+ASD,"His food is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14).",price ~ positive ~~ food ~ positive
+ASD,The food is consistant and good but how it got name Best Diner In Manhattan is beyond me.,anecdotes ~ conflict ~~ food ~ positive
+ASD,"The pasta primavera was outstanding as well, lots of fresh veggies.",food ~ positive
+ASD,"don't get me wrong - sushi was good, just not fantastic.",food ~ positive
+ASD,Being Puerto Rican I know a thing or two about flan and this place serves one of the best (I hope Mom doesn't read this!).,food ~ positive
+ASD,"Been to the one in Brooklyn for over 25 years, now I dont have to go over the bridge for the best pizza ....Hanx",food ~ positive
+ASD,Had dinner here on a Friday and the food was great.,anecdotes ~ positive ~~ food ~ positive
+ASD,"We recently spent New Year's Eve at the restaurant, and had a great experience, from the wine to the dessert menu.",anecdotes ~ positive ~~ food ~ positive
+ASD,"Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice.",anecdotes ~ positive ~~ ambience ~ positive
+ASD,"The ambiance was fine, a little loud but still nice and romantic.",ambience ~ positive
+ASD,"but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).",price ~ positive ~~ food ~ conflict
+ASD,It took about 2 1/2 hours to be served our 2 courses.,service ~ negative
+ASD,Who said go when the place is quiet during the day?,ambience ~ neutral
+ASD,Can be a bit busy around peak times because of the size.,ambience ~ negative
+ASD,"I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade.",anecdotes ~ neutral ~~ food ~ positive ~~ ambience ~ positive
+ASD,good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.,anecdotes ~ positive ~~ food ~ neutral
+ASD,Very nice touch that very much fits the place.,ambience ~ positive
+ASD,"However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.",ambience ~ positive
+ASD,We were seated promptly in close proximity to the dance floor.,anecdotes ~ neutral
+ASD,"If you are here as a pre-show meal, hop in a cab and take the extra 10 minutes to go to the uptown location.",anecdotes ~ neutral
+ASD,A plus was the good mix of people in their twenties that provided for great eye-candy while I was there.,ambience ~ positive
+ASD,"The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good.",food ~ conflict
+ASD,It's best to go on a cold night with a close friend or a good book.,anecdotes ~ neutral
+ASD,"Slow service, but when you're hanging around with groups of 10 or 20, who really notices?",anecdotes ~ conflict ~~ service ~ negative
+ASD,The sauce is excellent (very fresh) with dabs of real mozzarella.,food ~ positive
+ASD,"Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.",food ~ negative ~~ service ~ negative
+ASD,"The room is a little plain, but it's difficult to make such a small place exciting and I would not suggest that as a reason not to go.",ambience ~ negative
+ASD,Prices even outside of restaurant week were great.,price ~ positive
+ASD,"A small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends.",ambience ~ positive
+ASD,Before the place didn't call my attention.,anecdotes ~ neutral
+ASD,"And all the [female] servers are cute too, which is always nice.",service ~ positive
+ASD,"The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets.",food ~ positive
+ASD,"for an appetizer, their calamari is a winner.",food ~ positive
+ASD,Satay is one of those favorite haunts on Washington where the service and food is always on the money.,food ~ positive ~~ service ~ positive
+ASD,After dinner I heard music playing and discovered that there is a lounge downstairs.,ambience ~ neutral
+ASD,"But now that it's under new ownership and has been renovated, it looks great.",ambience ~ positive
+ASD,"The room is a gorgeous, bi-level space and the long bar perfect for a drink.",ambience ~ positive
+ASD,Now we moved out of the state and every visit to NYC includes a stop here.,anecdotes ~ positive
+ASD,"Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.",anecdotes ~ conflict ~~ food ~ negative
+ASD,I don't remember what we had; nothing was memorable.,anecdotes ~ negative
+ASD,It is bland and nothing extrodinary.,food ~ negative
+ASD,I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party.,service ~ positive
+ASD,The chicken and falafel platters were nondescript combinations with fresh leaf salad.,food ~ neutral
+ASD,"Every time I visit NYC, I come here.",anecdotes ~ neutral
+ASD,"I've been coming here regularly since it opened, about 2 years ago.",anecdotes ~ neutral
+ASD,"The atmosphere takes you to that place, the place many dream of.",ambience ~ positive
+ASD,"several times and put up with the waiters' bad manners, knowing that their job isn't easy.",service ~ negative
+ASD,"The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...",food ~ positive ~~ service ~ conflict
+ASD,We were seated next to a couple whose kitchen was being renovated and we agreed since we're all foodies who eat out a lot - that this wasn't a place we'd return to.,anecdotes ~ negative
+ASD,They are served on Focacchia bread and are to die for.,food ~ positive
+ASD,"While the smoothies are a little big for me, the fresh juices are the best I have ever had!",food ~ conflict
+ASD,"The food is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only dish that's really good.",food ~ conflict
+ASD,"The guac is fresh, yet lacking flavor, we like to add our fresh salsa into it.",food ~ conflict
+ASD,"The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.",price ~ negative ~~ anecdotes ~ conflict ~~ food ~ positive ~~ service ~ conflict
+ASD,It' only open for lunch but the food is so good!,anecdotes ~ neutral ~~ food ~ positive
+ASD,If you like seafood and/or Greek food you will love this place though it is not limited to just these things.,food ~ positive
+ASD,""" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as ""vegetarians.",food ~ neutral
+ASD,How can they survive serving mediocre food at exorbitant prices?!,price ~ negative ~~ food ~ neutral
+ASD,The food was mediocre and the service was severely slow.,food ~ neutral ~~ service ~ negative
+ASD,i have eaten here on a different occasion - the food is mediocre for the prices.,price ~ negative ~~ food ~ neutral
+ASD,I'm looking forward to going back soon and eventually trying most everything on the menu!,anecdotes ~ positive ~~ food ~ positive
+ASD,I just had my first visit to this place and can't wait to go back and slowly work my way through the menu.,anecdotes ~ positive
+ASD,I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter.,anecdotes ~ negative ~~ service ~ negative
+ASD,I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk.,food ~ neutral
+ASD,"Weekends can get crowded, but still highly recommended.",ambience ~ conflict
+ASD,It gets very crowded so I would suggest that you get their early.,ambience ~ conflict
+ASD,Sweet Irish bartender is always happy and able to bring a smile to my friends a my face.,service ~ positive
+ASD,I always find myself sitting next to someone in the theatre industry- interesting to hear ideas hashed out while having a quick bite to eat.,anecdotes ~ positive
+ASD,Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.,service ~ negative
+ASD,"Anyway, the owner was fake.",service ~ negative
+ASD,Owner is pleasant and entertaining.,service ~ positive
+ASD,"I have never in my life sent back food before, but I simply had to, and the waiter argued with me over this.",food ~ negative ~~ service ~ negative
+ASD,"Although the restaurant itself is nice, I prefer not to go for the food.",food ~ negative ~~ ambience ~ positive
+ASD,"Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.",food ~ positive

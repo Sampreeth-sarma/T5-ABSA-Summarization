@@ -1,0 +1,506 @@
+input_text,target_text,prefix
+LOCATION1 is just a normal area that happens to have an alternative market,The review expressed opinion on [LOCATION1 - shopping],AD
+", LOCATION1 , LOCATION2 are all good places to stay and within 35 minutes by fast train from Central London","The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - transit-location]",AD
+A Brazilian man was shot there 3 years ago in LOCATION1 station by a policeman i think he was a suspected terrorist of the 7/7 bombings on London transport,The review expressed opinion on [LOCATION1 - safety],AD
+"A friend of mine lived in LOCATION1 and she liked it, though other people have told me it's a bit rough","The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - live] , opinion on [LOCATION1 - safety]",AD
+"A good place to live would be LOCATION1 which is fairly central and not as expensive as some other areas but full of bars, pubs and restaurants","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - live]",AD
+"A must see place is LOCATION1 what with the street entertainers good places to eat, a great market and some nice places to drink","The review expressed opinion on [LOCATION1 - touristy] , opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - shopping]",AD
+"Additionally , the School of Oriental and African Studies ( SOAS ) has a large number of students from Asian backgrounds and countries and their student union regularly holds and hosts events to which they welcome non-SOAS students : The above website also has some links under ` Housing and Accomodation ' for affordable housing options for all students LOCATION1 can be a nice area - near the cemetery is good , but maybe too expensive for you",The review expressed opinion on [LOCATION1 - price],AD
+All have their share of Bars and Night life etc but for this I think LOCATION1 would be my favourite,The review expressed opinion on [LOCATION1 - nightlife],AD
+All in all LOCATION1 one of the better suburbs of London though can be expensive,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+"All told , if money was no object then LOCATION1 is the area of London I would choose to live in","The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - price]",AD
+"Also police stats show that LOCATION1, which includes most of these areas, scores pretty highly on numbers of reported racist crimes",The review expressed opinion on [LOCATION1 - safety],AD
+Also there 's LOCATION2 right next to it - also very good for rent rates - check it out LOCATION1 is nice but quiete area,"The review expressed opinion on [LOCATION2 - price] , opinion on [LOCATION1 - general] , opinion on [LOCATION1 - quiet]",AD
+"Also, I would suggest LOCATION1/LOCATION2","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"Also, the areas of LOCATION2 and LOCATION1 in NW London can be a bit unsafe, but you are unlikely to go to those anyway","The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+"Although i think LOCATION1 is quite expensive, a hot spot for the rich and succesful  LOCATION2,  Highly sought-after area, housing is pricey, large Jewish population","The review expressed opinion on [LOCATION2 - multicultural] , opinion on [LOCATION2 - general] , opinion on [LOCATION2 - price] , opinion on [LOCATION1 - price]",AD
+"Although there are nice sections of LOCATION2 with great amenities, LOCATION1 seems to be the up and coming nicer areas","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+And i agree the Dublin Castle is one of my favorite pubs in LOCATION1,The review expressed opinion on [LOCATION1 - nightlife],AD
+"And you ca n't talk with the police because they are all corrupt London is the most expensive London in the UK and apartments are mostly quite expensive , but if you really want to move here , LOCATION1 is probably the least expensive part of town",The review expressed opinion on [LOCATION1 - price],AD
+"Anyway , LOCATION1 is your best bet for secure  although completely soul-less and sterile","The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION1 - general]",AD
+Areas such as LOCATION1 or LOCATION2 are far more pleasant,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"As for LOCATION1, there is  shopping Street and easy access to the London or Westend","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - shopping]",AD
+As for the other places they've listed then they're all good apart from LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+As to the getting mugged and killed - just avoid LOCATION1,"The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - safety]",AD
+Avoid LOCATION1 - it's super pricey,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+Avoid LOCATION1 though,The review expressed opinion on [LOCATION1 - general],AD
+"Basically if your heading for the LOCATION1, buy or rent on the river, there tends to be plenty of police around so the crime rate is reasonably good",The review expressed opinion on [LOCATION1 - safety],AD
+"Because it is close to London , has good quality housing and good schools , LOCATION1 is an expensive area to live","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price]",AD
+Best bet is around LOCATION2 and LOCATION1 area in the northwest corner really nice I used to know someone who lived there,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+But basically people live where they can afford  LOCATION1 Rich and Famous,The review expressed opinion on [LOCATION1 - price],AD
+"But on the upside, some parts of LOCATION1 are really lovely , there are excellent bus services to anywhere you need to go","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+"But some parts are e g LOCATION1, however once again, very expensive and lots of snobbery going on there",The review expressed opinion on [LOCATION1 - price],AD
+"But to the north and east, LOCATION1 is surprisingly peaceful and leafy","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - quiet]",AD
+"But, there are some very famous places LOCATION1  that are so well known that they get a great many tourists",The review expressed opinion on [LOCATION1 - touristy],AD
+Cheers  Check out LOCATION1 in LOCATION2,The review expressed opinion on [LOCATION1 - general],AD
+Choose LOCATION2 or LOCATION1 if you want to hang out with toffs or famous people,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+Communication wise it's the best cause in the LOCATION1 tube station there r two main lines,The review expressed opinion on [LOCATION1 - transit-location],AD
+Consider trendy LOCATION1 (W11) in west London,The review expressed opinion on [LOCATION1 - general],AD
+"Considering that it is part of a major London LOCATION1 is pretty low on the crime scale, but it is quite expensive","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - safety]",AD
+"Do n't worry , LOCATION1 is not that bad",The review expressed opinion on [LOCATION1 - general],AD
+"Fabric: A massive club in LOCATION1, playing house, techno and electro on a Saturday",The review expressed opinion on [LOCATION1 - nightlife],AD
+Find a place in LOCATION1 - right now the price of houses is depressed,The review expressed opinion on [LOCATION1 - price],AD
+"Finnaly , LOCATION1 is n't too bad , particularly around the Furzedown area - although again , prices are starting to creep up","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+"First of all , yes LOCATION1 is extremely rough",The review expressed opinion on [LOCATION1 - safety],AD
+For a poor area think no further than LOCATION1 -,The review expressed opinion on [LOCATION1 - general],AD
+"For evening entertainment besides bars, I reccommend (if you have time) a concert in LOCATION1 or the Comedy Store",The review expressed opinion on [LOCATION1 - nightlife],AD
+For great cocktails go to St Germain just outside LOCATION1 tube they have happy hour so 2 for 7 and are some of hte nicest in London,The review expressed opinion on [LOCATION1 - nightlife],AD
+For that money you can live around LOCATION1,The review expressed opinion on [LOCATION1 - price],AD
+Frequent trains from LOCATION1 Station to LOCATION2 in central London take 18 minutes,The review expressed opinion on [LOCATION1 - transit-location],AD
+From LOCATION2 you get easy access by bus to LOCATION1 for Tube (District Line),"The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - transit-location]",AD
+"Further away there is LOCATION2 and LOCATION1, both a bit cheaper","The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price] , opinion on [LOCATION2 - price]",AD
+"Get on the tube again (or bus) and continue East  Keep going until LOCATION1  That will be the cheapest ""convenient"" areas of London",The review expressed opinion on [LOCATION1 - price],AD
+Good luck and god bless LOCATION1 is in my opinion is alot nicer than LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+Guy 's Hospital I think LOCATION1 ( N7 ) is getting expensive for very solid reasons,The review expressed opinion on [LOCATION1 - price],AD
+Having said that though LOCATION1 is still a safe area there are always lots of Police around and I have never once felt unsafe in the area even alone at 1 o'clock in the morning,The review expressed opinion on [LOCATION1 - safety],AD
+"Head for LOCATION1, there is a market there but there are also loads of clothes and shoe shops, everything from Ted Baker, LK Bennett and Reiss to Oasis and Monsoon",The review expressed opinion on [LOCATION1 - shopping],AD
+Here LOCATION1 would be best as that is on the direct line to Rochester,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+Hope that helps  LOCATION1 is a nice place to live,The review expressed opinion on [LOCATION1 - live],AD
+"However LOCATION2 and LOCATION1 are more affordable , plus you feel like you 're out of the London so they 're a bit more relaxed","The review expressed opinion on [LOCATION2 - price] , opinion on [LOCATION1 - price] , opinion on [LOCATION2 - quiet] , opinion on [LOCATION1 - quiet]",AD
+"However, I don't like LOCATION1",The review expressed opinion on [LOCATION1 - general],AD
+"However, the outer suburbs of SE London (LOCATION1 and LOCATION2) are quite pleasant  It will be absolutely fine","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"However, you can also consider LOCATION1, where youd find various detached villas with large gardens",The review expressed opinion on [LOCATION1 - general],AD
+"I 've heard a lot of people saying that LOCATION1 is dangerous , is that true",The review expressed opinion on [LOCATION1 - safety],AD
+I also know a couple of people who are moving to LOCATION1  and they rate it highly,The review expressed opinion on [LOCATION1 - general],AD
+I also know lots of people in areas like LOCATION2 and LOCATION1 who never once felt unsafe when they lived there,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+"I also like LOCATION2 and LOCATION1 , it 's very vibrant","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+I always go shopping and to the cinema in LOCATION1,The review expressed opinion on [LOCATION1 - shopping],AD
+I always wanted to live around LOCATION1,The review expressed opinion on [LOCATION1 - live],AD
+"I am afraid no part of London in particular is not a safe place to live , especially for a 20 year old woman , but in comparison , South London , and LOCATION2 have higher crime rates and LOCATION1 has the highest rate of crime and it has been named `` The Murder Capital of Europe","The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+I can't really complain about LOCATION1 (bit boring no entertainment),"The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - general]",AD
+"I can't understand the thumbs down for LOCATION1, that area is having lots of money thrown at it right now",The review expressed opinion on [LOCATION1 - general],AD
+"I come from LOCATION1 which is a similarly impoverished London borough in fact, it has a worse reputation than LOCATION1",The review expressed opinion on [LOCATION1 - general],AD
+I don't know LOCATION2 but LOCATION1 is one of the nicest areas of London,The review expressed opinion on [LOCATION1 - general],AD
+I dunno but theres alot of Mediterranean people in North LOCATION1,The review expressed opinion on [LOCATION1 - multicultural],AD
+I guess I lived in LOCATION1 and it wasnt the best but the public transport in LOCATION2 is the best,"The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - general]",AD
+I have lived in LOCATION1 for 20+ years and never had a problem day or night,The review expressed opinion on [LOCATION1 - safety],AD
+"I have lived in big cities before so will not be shocked by a lot of stuff , just wanted to get a feel for the okayish places LOCATION1 is good , its close enough to the London but far enough to be away from too much of the noise and action if you end up in a coucil estate they are n't actually too bad , it 's quiet family based , if you are able to have the attitude of i shut my front door i shut everyone and everything else out you 'll be fine","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+"I have plenty of friends from LA who live in LOCATION1 and love it, but everyone is different of course",The review expressed opinion on [LOCATION1 - live],AD
+I have read that LOCATION1 village is a nice area,The review expressed opinion on [LOCATION1 - general],AD
+I heard from a distant school friend that LOCATION1 ( which is presumably near this address ) is 60 % or more Bangladeshi and that it 's not the safest area,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION1 - multicultural]",AD
+I know I learned then  cheapest area is London borough of LOCATION1,The review expressed opinion on [LOCATION1 - price],AD
+I know a bit about LOCATION1 as I shopped there loads but as an area to live in not sure,The review expressed opinion on [LOCATION1 - shopping],AD
+I know a lot of people that live in LOCATION1 and find it easy to get into central London,The review expressed opinion on [LOCATION1 - transit-location],AD
+I like LOCATION2 and LOCATION1 etc,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"I live LOCATION1, and I love it  Used to live in LOCATION1","The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - general]",AD
+I live in LOCATION1 and I have a wonderful street with great neighbours,"The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - general]",AD
+I live in LOCATION1 and it's nice and it's cheapish but avoid the rest of LOCATION2,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+I live in LOCATION1 and it's not ALL 'grotty',The review expressed opinion on [LOCATION1 - general],AD
+"I live in LOCATION1 and my partner was born here, we want OUT",The review expressed opinion on [LOCATION1 - live],AD
+I live in LOCATION1 and to be honest there's no pubs or clubs round here,The review expressed opinion on [LOCATION1 - nightlife],AD
+I live in LOCATION1 and work at London Bridge Railway Station   love it,"The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - general]",AD
+I live in LOCATION1 area and it is really a great place,The review expressed opinion on [LOCATION1 - general],AD
+I live in LOCATION1 which is at the end of the Jubilee Line,The review expressed opinion on [LOCATION1 - transit-location],AD
+"I live in LOCATION1, and I really like it","The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - general]",AD
+"I live in LOCATION1, which would be characterised by having a lot of greenery (for Zone 2) and seems to attract lots of twenty-something professional types",The review expressed opinion on [LOCATION1 - green-nature],AD
+I live in a middle class outer London suburb called LOCATION1 in the south of the Greater London area,The review expressed opinion on [LOCATION1 - transit-location],AD
+I live near LOCATION1 and I have to say that it's a pretty nice area,The review expressed opinion on [LOCATION1 - general],AD
+I live near the LOCATION1; have never felt unsafe,The review expressed opinion on [LOCATION1 - safety],AD
+"I live pretty close to LOCATION1 and it is a good area to live in - good transport, lots of cafes, close to all sorts of amenities","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - live]",AD
+I live right near LOCATION1 and have never had any problems even at night,The review expressed opinion on [LOCATION1 - safety],AD
+I lived in LOCATION1 and LOCATION2 and had no trouble at all,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+I lived in LOCATION1 for a couple of years  but found the people to be not too friendly and didn'r feel safe there,The review expressed opinion on [LOCATION1 - safety],AD
+"I lived in LOCATION1, and I had two bikes stolen",The review expressed opinion on [LOCATION1 - safety],AD
+I lived in London for 6 months and I would reccommend living in LOCATION2 or LOCATION1,"The review expressed opinion on [LOCATION2 - live] , opinion on [LOCATION1 - live]",AD
+I lived in SE London (LOCATION1) for 11 years and most of the people there are white,The review expressed opinion on [LOCATION1 - multicultural],AD
+I love LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+I meant to say as well I was offered LOCATION1 but was told that this place is really violent,The review expressed opinion on [LOCATION1 - safety],AD
+I prefer LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+"I really do not believe that LOCATION1 , although working class , has a higher crime rate than any other East End areas",The review expressed opinion on [LOCATION1 - safety],AD
+"I really like the fact that LOCATION2 is a beautiful place, especially LOCATION1","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+I reckon LOCATION1 offers some really great value accommodation and actually I havnt heard anything negative about it,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+I recommend LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+"I rent a nice one bedroom flat in SE London near LOCATION1 for 700 per month, downside is that it's not near the tube",The review expressed opinion on [LOCATION1 - transit-location],AD
+"I say LOCATION1 as their is a large community of expats from Australia , New Zealand and South Africa there making for an interesting and varied range of people along with the local English people",The review expressed opinion on [LOCATION1 - multicultural],AD
+I stayed in LOCATION1  and loved the area,The review expressed opinion on [LOCATION1 - general],AD
+I suggest looking for areas a bit further out in LOCATION2 or LOCATION1,"The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - transit-location]",AD
+"I suggest the LOCATION1 area, especially around LOCATION2","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+I think LOCATION1 ( N7 ) is getting expensive for very solid reasons,The review expressed opinion on [LOCATION1 - price],AD
+I think you should not hesitate about all this stuff and go ahead with it I worked extensively around London and I would agree that LOCATION1 would not be my first choice to live,The review expressed opinion on [LOCATION1 - live],AD
+I used to live in LOCATION1 (Nth London and before it changed its name) - it's now a slum,The review expressed opinion on [LOCATION1 - general],AD
+"I used to live in LOCATION1,  which is near LOCATION2 and it wasn't too bad really",The review expressed opinion on [LOCATION1 - general],AD
+"I used to work in LOCATION1 and it was OK  it's fairly diverse as there are a lot of students in the area attending Queen Mary's, and the locals are either asian (mostly bangladeshi I think) or proper cockneys :0)","The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - multicultural]",AD
+"I was looking at LOCATION1, since they have a lot of cheap places there",The review expressed opinion on [LOCATION1 - price],AD
+"I wasn't very impressed with LOCATION1, the main street looked dirty",The review expressed opinion on [LOCATION1 - general],AD
+"I would recommend you carefully consider LOCATION2 and LOCATION1 when you make your choice, as these are known to be peaceful and well maintained boroughs","The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION2 - general] , opinion on [LOCATION2 - quiet] , opinion on [LOCATION1 - quiet]",AD
+"I would say LOCATION1, probably not the nicest area in terms of beauty but it is relatively easy to get about from there, not too far away from central London","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+I would say that you'd be safer on the opposite side of  LOCATION2 - an area like LOCATION1,The review expressed opinion on [LOCATION1 - safety],AD
+I would stay away from LOCATION2 or LOCATION1 just because I have heard of people being bothered quite a bit there,"The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION2 - general] , opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+I would suggest going to LOCATION1 on Sunday for breakfast/lunch around 12ish,The review expressed opinion on [LOCATION1 - dining],AD
+I wouldn't advise you walking alone late at night in the LOCATION1 area   there's quite a lot of prostitutes in that area in the evening and you don't want to get accosted,The review expressed opinion on [LOCATION1 - safety],AD
+I wouldn't even visit never mind live in LOCATION1 personally speaking,"The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - general]",AD
+I wouldn't live in the centre of LOCATION1 itself as it is really busy and noisy,"The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - quiet]",AD
+"I'd go to LOCATION1 - its an up and coming area, has some great bars / restaurants, and excellent food markets","The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - general]",AD
+I'd prefer somewhere like LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+I'll go with LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+I've been too all of those places and my favorite is LOCATION1 it's really lovely,The review expressed opinion on [LOCATION1 - general],AD
+I've lived in LOCATION1 all my life and haven't been stabbed once,The review expressed opinion on [LOCATION1 - safety],AD
+I've lived in LOCATION1 for 34 years and never had any problem,The review expressed opinion on [LOCATION1 - safety],AD
+I've lived in LOCATION1 my whole life and frankly I hate it,"The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - general]",AD
+IO have a friend in LOCATION1 but she says it's a pain in the ar travelling to central every day for work,The review expressed opinion on [LOCATION1 - transit-location],AD
+Id live in LOCATION1  and has transport links via national rail,The review expressed opinion on [LOCATION1 - transit-location],AD
+"Id suggest LOCATION1 is an area on the up , the main high street seem to be thriving these days so you might find good value","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+"Ideally in LOCATION2 / LOCATION1, although rest of London is cool","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+If London is a must then avoid the area around LOCATION1 and LOCATION2 in the South-East,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"If London, a good place is LOCATION1",The review expressed opinion on [LOCATION1 - general],AD
+If money isn't an object them you could try LOCATION1 or LOCATION2 as they're Thameside and both have direct tube links to SK,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION2 - general] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION2 - price] , opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - general]",AD
+If money was no object - LOCATION1 in LOCATION2,The review expressed opinion on [LOCATION1 - price],AD
+If you are in LOCATION1 head to 'La Pietra' one of the better Italian restaurants in the area,The review expressed opinion on [LOCATION1 - dining],AD
+"If you are really scared of crime statistics, choose LOCATION1 or even LOCATION2","The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+If you have a reasonable budget go for LOCATION2 or LOCATION1,"The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION2 - general] , opinion on [LOCATION1 - price] , opinion on [LOCATION2 - price]",AD
+"If you lived in LOCATION1 or LOCATION2, expect to get your head kicked in a fair few times","The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+If you want a decent place to bring up kids or have a decent standart of living try LOCATION1 or LOCATION2,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+If you want to live in Essex stick to areas like LOCATION2 or LOCATION1,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+If you're into shopping head to LOCATION1,The review expressed opinion on [LOCATION1 - shopping],AD
+"If your a quiet person who enjoys their space and likes to reflect on the world then a quiet suburban area near London like LOCATION1, or LOCATION2","The review expressed opinion on [LOCATION2 - quiet] , opinion on [LOCATION1 - quiet]",AD
+"If your looking for somewhere in particular though LOCATION1 is a good place , and like all places it has a range of expensive and not so expensive areas : )",The review expressed opinion on [LOCATION1 - general],AD
+"If your looking to be within the Greater London area, maybe try looking at LOCATION1, which is  just slightly less expensive","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+"In LOCATION1, there's the Geffrye Museum which has regular children's special days, and the Museum of Childhood which is all about children",The review expressed opinion on [LOCATION1 - touristy],AD
+In general LOCATION1 is a good place to go as there are so many different shops and stalls to go to and it's mostly affordable,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - shopping]",AD
+In my opinion LOCATION2 isn't too far out but LOCATION1 can be quite a treck,"The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - transit-location]",AD
+In other words the best place to live in London is LOCATION1 and LOCATION2 all the other places are dumps,"The review expressed opinion on [LOCATION2 - live] , opinion on [LOCATION1 - live]",AD
+Is it ok to live near LOCATION1,The review expressed opinion on [LOCATION1 - live],AD
+It is really easy to travel via subway in London especially being located near LOCATION1,The review expressed opinion on [LOCATION1 - transit-location],AD
+It's close to LOCATION1 park which is a major sports  site and the park itself is great with a number of attractions including the famous victorian dinosaurs,"The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - touristy]",AD
+It's cool working in LOCATION1 as I like being on the victoria line,The review expressed opinion on [LOCATION1 - transit-location],AD
+Just a couple of ideas  LOCATION1 is much better than it used to be and is very central,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+"Just think of Little Somalia and its there, right in LOCATION1",The review expressed opinion on [LOCATION1 - multicultural],AD
+LOCATION1  It's pricey but at night it's beautiful,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+LOCATION1  has improved in recent years with the opening of the international rail terminal at St Pancras,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION1  have a big Bangladeshi population,The review expressed opinion on [LOCATION1 - multicultural],AD
+LOCATION1  is fine and I never had any trouble,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION1 - general]",AD
+LOCATION1  they actually have deer running about in the park,The review expressed opinion on [LOCATION1 - green-nature],AD
+"LOCATION1 , on the other hand , is dodgy",The review expressed opinion on [LOCATION1 - safety],AD
+"LOCATION1 , south London is also home to a sizeable Brazilian community that lives alongside the UK 's single largest Portuguese community in ` Little Portugal '",The review expressed opinion on [LOCATION1 - multicultural],AD
+"LOCATION1 - Central, fairly affordable","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price]",AD
+"LOCATION1 - Exciting neighbourhood, full of culture","The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - multicultural]",AD
+"LOCATION1 - Good shopping area, loads of offices, very modern, skyscrapers etc  Very different from the rest of London",The review expressed opinion on [LOCATION1 - shopping],AD
+"LOCATION1 Est  again not somewhere I'd chose to live, but again, mainly council housing so its unlikely it would come up",The review expressed opinion on [LOCATION1 - live],AD
+"LOCATION1 I think is a bit of a dead area , not much there and transport is awkward","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION1 I think is generally safer,The review expressed opinion on [LOCATION1 - safety],AD
+"LOCATION1 London Farm has a wide range of livestock, poultry, and horses, and offers pony rides on Saturday and Sunday, 1.30pm-2.30pm (for 1)",The review expressed opinion on [LOCATION1 - green-nature],AD
+"LOCATION1 N1 , N7 and N5 is also nice and LOCATION2 NW1 is also nice , both a bit more upscale than Stokey","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION1 SW12 is ideal for a young 20-30 ish couple,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 Village  is not Central London,The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 a large park in central London; there is no admission charge,"The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - transit-location]",AD
+"LOCATION1 aint cheap you muppet, that's prime location","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price]",AD
+LOCATION1 and LOCATION2 are handiest for transport though,"The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - transit-location]",AD
+"LOCATION1 and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION2 - green-nature] , opinion on [LOCATION1 - price] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION2 - price] , opinion on [LOCATION2 - transit-location]",AD
+LOCATION1 and LOCATION2 are the most dangerous,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+LOCATION1 and LOCATION2 are the most dangerous areas in London,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+LOCATION1 and LOCATION2 no go areas,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"LOCATION1 and surrounding areas have plenty of restaurants , bars as well as its quiet side","The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - quiet]",AD
+LOCATION1 but its not cheap,The review expressed opinion on [LOCATION1 - price],AD
+LOCATION1 certainly isn't known for high crime levels  No at all,The review expressed opinion on [LOCATION1 - safety],AD
+LOCATION1 for Indian food,The review expressed opinion on [LOCATION1 - dining],AD
+LOCATION1 from what I see is quite posh,The review expressed opinion on [LOCATION1 - price],AD
+LOCATION1 has a cinema and a lot of different places to eat,The review expressed opinion on [LOCATION1 - dining],AD
+LOCATION1 has a really cool market which attracts goths,The review expressed opinion on [LOCATION1 - shopping],AD
+"LOCATION1 has a reputation as an affluent and fashionable area, known for attractive terraces of large Victorian townhouses, and high-class shopping and restaurants","The review expressed opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - price] , opinion on [LOCATION1 - shopping]",AD
+LOCATION1 has a vibrant Indian community Maximum indians are living there,The review expressed opinion on [LOCATION1 - multicultural],AD
+"LOCATION1 has an amazing nightlife , it 's a really beautiful and vibrant part of the London and there 's always loads going on","The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - general]",AD
+LOCATION1 has some trendy bars and a few restaurant mainly limited to hoxton Square,"The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - dining]",AD
+"LOCATION1 has the nicest areas , pricey though","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+"LOCATION1 has very good buses , is in walking distance of LOCATION1 or Elephant tube and has trains from Denmark Hill station",The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 i kno it is just outside London but is nice,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION1 if you can afford is great,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+"LOCATION1 in LOCATION2 is a nice area , and pretty cheap","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+LOCATION1 in SW London is a nice part of London,The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1 in the North, not too far from LOCATION2, has good schools and is a really nice pocket of London","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is Great too,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is OK but where are you coming from,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is a 30 minute train ride from LOCATION1 Station in central London,The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 is a better area after LOCATION2,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"LOCATION1 is a bit of a dump, LOCATION2 is slightly nicer","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is a brilliant place to live,The review expressed opinion on [LOCATION1 - live],AD
+LOCATION1 is a clean area with park and shops along the whole chiswick High Road,"The review expressed opinion on [LOCATION1 - shopping] , opinion on [LOCATION1 - general] , opinion on [LOCATION1 - green-nature]",AD
+LOCATION1 is a commuter town for people working in London,The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 is a decent area and easy to get to work on the train,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is a good area for a newcomer,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is a good area of London to live in,The review expressed opinion on [LOCATION1 - live],AD
+LOCATION1 is a good place,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is a good place to start out in London,The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1 is a great area with heaps of pubs , restaurants and young people everywhere","The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is a great place to live,The review expressed opinion on [LOCATION1 - live],AD
+LOCATION1 is a high class quiet residential area BUT there are also two penal establishments in the area,"The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - quiet]",AD
+LOCATION1 is a lovely part of London and I 'd definitely want to live there given an opportunity,"The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - general]",AD
+"LOCATION1 is a major transport centre for trains , buses and Tube lines",The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 is a museum to some of the best curry London has to offer,The review expressed opinion on [LOCATION1 - dining],AD
+LOCATION1 is a nice place,The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1 is a nice place to live near Roundwood Park , it is located in North West of London","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - live]",AD
+"LOCATION1 is a very nice area with restaurants and bars, and only about 15 minutes on the tube (Jubilee Line) from the centre of town","The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - dining]",AD
+LOCATION1 is a very popular place for Australians and South Africans so you 'd probably find a lively community you 'd fit in with there,The review expressed opinion on [LOCATION1 - multicultural],AD
+LOCATION1 is about the safest area in London,The review expressed opinion on [LOCATION1 - safety],AD
+LOCATION1 is also a good area to live,The review expressed opinion on [LOCATION1 - live],AD
+LOCATION1 is also a good choice and has much more going on than the other two places,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is also a good location,The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1 is also a great place , but incredibly pricey Depends what your budget is like","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is also not bad,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is also quite hip but is still a bit edgy,The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1 is also very popular, as is LOCATION2","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is amazing,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is an amazing place to live,The review expressed opinion on [LOCATION1 - live],AD
+"LOCATION1 is an area with lots of places to eat , has a market through the week","The review expressed opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - shopping]",AD
+LOCATION1 is beautiful and has so much for kids there,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is best  LOCATION2 are extremely unpleasant,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is cheaper to live in than LOCATION2 by the way,The review expressed opinion on [LOCATION1 - price],AD
+LOCATION1 is cheapest place to stay near to London with rates upto 600pounds for descent space,The review expressed opinion on [LOCATION1 - price],AD
+"LOCATION1 is excellent for transport ( trains , buses , and another tube station , this one with more lines )",The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 is fine but it can be very noisy depending where you live and the trains and buses are always crowded during morning and evening commutes,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general] , opinion on [LOCATION1 - quiet]",AD
+LOCATION1 is full of everything including markets and street entertainers and musicians - it  is really entertaining and good fun,"The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - touristy] , opinion on [LOCATION1 - shopping]",AD
+LOCATION1 is generally cheaper than LOCATION1 because of the lack of tube stations so you might want to start there,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price]",AD
+LOCATION1 is good,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is good if you like to have good transport but still feel like a little town on its own,The review expressed opinion on [LOCATION1 - transit-location],AD
+"LOCATION1 is great , as it 's very posh","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is great Tube/overground/THE COMMONS London is a very strange place to live as alot of the rougher areas close to town are expensive and the nice parts are cheaper because there out of town,The review expressed opinion on [LOCATION1 - transit-location],AD
+"LOCATION1 is great and best for transport, having tube and overground","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is great; not so much the other parts of LOCATION2,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is lovely and not at all like LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is more residential ; mostly streets of houses and it will take longer to get in to the London,The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 is much better,The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1 is much more lively, good shops, more multicultural but borders on some rough areas","The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION1 - shopping] , opinion on [LOCATION1 - multicultural]",AD
+"LOCATION1 is n't safe , I used to live there and it is a disgusting , rough area","The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is n't very friendly either,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is near LOCATION1 but it is quite a posh place,The review expressed opinion on [LOCATION1 - price],AD
+LOCATION1 is nice,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is nice  I live around the LOCATION1/richmond area,The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1 is nice , plenty of green spaces and several train stations I will be relocating to London for work in one month","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+"LOCATION1 is nice , the green belt is just 5 minutes away , its all fields there","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - general]",AD
+"LOCATION1 is nice, but NOT cheap, and for my taste, too far out","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+"LOCATION1 is not the best place to be, esp for u young girls at night to be honest, and not much in the way of shopping either","The review expressed opinion on [LOCATION1 - shopping] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is ok,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is ok to live,The review expressed opinion on [LOCATION1 - live],AD
+"LOCATION1 is okay , houses are n't too expensive there London is not a safe London","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is on the Metropolitan Line of the Underground ; the trains are frequent and take 35 minutes to LOCATION1,The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 is on the Piccadilly line and you can commute to there in 30 minutes from virtually the most northerly point on the line about 10 miles out on the outskirts of London,The review expressed opinion on [LOCATION1 - transit-location],AD
+"LOCATION1 is one of if not the most expensive areas in London, so if you're looking for reasonably pricing I'd avoid it",The review expressed opinion on [LOCATION1 - price],AD
+LOCATION1 is one of the best boroughs in London   there are 2 tube lines and numerous overhead train stations around,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+"LOCATION1 is one of the best places to live in South, Greater London",The review expressed opinion on [LOCATION1 - live],AD
+LOCATION1 is one of the nicest London Boroughs,The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1 is pretty expensive , as are swathes of the rest of the borough",The review expressed opinion on [LOCATION1 - price],AD
+LOCATION1 is probably better although you may get noise from the Airport,"The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - quiet]",AD
+LOCATION1 is probably safer than other areas,The review expressed opinion on [LOCATION1 - safety],AD
+"LOCATION1 is quite a long way out of London , but its very green","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - transit-location]",AD
+LOCATION1 is quite a low rent area,The review expressed opinion on [LOCATION1 - price],AD
+"LOCATION1 is quite a nice area , it has a few universities in/around it and is also well know for being a place where young families live",The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is really close to central London ( easy walk ) but very expensive rent,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price]",AD
+"LOCATION1 is really nice , lovely park and market","The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - shopping] , opinion on [LOCATION1 - green-nature]",AD
+"LOCATION1 is right on the THames , we have a inner London farm , and several marines",The review expressed opinion on [LOCATION1 - green-nature],AD
+"LOCATION1 is safe , in general ,  there is a high pick pocket rate , but keep your wits about you and do n't carry things in exposed pockets",The review expressed opinion on [LOCATION1 - safety],AD
+"LOCATION1 is slightly more up market, it's an extremely vibrant area of London, and mainly consists of young and middle aged professionals",The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1 is slightly more upmarket , with good train/tube connections to London There 's nothing wrong with any of those areas but there is probably some truth in what you 've heard","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is the address of choice for those with enough money to be able to choose anywhere they like,The review expressed opinion on [LOCATION1 - price],AD
+LOCATION1 is the best area,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is the best place to live in London,The review expressed opinion on [LOCATION1 - live],AD
+"LOCATION1 is the nicest suburb, but a little farther out","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is the worst part of London  LOCATION2 is safer,"The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION2 - safety]",AD
+LOCATION1 is up and coming and then you have LOCATION1 right next to you,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is up and coming for young families,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is very attractive and is a short frequent suburban rail commute into central London,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is very cosmopolitan and good for DJ bars and Live Music Venues,"The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - multicultural]",AD
+LOCATION1 is very downmarket,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 is very expensive to live and renting a flat there would cost you approx,The review expressed opinion on [LOCATION1 - price],AD
+LOCATION1 is very far from Central London and no buses except from nights go to Central London straight,The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 is very middle class with people with lots of money,The review expressed opinion on [LOCATION1 - price],AD
+"LOCATION1 is very nice, it is full of green space and one of the most picturesque parks in London","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - general]",AD
+LOCATION1 is well connected on the Jubilee (zone 2) line being one of the newest lines and takes you to LOCATION2 or Bond Street in no time at all,The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 is well connected with three tube stations and is generally a plesant place to live,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - live]",AD
+LOCATION1 is well worth a visit too - just hop on the DLR and it takes you straight there,"The review expressed opinion on [LOCATION1 - touristy] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION1 isn't to bad either,The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1 itself is a lovely area to live , my nans lived there for 30 years and I spend much of my child their",The review expressed opinion on [LOCATION1 - live],AD
+"LOCATION1 may be an excellent option , there 're relatively inexpensive areas there , and you can travel to richmond by bike $ 450 a week roughly equates to 1000 over here ( there 's not much point in you asking us in dollars seeing as that is n't the currency we use over here )","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price]",AD
+LOCATION1 might sometimes have a bad reputation but actually much of it is quite nice depends very much which part of LOCATION1 you 're talking about,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 near LOCATION1 would be ideal because there are direct trains to Gatwick from there,The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 offers many authentic indian restaurants such as dosa n chutney and chennai dosa,The review expressed opinion on [LOCATION1 - dining],AD
+"LOCATION1 or LOCATION2 , both have lots of restaurants and pubs","The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION2 - nightlife] , opinion on [LOCATION1 - dining] , opinion on [LOCATION2 - dining]",AD
+"LOCATION1 or LOCATION2 are no where near Central Ondon, and you'll spend all your time on trains","The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - transit-location]",AD
+LOCATION1 or LOCATION2 if you can afford either of these areas,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general] , opinion on [LOCATION2 - price]",AD
+LOCATION1 runs on the victoria line,The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION1 seems to be full of teenagers these days and it can get quite touristy and dirty,"The review expressed opinion on [LOCATION1 - touristy] , opinion on [LOCATION1 - general]",AD
+LOCATION1 used to be utterly dreadful,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 was probaly the first Irish community in London,The review expressed opinion on [LOCATION1 - multicultural],AD
+LOCATION1 which is not far from LOCATION1 would be a better community to live in,The review expressed opinion on [LOCATION1 - live],AD
+LOCATION1 would be a good choice,The review expressed opinion on [LOCATION1 - general],AD
+LOCATION1 would be good,The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1's bloody horrible,  AND, I daresay, probably, bleedin' expensive an' all","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+LOCATION1's still quite central and has good bus and tube connections (and it's easy to get to LOCATION2 from there),The review expressed opinion on [LOCATION1 - transit-location],AD
+"LOCATION1, LOCATION2  and surrounding areas are good","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"LOCATION1, LOCATION2 its kind of scary people get mugged very often","The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+"LOCATION1, London's most beautiful open space   LOCATION2, is mainly a Jewish area,","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION2 - multicultural]",AD
+"LOCATION1, Middx - just slightly North, and a lovely place",The review expressed opinion on [LOCATION1 - general],AD
+"LOCATION1, a quieter area, although it will have local shops, restaurants etc  Not far from LOCATION2 and the River","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - shopping] , opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - quiet]",AD
+"LOCATION1, it is a great place to go out for the day to shop or see a film, and has great nightlife as well","The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - shopping]",AD
+"LOCATION1, posh and down to earth at the same time","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+"LOCATION1, where I live, is quite at the hub nowadays",The review expressed opinion on [LOCATION1 - transit-location],AD
+"LOCATION1, which has a lovely almost country village feel, and has a really cool bar called Zerodegrees which brews its own beer on site","The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - general]",AD
+LOCATION1/LOCATION2 road is a good area,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"LOCATION1: Right, so yeah, it has its crime",The review expressed opinion on [LOCATION1 - safety],AD
+"LOCATION2 (Location - South East) - Expensive apartment LOCATION1 (Location- Central ) - For the rich and famous, expensive and central","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price] , opinion on [LOCATION2 - price]",AD
+LOCATION2 / LOCATION1  are good places if you need to be more central - again similar price tag,"The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION2 - general] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+LOCATION2 and LOCATION1 are considered the 'nice' area's of London to live,"The review expressed opinion on [LOCATION2 - live] , opinion on [LOCATION1 - live]",AD
+LOCATION2 and LOCATION1 are easily accessible from many areas,"The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - transit-location]",AD
+"LOCATION2 and LOCATION1 are more areas to look if you want to settle down with a family , due to good schools , more green space , and being safer because they are further out ( Zones 4 , 5 and 6 ) , all these things are useless to a single 18 yo","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION2 - green-nature] , opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION2 - transit-location]",AD
+LOCATION2 and LOCATION1 are nice places,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION2 and LOCATION1 areas are good alternatives as well,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"LOCATION2 and the LOCATION1 are cool, and I am going to stick my neck out here and say that the rest of London is basically boring","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION2 is OK but LOCATION1 is also a much better place to shop which a large shopping centre called the Bentall centre,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - shopping]",AD
+LOCATION2 is a 30 minute train ride from LOCATION1 Station in central London,The review expressed opinion on [LOCATION1 - transit-location],AD
+LOCATION2 is a good area as well as LOCATION1 but this area has some crime,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION2 is excellent for restaurants by LOCATION1 I think is tad cheaper,"The review expressed opinion on [LOCATION2 - dining] , opinion on [LOCATION1 - price]",AD
+"LOCATION2 is not a nice area , as is most of LOCATION1","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION2 is not too bad LOCATION1  is very upmarket and many artists live there,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION2 is reasonably safe and LOCATION1 is ok,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+LOCATION2 is worse and LOCATION1 is even worse than that,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+LOCATION2 or LOCATION1 are the best places,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"LOCATION2, LOCATION1 are bad news too","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+Let's face it I can't afford LOCATION1 or LOCATION2 ha,"The review expressed opinion on [LOCATION2 - price] , opinion on [LOCATION1 - price]",AD
+"Live in LOCATION1  LOCATION1  Mostly young people, nice area can be expensive though","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+"London is expensive, LOCATION1 especially so",The review expressed opinion on [LOCATION1 - price],AD
+Look for a place to live in LOCATION1 aswell,The review expressed opinion on [LOCATION1 - live],AD
+Look on Hostel sites  I like LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+Make ure you take a visit to LOCATION1,The review expressed opinion on [LOCATION1 - touristy],AD
+"Many of the key tourist attractions, the residence of the Queen (Head of State) are all in a district-level municipality called the LOCATION1",The review expressed opinion on [LOCATION1 - touristy],AD
+"Many parts of LOCATION1, particularly in the north, have been well known as hotspots for drug dealing",The review expressed opinion on [LOCATION1 - safety],AD
+Most are very expensive to rent or buy even the grotty little flats and bedsits in LOCATION1,The review expressed opinion on [LOCATION1 - price],AD
+Most of London is still pretty expensive my sister lives in LOCATION1 and it is cheaper,The review expressed opinion on [LOCATION1 - price],AD
+"My friend was saying LOCATION1 is good , but the commute to Central London is very painful","The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+"My hometown is LOCATION1, in SW London literally a walk into LOCATION1",The review expressed opinion on [LOCATION1 - transit-location],AD
+"NW of LOCATION1 is LOCATION1, and that's pretty nice",The review expressed opinion on [LOCATION1 - general],AD
+Near pretty rough neighbourhoods like LOCATION1 and LOCATION2,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+Near to LOCATION1 are nicer areas within the London boroughs of Bexley and bromley,The review expressed opinion on [LOCATION1 - general],AD
+"Nearby is LOCATION1 which has Hampstead Heath, a HUGE park and tons of playgrounds for kids",The review expressed opinion on [LOCATION1 - green-nature],AD
+Nearer to London is LOCATION2 or LOCATION1,"The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - transit-location]",AD
+"Of the 3 areas you mentioned, LOCATION1 is the safest",The review expressed opinion on [LOCATION1 - safety],AD
+Old LOCATION1 around the outlet to the tunnel is pretty grotty,The review expressed opinion on [LOCATION1 - general],AD
+"On the other hand i personally live in LOCATION1 , very nice area, and i personally feel that it's allot better than LOCATION2",The review expressed opinion on [LOCATION1 - general],AD
+One nice thing is that the Tube goes to LOCATION1 so you can easily get in to central London  I was born near LOCATION1,The review expressed opinion on [LOCATION1 - transit-location],AD
+One of the main areas where Irish people used to live is LOCATION1,The review expressed opinion on [LOCATION1 - multicultural],AD
+One place I could easily identify is LOCATION1 which is on Jubilee line,The review expressed opinion on [LOCATION1 - transit-location],AD
+"Or Living in LOCATION1, crime is not high and the location is very 'cushy'",The review expressed opinion on [LOCATION1 - safety],AD
+Or try LOCATION1 where you can get more for your money,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+Out of the two I'd prefer LOCATION1 to LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+"Out of these i would say, LOCATION1 (upper)",The review expressed opinion on [LOCATION1 - general],AD
+Outside of office hours it 's nearly deserted LOCATION1 is quite the senic area,The review expressed opinion on [LOCATION1 - green-nature],AD
+"Parts of LOCATION1 are cheaper and nice for the money, but on the wrong side of the river",The review expressed opinion on [LOCATION1 - price],AD
+"People are saying LOCATION2 and LOCATION1 etc, but we warned that aint all good","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"Personally , I do n't think LOCATION1 is that bad",The review expressed opinion on [LOCATION1 - general],AD
+"Personally I prefer LOCATION1 - greener, better restaurants and shopping;  better public transport too","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - shopping] , opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - general]",AD
+Personally I think all of LOCATION1 is too crowded to I chose to live in LOCATION2 (SE London),"The review expressed opinion on [LOCATION2 - live] , opinion on [LOCATION1 - quiet]",AD
+"Personally, I would go for LOCATION2 or LOCATION1","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"Personally, having lived there, I would say LOCATION1 was a little more 'upmarket' but watch out for the planes - a lot of houses in LOCATION1 are on the landing flightpath into heathrow which can be very irritating at around 4.30/5.00 in the morning, especially in summer","The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - quiet]",AD
+Places near LOCATION1 NOT to live,The review expressed opinion on [LOCATION1 - live],AD
+"Somebody else on here was mentioning the boroughs of LOCATION1 and LOCATION2 as being cheap, affordable and safe, and I agree with that","The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION1 - price] , opinion on [LOCATION2 - price] , opinion on [LOCATION2 - safety]",AD
+South is popular LOCATION1 down to LOCATION2 - good transport links with Brighton and the south coast at the other end,"The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general] , opinion on [LOCATION1 - transit-location]",AD
+Stay away from LOCATION1  it's where everyone gets stabbed  WHATEVER YOU DO DON'T GO TO LOCATION2 AT NIGHT,"The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION2 - general] , opinion on [LOCATION1 - safety]",AD
+Stay away from LOCATION1 and the housing estates which are the poorer run-down areas,The review expressed opinion on [LOCATION1 - general],AD
+"Take a rivercruise to LOCATION1, nice market, bars, and GMT","The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - shopping]",AD
+Take the Tavistock Square bus and go to LOCATION1 - plenty cheap there,The review expressed opinion on [LOCATION1 - price],AD
+"Thanks in advance for any advice  LOCATION2 and LOCATION1 are both very safe, leafy London boroughs with a wide range of good restaurants, bars and clubs as well as excellent transport links to the centre (we don't say 'downtown' here)","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION2 - green-nature] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - nightlife] , opinion on [LOCATION2 - nightlife] , opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - dining] , opinion on [LOCATION2 - dining]",AD
+The LOCATION1 area is a bit rough,The review expressed opinion on [LOCATION1 - safety],AD
+"The above answerer is right, the other side of LOCATION1 is much worse, but LOCATION1 Park is not amazing",The review expressed opinion on [LOCATION1 - general],AD
+"The area around LOCATION1 is OK sort of bohemian, middle-class area with some nice houses and interesting stores and restaurants","The review expressed opinion on [LOCATION1 - shopping] , opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - general]",AD
+"The area around LOCATION1 is very nice with pubs, cafes and shops nearby Victoria Park Road is said to be the longest one way thoroughfare in London","The review expressed opinion on [LOCATION1 - shopping] , opinion on [LOCATION1 - general] , opinion on [LOCATION1 - nightlife]",AD
+The area around LOCATION1 is worth a look now ( it used to be hell on earth until very recently),The review expressed opinion on [LOCATION1 - general],AD
+The best clubs in London are definitely in LOCATION1 (don't be put off by the fact Amy Winehouse lives there),The review expressed opinion on [LOCATION1 - nightlife],AD
+The best place for gay/lesbian bars are either around Oxford Street in LOCATION1 or down in LOCATION2 in South London,"The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION2 - nightlife]",AD
+The best place you can live is LOCATION2 and LOCATION1 in Surrey,"The review expressed opinion on [LOCATION2 - live] , opinion on [LOCATION1 - live]",AD
+"The best places would be LOCATION2, LOCATION1","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"The borough of LOCATION1 includes both the place where Tony Blair's family lives, and LOCATION1 (possibly the worst place in the world EVER)",The review expressed opinion on [LOCATION1 - general],AD
+The dangerous places i know are: LOCATION1 LOCATION2 Full of knife crime,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+"The location is great though, because you can get to virtually anywhere in London from LOCATION1 or by bus",The review expressed opinion on [LOCATION1 - transit-location],AD
+The main LOCATION1 Road is safeish because it is busy,The review expressed opinion on [LOCATION1 - safety],AD
+The main one to avoid is LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+The majority of wealthy families lived around LOCATION2 and In general the LOCATION1 was where the poorer lived,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION2 - price]",AD
+The more expensive places are LOCATION2 and LOCATION1,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION2 - price]",AD
+The nicer streets in LOCATION1 (SE5) aren't that expensive especially the bit near LOCATION1 station,The review expressed opinion on [LOCATION1 - price],AD
+The only credible one would be LOCATION1  That's the largest woodland in the London area,The review expressed opinion on [LOCATION1 - green-nature],AD
+The only negative thing about living in LOCATION1 that I can think of is that it is very expensive,The review expressed opinion on [LOCATION1 - price],AD
+"The reputation as London 's red light district is old-fashioned and no longer deserved , and LOCATION1 is very cosmopolitian and trendy with a high gay population","The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - multicultural]",AD
+The safest boroughs across all crime categories are LOCATION2 and LOCATION1,"The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety]",AD
+The towns of LOCATION2 and LOCATION1 are also both lovely towns,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"The underground and busy market places such as LOCATION1, can have its share of pick-pockets and muggers just like anywhere else has",The review expressed opinion on [LOCATION1 - safety],AD
+The very centre of London (places like LOCATION1) are very well off and there are lower levels of crime,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price] , opinion on [LOCATION1 - safety]",AD
+"There are 27,000 Portuguese people living in LOCATION1",The review expressed opinion on [LOCATION1 - multicultural],AD
+There are VERY nice parts in LOCATION1 too,The review expressed opinion on [LOCATION1 - general],AD
+"There are many areas of LOCATION1 with quite large Indian populations, and you may find that you money goes further there","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - multicultural]",AD
+There are many nice places in south and LOCATION1 in particular,The review expressed opinion on [LOCATION1 - general],AD
+There are some great places to live near  LOCATION1LOCATION1 but without the higher property prices,"The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - price]",AD
+"There are three separate lines of the underground network that go though LOCATION1 station, so it's quite well connected",The review expressed opinion on [LOCATION1 - transit-location],AD
+There aren't villages in London unless you mean LOCATION1 Village which is not Central London,The review expressed opinion on [LOCATION1 - transit-location],AD
+"There is a 24 hour bus, the 176, which goes to Oxford St  There are other buses which go to LOCATION1",The review expressed opinion on [LOCATION1 - transit-location],AD
+There is a large Ghanian community who live and work in the LOCATION1 area,The review expressed opinion on [LOCATION1 - multicultural],AD
+"There is a thriving Irish community in and around LOCATION1, LOCATION1",The review expressed opinion on [LOCATION1 - multicultural],AD
+"There's a Leisure park in LOCATION1 nearby - it has a bowling alley, a big swimming pool, a cinema and restaurants",The review expressed opinion on [LOCATION1 - dining],AD
+"There's a lot of drug dens, prostitution and crime in LOCATION1 - so yep, great",The review expressed opinion on [LOCATION1 - safety],AD
+There's a pub right outside LOCATION1 station called the Swan that was always a really good time -,The review expressed opinion on [LOCATION1 - nightlife],AD
+Therefore probably avoid places like LOCATION1 and LOCATION2,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"Theres a great shop in LOCATION1  tesco, believe it or not",The review expressed opinion on [LOCATION1 - shopping],AD
+"These are some of the wealthiest areas of London, and many of them, like LOCATION1, are primarily residential",The review expressed opinion on [LOCATION1 - price],AD
+"These days, who could afford to live in LOCATION1 except the celebrities and the riches",The review expressed opinion on [LOCATION1 - price],AD
+They have a housing system for their schools  so I don't know if it includes pricey areas like LOCATION1 and LOCATION2,"The review expressed opinion on [LOCATION2 - price] , opinion on [LOCATION1 - price]",AD
+This article I read actually states that in recent years LOCATION1 has become very upscale with increasingly rising property values,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+Time out market guide~ LOCATION1 is becoming quite a good place to stay,The review expressed opinion on [LOCATION1 - general],AD
+Try LOCATION2 or LOCATION1 for some good curry and Indianan culture,"The review expressed opinion on [LOCATION2 - multicultural] , opinion on [LOCATION1 - dining] , opinion on [LOCATION2 - dining] , opinion on [LOCATION1 - multicultural]",AD
+Try SW/SE or south but be care full you check (not LOCATION2 or LOCATION1),"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+Try looking at LOCATION2 or LOCATION1 boroughs,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"Unlike some places that become pricey because they are trendy, LOCATION1 is understated cool","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+"We parked in a side street in LOCATION1 once; we were gone five minutes, came back and our hubcaps had been stollen",The review expressed opinion on [LOCATION1 - safety],AD
+"Well , LOCATION1 is pretty dreadful",The review expressed opinion on [LOCATION1 - general],AD
+"Well yes, if you can afford to live in LOCATION1 then it would be great but very very expensive","The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - price]",AD
+When I lived in London I really wanted to live at LOCATION1 or LOCATION2 but couldn't find an affordable house at the time,"The review expressed opinion on [LOCATION2 - live] , opinion on [LOCATION1 - live] , opinion on [LOCATION2 - price] , opinion on [LOCATION1 - price]",AD
+"With the LOCATION1 where Big Ben, Oxford Street and Buckingham Palace are all located being the most dangerous",The review expressed opinion on [LOCATION1 - safety],AD
+You can also walk to LOCATION1 or LOCATION2 which both have cool bars and restaurants,"The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION2 - nightlife] , opinion on [LOCATION1 - dining] , opinion on [LOCATION2 - dining]",AD
+You could also look at LOCATION1 in Surrey which is about 20 minutes to LOCATION2,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - general]",AD
+You could also try LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+You could live in the LOCATION1 area,The review expressed opinion on [LOCATION1 - live],AD
+"You could look further out at Robertsbridge  LOCATION1 near the station Its in West London , decent shopping, good transport links, loads of parks for your kids","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - shopping]",AD
+You could take in the above suggestions of LOCATION1 or LOCATION2 if you are a millionaire,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION2 - price]",AD
+You could try LOCATION1 but keep away from the LOCATION2,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"You might also like to give places like LOCATION1 and LOCATION2 a try, especially along their river fronts","The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION2 - green-nature] , opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"You might want to consider LOCATION1 or parts of LOCATION2,all up and coming areas and  ,are relatively quite pleasant and affordable areas to live in and not too far in terms of commuting distance to central London","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION2 - general] , opinion on [LOCATION1 - transit-location] , opinion on [LOCATION2 - price] , opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - general]",AD
+"You should move to LOCATION1 - it's clean, friendly, not as expensive as Central London and has the correct balance between suburbian and London life","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+You'll love LOCATION2 and LOCATION1,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"Your other options is to go north - LOCATION1, say",The review expressed opinion on [LOCATION1 - general],AD
+"Your rent goes further in LOCATION1 than many parts of the centre, west and north",The review expressed opinion on [LOCATION1 - price],AD
+another place to go is LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+as for LOCATION2 and LOCATION1  i normally avoid it  full of tourists and over priced,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION2 - touristy] , opinion on [LOCATION2 - general] , opinion on [LOCATION2 - price] , opinion on [LOCATION1 - touristy] , opinion on [LOCATION1 - general]",AD
+"avoid LOCATION2 and LOCATION1 , the rest is ok to good","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+check it out LOCATION1's not a bad place either,The review expressed opinion on [LOCATION1 - general],AD
+"districts including LOCATION2 and LOCATION1 are also in relatively the same position, problems but they are cheaper","The review expressed opinion on [LOCATION2 - price] , opinion on [LOCATION1 - safety] , opinion on [LOCATION1 - price] , opinion on [LOCATION2 - safety]",AD
+having lived in the LOCATION1 for a while  I have found that it can be a lovely area,"The review expressed opinion on [LOCATION1 - live] , opinion on [LOCATION1 - general]",AD
+head to LOCATION1 if historical buildings and antique markets are more your cup of tea,The review expressed opinion on [LOCATION1 - shopping],AD
+i have lived in London my whole life and have lived all over  (LOCATION1 LOCATION2) are definitely my favourites,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+"i live by LOCATION1,safe as houses and great pubs/restaurants along the river you'll love it there :)","The review expressed opinion on [LOCATION1 - nightlife] , opinion on [LOCATION1 - dining] , opinion on [LOCATION1 - safety]",AD
+i live in LOCATION1 and LOCATION1 isn't as bad as everyone thinks and the houses are beautiful,The review expressed opinion on [LOCATION1 - general],AD
+"i live in LOCATION1, and walk into central London (3 miles) all the time",The review expressed opinion on [LOCATION1 - transit-location],AD
+i lived in LOCATION1 for a time during my stay there so nice,The review expressed opinion on [LOCATION1 - general],AD
+"if I had enough money, I would definitely live in LOCATION2 or LOCATION1","The review expressed opinion on [LOCATION2 - live] , opinion on [LOCATION1 - live] , opinion on [LOCATION2 - price] , opinion on [LOCATION1 - price]",AD
+"if you can afford it , LOCATION1 is a lovely area","The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+if you fancy going North try LOCATION1,The review expressed opinion on [LOCATION1 - general],AD
+"if you want to  shop I would recommend Westfield which is located in LOCATION1, West London",The review expressed opinion on [LOCATION1 - shopping],AD
+"im not looking to move solely based on the commute everyday as I wont be going into London daily , just if I ever wanted to go out in London I know I can jump on a train quite easily LOCATION1 is just outside London which is only 20 minutes away by frequent fast train",The review expressed opinion on [LOCATION1 - transit-location],AD
+in London outskirts ( south of London ) there are 2 nice area's more affordable than LOCATION2 like LOCATION1,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price]",AD
+its so close to LOCATION2 there would be loads of bankers staying on the LOCATION1 which would push rent up high,The review expressed opinion on [LOCATION1 - price],AD
+just don't live in LOCATION1,The review expressed opinion on [LOCATION1 - live],AD
+lots of lovely scenery in LOCATION1 and LOCATION2,"The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION2 - green-nature]",AD
+maybe LOCATION1 which is the first stop of the central line and u have the forest to explore,"The review expressed opinion on [LOCATION1 - green-nature] , opinion on [LOCATION1 - transit-location]",AD
+most places in LOCATION1 is messed up,The review expressed opinion on [LOCATION1 - general],AD
+my other favorites are LOCATION1 and LOCATION2,"The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+no need to live in LOCATION1 which is generally less accessible,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - live]",AD
+opinion - LOCATION1 is a hole to live in,The review expressed opinion on [LOCATION1 - live],AD
+personally my favourite area is LOCATION1 but you need to be rich to live there,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+quiet suburban areas with good transport links like LOCATION1 are highly sought after and therefore expensive,"The review expressed opinion on [LOCATION1 - transit-location] , opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general] , opinion on [LOCATION1 - quiet]",AD
+"some of those streets above LOCATION1 are quite nice but maybe be careful how late at night you walk down from the tube, LOCATION1 tube at night can be particlarly nasty","The review expressed opinion on [LOCATION1 - safety] , opinion on [LOCATION1 - general]",AD
+t  Try LOCATION1 NW10. It will fit in your budget,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - general]",AD
+the borough of LOCATION1 is  quite quiet and boring,"The review expressed opinion on [LOCATION1 - general] , opinion on [LOCATION1 - quiet]",AD
+"the ones around LOCATION1 are more expensive, generally further out from there cheaper, as long as on tube",The review expressed opinion on [LOCATION1 - price],AD
+"there aren't many nice places in south east, mayb LOCATION2 and LOCATION1 isn't as bad as everyone thinks and the houses are beautiful","The review expressed opinion on [LOCATION2 - general] , opinion on [LOCATION1 - general]",AD
+there is good shopping in nearby LOCATION1 and LOCATION2,"The review expressed opinion on [LOCATION1 - shopping] , opinion on [LOCATION2 - shopping]",AD
+they are boroughs and I would imagine LOCATION2 or LOCATION1 would be the cheapest boroughs however they are also the roughest,"The review expressed opinion on [LOCATION1 - price] , opinion on [LOCATION1 - safety] , opinion on [LOCATION2 - safety] , opinion on [LOCATION2 - price]",AD
+try areas such as LOCATION1 that have a trendy feel and are popular with young professionals,The review expressed opinion on [LOCATION1 - general],AD
+two french students were brutally murdered in LOCATION1 on Sunday,The review expressed opinion on [LOCATION1 - safety],AD
+we lived in LOCATION1 and liked how close it was to shops,The review expressed opinion on [LOCATION1 - shopping],AD
+whatever happens in LOCATION1 is non-violent and relativly unislamic,The review expressed opinion on [LOCATION1 - safety],AD
+you can live out as far as LOCATION1/LOCATION2 which is on the edge of Greater London  and it only takes you about 20mins by train to commute right into Central London,"The review expressed opinion on [LOCATION2 - transit-location] , opinion on [LOCATION1 - transit-location]",AD
+"you live around the LOCATION1 station, there's a National Railway route that will take you directly to LOCATION1 in about 30 minutes",The review expressed opinion on [LOCATION1 - transit-location],AD
+you'll LOVE LOCATION1,The review expressed opinion on [LOCATION1 - general],AD

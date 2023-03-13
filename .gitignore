@@ -1,0 +1,15 @@
+/predictions/
+/runs/
+/wandb/
+/results/
+/cache_dir/
+/data/ASQP/
+/data/mams/
+/data/multilabel_classification/
+/data/WebNLG/
+/evaluation_for_AD_TD_TAD/
+/data/semeval-2016/cache_dir/
+/data/semeval-2016/noun_results/TASD1_noun_/
+/data/semeval-2016/runs/
+/data/semeval-2016/wandb/
+/.idea/

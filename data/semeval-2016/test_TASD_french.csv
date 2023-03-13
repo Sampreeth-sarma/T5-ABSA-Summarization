@@ -1,0 +1,584 @@
+prefix,input_text,target_text
+TASD,Après le palais du facteur nous voici à la halte qui est un restaurant correct.,The review expressed neutral opinion on restaurant general for restaurant
+TASD,Le patron nous accueille très chaleureusement et c'est sa femme qui cuisine.,The review expressed positive opinion on service general for patron
+TASD,Tout n'est pas fait maison mais c'est bon.,The review expressed positive opinion on food quality for NULL
+TASD,Le prix est un peu élevé pour un repas qui n'a pas nécessité toute une implication du début à la fin.,The review expressed negative opinion on food prices for repas
+TASD,"Des pizzas locales que vous ne mangerez pas ailleurs, accommodant les spécialités du coin.",The review expressed positive opinion on food style_options for pizzas
+TASD,Très bon accueil,The review expressed positive opinion on service general for accueil
+TASD,Le cadre et le personnel sont agréables.,"The review expressed positive opinion on ambience general for cadre , positive opinion on service general for personnel"
+TASD,"Par contre l'attente est interminable pour une salade dont la sauce est industrielle, et des ravioles dans un bain de crème pas cuite.","The review expressed negative opinion on service general for attente , negative opinion on food style_options for ravioles , negative opinion on food quality for sauce , negative opinion on food quality for crème"
+TASD,Berk.,The review expressed negative opinion on food quality for NULL
+TASD,"Au centre de ce tout petit village, on ne s'attendait pas à manger aussi bien sur une terrasse agréable.","The review expressed positive opinion on ambience general for terrasse , positive opinion on food quality for NULL"
+TASD,Service plaisant.,The review expressed positive opinion on service general for Service
+TASD,"Salade fanée, vin moyen, gratin de raviolis mangeable.","The review expressed negative opinion on food quality for Salade , neutral opinion on drinks quality for vin , neutral opinion on food quality for gratin de raviolis"
+TASD,Bonnes glaces.,The review expressed positive opinion on food quality for glaces
+TASD,Terrasse négligée.,The review expressed negative opinion on ambience general for Terrasse
+TASD,"C'est dommage, l'emplacement est idéal et le service plutôt sympa mais ça ne fait pas tout!","The review expressed positive opinion on location general for emplacement , positive opinion on service general for service , negative opinion on restaurant general for NULL"
+TASD,"Si vous êtes en vacances, si vous avez –beaucoup- de temps à perdre tout en regardant les serveuses et serveurs (au demeurant charmants) virevolter comme des mouches ne sachant quoi faire ni pour qui faire (1 heure pour 3 côtelettes froides, et, le lendemain, ¾ d’heures pour 3 glaces jamais arrivées… !), longue attente accompagnée par une musique horripilante (boum tchic, boum tchic, sans cesse).","The review expressed negative opinion on service general for serveuses , negative opinion on ambience general for musique , negative opinion on service general for attente , negative opinion on food quality for côtelettes , negative opinion on service general for serveurs"
+TASD,"On est rassuré « la patronne, interpellée, va faire des enquêtes » (sic), bref c’est PARFAIT.",The review expressed negative opinion on service general for patronne
+TASD,"En revanche si vous voulez manger dans des temps raisonnables même avec un choix de plats quelconque, alors A FUIR.",The review expressed negative opinion on restaurant general for NULL
+TASD,Je leur conseille rapidement un audit d’organisation.,The review expressed negative opinion on service general for NULL
+TASD,Dommage le cadre est sympa.,"The review expressed positive opinion on ambience general for cadre , negative opinion on restaurant general for NULL"
+TASD,"Un début de soirée qui commence dans un bon resto, comme les 1er fois une Virgin Colada à 6.50e pour se mettre en appétit et un accueil toujours très chaleureux du patron et de sa femme.","The review expressed positive opinion on restaurant general for resto , positive opinion on service general for accueil , positive opinion on service general for patron , positive opinion on service general for femme"
+TASD,Le pavé de Saumon est extra mais pour changer je teste la poêlée de noix de st Jacques à 22euros avec en gratin du jour (pomme de terre et patate douce ) le mariage sympathique et frites .,"The review expressed positive opinion on food quality for pavé de Saumon , positive opinion on food style_options for gratin du jour , positive opinion on food quality for poêlée de noix de st Jacques"
+TASD,"Que du bonheur dans l'assiette, la cuisson de mes noix sont parfaites, légèrement nacrées à l'intérieur, moelleuses à souhait... la,sauce crème légère.","The review expressed positive opinion on food quality for assiette , positive opinion on food quality for noix , positive opinion on food quality for sauce crème légère"
+TASD,Je pars très satisfaite de mon plat très bon.,The review expressed positive opinion on food quality for plat
+TASD,Une adresse à mettre dans mon top five.,The review expressed positive opinion on restaurant general for adresse
+TASD,Un bon rapport qualité/prix.,"The review expressed positive opinion on restaurant prices for NULL , positive opinion on food quality for NULL"
+TASD,Bonne cuisine créole.,The review expressed positive opinion on food quality for cuisine créole
+TASD,Nous avons mangé avec nos enfants qui ont également apprécié.,The review expressed positive opinion on food quality for NULL
+TASD,"Le service est rapide et assez froid, mais les assiettes sont bien garnies.","The review expressed neutral opinion on service general for service , positive opinion on food style_options for assiettes"
+TASD,"Le restaurant se trouvant au-dessus du marché, l'ambiance est garantie.","The review expressed positive opinion on ambience general for ambiance , positive opinion on location general for restaurant"
+TASD,L'apéro est étonnant : on vous sert une bouteille de 1 litre de rhum et une bouteille de sucre canne liquide.,The review expressed neutral opinion on drinks style_options for apéro
+TASD,De quoi égayer la journée...,The review expressed positive opinion on restaurant general for NULL
+TASD,Nous avons vécu une expérience culinaire hors du commun.,The review expressed positive opinion on food quality for NULL
+TASD,Un service impeccable et des cocktails ahurissant.,"The review expressed positive opinion on service general for service , positive opinion on drinks quality for cocktails"
+TASD,Mais le summum fut l'arrivée des entrées.,The review expressed positive opinion on food quality for entrées
+TASD,Le foi gras est le meilleur de l'île.,The review expressed positive opinion on food quality for foi gras
+TASD,Le carpaccio de st jacques sauvages est divin.,The review expressed positive opinion on food quality for carpaccio de st jacques sauvages
+TASD,Puis est arrivée la pluma de pata negra avec son incroyable purée a l'huile de truffe.,The review expressed positive opinion on food quality for purée a l'huile de truffe
+TASD,Merci rodolphe pour ce repas incroyable.,The review expressed positive opinion on food quality for repas
+TASD,A vivre absolument.,The review expressed positive opinion on restaurant general for NULL
+TASD,"La carte est -au premier abord- plutôt attrayante, mais c'est sans compter sur l'indisponibilité de nombreux aliments (lambi, marlin et thon ce soir là), et les prix hallucinants d'autres (notamment les ""plateaux"" de fruits de mer, qui ne sont en fait que de petites assiettes).","The review expressed positive opinion on food style_options for carte , negative opinion on food style_options for aliments , negative opinion on food style_options for ""plateaux"" de fruits de mer , negative opinion on food prices for ""plateaux"" de fruits de mer , negative opinion on food prices for aliments"
+TASD,"Mon choix s'est donc porté sur des pâtes aux fruits de mer (2 moules surcuites, 3 saint jacques décongelées, et beaucoup trop d'ail).","The review expressed negative opinion on food quality for moules , negative opinion on food quality for saint jacques , negative opinion on food style_options for pâtes aux fruits de mer"
+TASD,"Salle très bruyante (on n'arrivait plus à s'entendre), mais service efficace.","The review expressed positive opinion on service general for service , negative opinion on ambience general for Salle"
+TASD,"Le cadre est somptueux, le repas est très correct..","The review expressed positive opinion on ambience general for cadre , positive opinion on food quality for repas"
+TASD,De bonnes lasagnes et un café gourmand agréable..,"The review expressed positive opinion on food quality for lasagnes , positive opinion on food quality for café gourmand"
+TASD,Mais si le service très décontracté est sympathique..,The review expressed positive opinion on service general for service
+TASD,Il manque de professionnalisme..,The review expressed negative opinion on service general for NULL
+TASD,Résultat des cocktails pris pour l'apéro servi avec les plats..,The review expressed negative opinion on service general for NULL
+TASD,Je n'ai pris aucun plaisir a prendre mon mojito avec mes lasagnes.. que j'ai pourtant attendu près de 30mn..,The review expressed negative opinion on service general for NULL
+TASD,Bref dommage..,The review expressed negative opinion on restaurant general for NULL
+TASD,"On a pas mangé, on a bu de l'eau et de l'huile.",The review expressed negative opinion on food quality for NULL
+TASD,Escalope milanaise panée sur un côté seulement et plein d'huile.,The review expressed negative opinion on food quality for Escalope milanaise
+TASD,Entrecôte avec plus de nerfs que de viande et j'en passe.,The review expressed negative opinion on food quality for Entrecôte
+TASD,un resto qui ravira les papilles avec des produits très bien cuisinés.,The review expressed positive opinion on food quality for produits
+TASD,"mais une catastrophe côté service : on a été oublié dans un coin, par contre, les tables de droite et de gauche ont eu droit à tous les égards (faut être américains ou famille nombreuse pour être intéressant faut croire!)",The review expressed negative opinion on service general for service
+TASD,"on n'a pas eu de seau à glace pour le vin blanc, pas de pain durant le repas, on a dû se lever pour interpeler les serveuses qui ne nous jetaient même pas un regard, on a énormément attendu entre les plats qu'on veuille bien daigner nous débarasser les assiettes vides... bref!","The review expressed negative opinion on service general for NULL , negative opinion on service general for serveuses , negative opinion on service general for NULL"
+TASD,une soirée gustative gâchée par ces à-côtés très déplaisants,"The review expressed positive opinion on food quality for NULL , negative opinion on service general for NULL"
+TASD,"La personne au téléphone est froide et on a l'impression de dérangé et pour un restaurant qui ferme vers 2h du matin, on nous informe qu'il reste juste une entrecôte ( je vous la met de côté si vous venez) et après il me reste que des omelettes cèpes, fromage, jambon.","The review expressed negative opinion on service general for NULL , negative opinion on food style_options for NULL"
+TASD,Personnellement aller manger au resto une omelette autant manger chez soi.,The review expressed negative opinion on food style_options for NULL
+TASD,"L'endroit est très beau, l'assiette est divine, les vins bouleversants, ajoutez à cela l'enthousiasme contagieux du patron : que demander de plus ?","The review expressed positive opinion on ambience general for endroit , positive opinion on food quality for assiette , positive opinion on drinks quality for vins , positive opinion on ambience general for NULL"
+TASD,"On est si bien à l'Art dit Vin, on y passe de bons moments :)",The review expressed positive opinion on restaurant general for Art dit Vin
+TASD,"accueil sympa par 2 sénior""e""s qui mettent à l'aise",The review expressed positive opinion on service general for accueil
+TASD,Le rapport qualité prix est au top avec une cuisine locale et une climatisation manuelle qui nécessite une explication,"The review expressed positive opinion on restaurant prices for NULL , positive opinion on food quality for cuisine , positive opinion on restaurant general for NULL"
+TASD,Il s'agit de 2*2 panneaux de bois fixes au plafond avec à leur base une bande de tissu flottant manipules par un esclave cache et qui procure un réel courant d'air frais,The review expressed positive opinion on ambience general for NULL
+TASD,"Pour éviter une trop grosse demande incompatible avec leur taille de four , le souffle au grand margnier ne figure pas a la carte aussi prévoir de le commander en début de repas",The review expressed neutral opinion on food style_options for carte
+TASD,"Une originalité :les légumes sont comptés à part , sans doute pour ne pas renchérir le prix des plats","The review expressed neutral opinion on food style_options for légumes , neutral opinion on food prices for plats"
+TASD,Un restaurant a l'ancienne qui a bien du charme,"The review expressed positive opinion on restaurant general for restaurant , positive opinion on ambience general for restaurant"
+TASD,Nous avons été attirés par les prix plutôt corrects.,The review expressed positive opinion on restaurant prices for NULL
+TASD,Mais quelle erreur!,The review expressed negative opinion on restaurant general for NULL
+TASD,Les fruits de mer en entrée étaient dégoûtants (sont-ils frais?).,The review expressed negative opinion on food quality for fruits de mer
+TASD,"Les chipirons à l'encre étaient sucrés et insipides (sûrement congelés), l'assiette du pêcheur un peu mieux, mais on sent que rien n'est frais, ni préparé sur place et qu'ils utilisent des produits de mauvaise qualité.","The review expressed negative opinion on food quality for chipirons à l'encre , neutral opinion on food quality for assiette du pêcheur , negative opinion on food quality for produits"
+TASD,Les desserts étaient mangeables.,The review expressed neutral opinion on food quality for desserts
+TASD,Le service ne venait pas vraiment relever le niveau.,The review expressed negative opinion on service general for service
+TASD,Je n'avais qu'une hâte : partir!,The review expressed negative opinion on restaurant general for NULL
+TASD,Il doit pas aller très bien!,The review expressed negative opinion on food quality for NULL
+TASD,Quelle blague!,The review expressed negative opinion on restaurant general for NULL
+TASD,Ils n'ont pas honte!!!,The review expressed negative opinion on restaurant general for NULL
+TASD,"Nous avons pris l'assiette decouverte à 20 euros et nous n'avons pas été deçus Anchois, axoa, pommes de terre fromage salade ect.. copieux et surtout bon Produits frais, bien cuisinés La sangria était parfaite..","The review expressed positive opinion on food style_options for assiette decouverte , positive opinion on food quality for Produits , positive opinion on food quality for assiette decouverte , positive opinion on drinks quality for sangria"
+TASD,restaurant dans une charmante petite rue piétonne de Saint Jean de Luz.,The review expressed positive opinion on location general for rue piétonne
+TASD,"surprise avant même de passer la commande : une araignée était logée dans le menu !!! Aussitôt l'apéritif servi, la serveuse nous a apporté les soupes de poissons !","The review expressed negative opinion on restaurant miscellaneous for NULL , negative opinion on service general for serveuse"
+TASD,erreur vite rectifiée par le patron.,The review expressed positive opinion on service general for patron
+TASD,"J'ai commandé un magret bleu avec des frites, celui ci est arrivé servi avec du gratin de pommes de terre.",The review expressed negative opinion on food style_options for magret
+TASD,"il est reparti en cuisine pour être servi avec des frites et à son retour devant moi, il était froid !!! franchement pas le restaurant où je retournerai !","The review expressed negative opinion on restaurant general for restaurant , negative opinion on food quality for NULL"
+TASD,En plus la serveuse n'est même pas agréable et souriante,The review expressed negative opinion on service general for serveuse
+TASD,Nous avons tout aimé.,The review expressed positive opinion on restaurant general for NULL
+TASD,"Le cadre, dîner au bord de la piscine.",The review expressed positive opinion on ambience general for cadre
+TASD,La cuisine qui mériterait largement une étoile au Michelin.,The review expressed positive opinion on food quality for cuisine
+TASD,Des associations de saveur et des cuissons impeccables.,"The review expressed positive opinion on food quality for NULL , positive opinion on food style_options for NULL"
+TASD,Ce restaurant sur le port à attirer notre attention par la sobriété de sa carte.,The review expressed positive opinion on food style_options for carte
+TASD,En raison de la chaleur on nous a aimablement conseillé une table dans la salle climatisée.,The review expressed positive opinion on service general for NULL
+TASD,L'apéro à été un peu accéléré par un serveur visiblement pressé de finir son service et qui est venu nous proposer de goûter le vin alors que nous commentions seulement à goûter les toast de tapenade.,The review expressed negative opinion on service general for serveur
+TASD,( repris rapidement par le chef de salle),The review expressed neutral opinion on service general for chef de salle
+TASD,En entrée un assortiment de charcuterie corse et des beignets de fromages excellentes.,"The review expressed positive opinion on food quality for assortiment de charcuterie corse , positive opinion on food quality for beignets de fromages"
+TASD,Puis une dorade du jour avec petits légumes : joliment présenté et très savoureux.,"The review expressed positive opinion on food quality for dorade du jour , positive opinion on food style_options for dorade du jour"
+TASD,Au final une bonne table à découvrir!,The review expressed positive opinion on restaurant general for table
+TASD,service mauvais,The review expressed negative opinion on service general for service
+TASD,prix abusif pour la prestation,"The review expressed negative opinion on restaurant prices for NULL , negative opinion on restaurant general for NULL"
+TASD,Vieux mouton en guise d'agneau,The review expressed negative opinion on food quality for agneau
+TASD,assiette corse pire que sandwich SNCF,The review expressed negative opinion on food quality for assiette corse
+TASD,assiette de fromage au singulier .....,The review expressed negative opinion on food style_options for assiette de fromage
+TASD,J'y suis allé plusieurs fois l'an passé c'était très correcte mais à priori quelque chose a changé en cuisine par rapport à l'an dernier car c'est devenu un vrai cauchemar.,The review expressed negative opinion on food quality for cuisine
+TASD,"Pizza avec la pate caoutchouc et pas cuite, entrecôte hyper grasse j'ai dû en manger 1/4.","The review expressed negative opinion on food quality for Pizza , negative opinion on food quality for entrecôte , negative opinion on food quality for pate"
+TASD,passez votre chemin !,The review expressed negative opinion on restaurant general for NULL
+TASD,Moi ils ne me verront plus...,The review expressed negative opinion on restaurant general for NULL
+TASD,"Très bel endroit pour une pause déjeuner, à l'abri du soleil, avec un petit air rafraîchissant et vue sur le port.","The review expressed positive opinion on location general for vue , positive opinion on ambience general for endroit , positive opinion on restaurant miscellaneous for endroit"
+TASD,"Cuisine simple mais bonne, Marco vous accueille très bien, vous donne des bonnes adresses si vous demandez.","The review expressed positive opinion on food quality for Cuisine , positive opinion on service general for NULL , neutral opinion on food style_options for Cuisine"
+TASD,C'est un endroit très agréable.,The review expressed positive opinion on restaurant general for endroit
+TASD,"On y a manger le soir, sa terrasse est sur une place très jolie avec son églises.","The review expressed positive opinion on location general for place , positive opinion on ambience general for terrasse"
+TASD,"Le repas était très bon l'entrée, le plat et le dessert.",The review expressed positive opinion on food quality for repas
+TASD,"Juste un blême le serveur ou le directeur (j'ai pas compris ) avec son cigare il se reconnaîtra (tant pis), et il parle trop !!!!","The review expressed negative opinion on service general for serveur , negative opinion on service general for directeur"
+TASD,Honnêtement le cadre du restaurant est plutôt sympathique.,The review expressed positive opinion on ambience general for cadre
+TASD,"Le service et l'accueil est ""jeune"" et professionnel.","The review expressed positive opinion on service general for service , positive opinion on service general for accueil"
+TASD,La carte vous propose un large choix type brasserie.,The review expressed positive opinion on food style_options for carte
+TASD,Mais grosse déception...,The review expressed negative opinion on food quality for NULL
+TASD,"Le Burger aux fromages est bien présenté, mais la tranche de fromage est égale au Macdonald... Aucune saveur et intérêt...","The review expressed positive opinion on food style_options for Burger aux fromages , negative opinion on food quality for tranche de fromage"
+TASD,"La sauce roquefort trop crémeuse, pas de goût...",The review expressed negative opinion on food quality for sauce roquefort
+TASD,La mousse au chocolat est en réalité une ganache pleine d'eau...,The review expressed negative opinion on food quality for mousse au chocolat
+TASD,Vraiment dommage vu le quartier et le cadre.,"The review expressed positive opinion on location general for quartier , positive opinion on ambience general for cadre , negative opinion on restaurant general for NULL"
+TASD,"Ici, tout est pro.",The review expressed positive opinion on restaurant general for NULL
+TASD,De l'accueil à l'assiette en passant par le rythme du service.,"The review expressed positive opinion on service general for accueil , positive opinion on food quality for assiette , positive opinion on service general for service"
+TASD,Le décor est magnifique et c'est mieux de réserver une table au second étage où se situe la verrière ouverte en été.,"The review expressed positive opinion on ambience general for décor , positive opinion on ambience general for verrière"
+TASD,La cuisine est à la hauteur de la réputation de ce restaurant.,"The review expressed positive opinion on food quality for cuisine , positive opinion on restaurant general for restaurant"
+TASD,Les entrées sont à 7 euros et copieuses.,"The review expressed positive opinion on food style_options for entrées , positive opinion on food prices for entrées"
+TASD,Les plats sont bons mais ne vous attendez pas à de grandes surprises.,"The review expressed positive opinion on food quality for plats , neutral opinion on food style_options for plats"
+TASD,"Ils maîtrisent les plats typiques ""bistrot"".","The review expressed neutral opinion on food style_options for plats , positive opinion on food quality for plats"
+TASD,Les viandes sont excellentes notamment la bavette échalotes.,"The review expressed positive opinion on food quality for bavette échalotes , positive opinion on food quality for viandes"
+TASD,Leur petit pot au chocolat en dessert est une tuerie.,The review expressed positive opinion on food quality for pot au chocolat
+TASD,Mon compagnon est végétarien et ils n'ont actuellement que des gnocchis à la crème de crustacés à proposer en plat.,The review expressed negative opinion on food style_options for plat
+TASD,Mais nous resterons des clients réguliers de cette adresse incontournable des amoureux des brasseries typiquement parisienne.,The review expressed positive opinion on restaurant general for adresse
+TASD,"Le lieu est très sympathique, bien décoré.","The review expressed positive opinion on restaurant general for lieu , positive opinion on ambience general for lieu"
+TASD,"Les plats n'ont aucun goût, pas d'assaisonnement c'est tout à fait grossier pour une note bien salée.","The review expressed negative opinion on food quality for plats , negative opinion on food prices for plats , negative opinion on food style_options for plats"
+TASD,Pour bien connaitre la cuisine marocaine ce restaurant a tout d'un attrape touriste qui fait honte à la cuisine locale.,"The review expressed negative opinion on restaurant general for restaurant , negative opinion on food quality for cuisine"
+TASD,"De plus nous avons pris des bouteilles que nous n'avons pas terminés à table, nous n'avions même pas eu le droit de les amener dans la salle dansante du restaurant pour les terminer.",The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,Cette salle dansante est agréable malgré son étroitesse nous nous sommes amusés mais il y avait peu de monde alors je ne sais pas si le plaisir est toujours là les soirs d'affluence.,The review expressed neutral opinion on ambience general for salle dansante
+TASD,Le service est correct poli mais sans entrain.,The review expressed neutral opinion on service general for service
+TASD,Je n'ai pas bien mangé et je vous conseille de passer votre chemin.,"The review expressed negative opinion on food quality for NULL , negative opinion on restaurant general for NULL"
+TASD,Quelle déception !,The review expressed negative opinion on restaurant general for NULL
+TASD,"Attente démesurée, le vin demandé n'est plus en cave, mais on ne nous en propose pas d'autre !","The review expressed negative opinion on service general for Attente , negative opinion on drinks style_options for vin , negative opinion on service general for NULL"
+TASD,"Par contre, sur la note, un vin très cher est compté !!",The review expressed negative opinion on service general for NULL
+TASD,"3 plats arrivent enfin, puis une viande demandée bleue apportée bien cuite.",The review expressed negative opinion on food quality for viande
+TASD,"Longtemps après, les premiers ayant deja fini, la deuxième viande bleue, froide.","The review expressed negative opinion on food quality for viande , negative opinion on service general for NULL"
+TASD,"Personnel peu aimable, peu disponible, un repas d'anniversaire qui a tourné aigre.","The review expressed negative opinion on service general for Personnel , negative opinion on restaurant general for NULL"
+TASD,"En famille, après une longue balade, la météo sympathique a fait que la terasse nous a attiré.",The review expressed positive opinion on ambience general for terasse
+TASD,Le service et la cuisine sont correctes.,"The review expressed neutral opinion on service general for service , neutral opinion on food quality for cuisine"
+TASD,"C'était bon, sans être exceptionnel.",The review expressed neutral opinion on food quality for NULL
+TASD,Les enfants ont adoré le mi-cuit au chocolat maison.,The review expressed positive opinion on food quality for mi-cuit au chocolat
+TASD,Prévoir un temps d'attente pour les toilettes en sous-sol aux heures de pointes ;o),The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,"Si vous passez par là, vous pouvez vous arreter pour le cadre, les oiseaux et canards environnants, mais sans attendre quelque chose d'exceptionnel de la cuisine.","The review expressed positive opinion on ambience general for cadre , neutral opinion on food quality for cuisine"
+TASD,"Entrée plat dessert en plein Montmartre avec une qualité correcte, je trouve ça pas mal.","The review expressed neutral opinion on food quality for Entrée plat dessert , positive opinion on location general for Montmartre"
+TASD,"Ravioles et tartiflette correctes, crêpe suzette passable.","The review expressed neutral opinion on food quality for Ravioles , neutral opinion on food quality for tartiflette , negative opinion on food quality for crêpe suzette"
+TASD,Effectivement les serveurs sont chez eux et ne font pas cas des clients quand ils discutent.,The review expressed negative opinion on service general for serveurs
+TASD,Après ça mais une certaine ambiance dans la salle.,The review expressed neutral opinion on ambience general for ambiance
+TASD,Repas ordinaire mais qui permet de manger à moindre coût et au chaud.,"The review expressed neutral opinion on food style_options for Repas , positive opinion on food prices for Repas , positive opinion on ambience general for NULL"
+TASD,Compter 12€ le menu pour adulte et 10€ pour un enfant.,The review expressed neutral opinion on food prices for NULL
+TASD,Par contre éviter les tables devant la porte si vous ne voulez pas attraper la mort.,The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,Le personnel n'est pas très sympa.,The review expressed negative opinion on service general for personnel
+TASD,"On est un peu à l'étroit mais c'et le principe de ce genre de petite brasserie, déco à revoir car vieillissante mais familiale et conviviale.","The review expressed positive opinion on ambience general for déco , neutral opinion on restaurant miscellaneous for brasserie , negative opinion on ambience general for déco"
+TASD,"Dîner décevant de tout point de vue : ambiance assez triste (seulement 4 tables occupées ce dimanche soir), service un peu froid (une seule personne en salle, souvent absente, il fallait attendre son retour à chaque fois que nous voulions demander quelque chose), plats décevants : le riz arborio aux truffes apparaissant dans le menu à la carte disponible sur le site web du restaurant était devenu un simple risotto aux champignons (très moyen au demeurant), pour le même prix (18 euros en entrée), et le ris de veau était trop cuit, sec, mal accompagné.","The review expressed negative opinion on restaurant general for NULL , negative opinion on food quality for ris de veau , negative opinion on food quality for riz arborio aux truffes , negative opinion on food prices for riz arborio aux truffes , negative opinion on food style_options for ris de veau , negative opinion on ambience general for ambiance , negative opinion on service general for service , negative opinion on food quality for plats"
+TASD,Vins au verre décevants.,The review expressed negative opinion on drinks quality for Vins au verre
+TASD,Le soufflé que j'avais repéré sur la carte du site web n’était plus proposé.,The review expressed negative opinion on food style_options for carte
+TASD,Addition : 160 euros à 2 avec 2 verres chacun et en partageant le dessert.,The review expressed negative opinion on restaurant prices for NULL
+TASD,Ça ne les vaut pas.,"The review expressed negative opinion on restaurant prices for NULL , negative opinion on restaurant general for NULL"
+TASD,Je ne recommande pas.,The review expressed negative opinion on restaurant general for NULL
+TASD,"Une adresse à conseiller si vous aimez la cuisine traditionnelle, avec juste ce qu'il faut de goût.",The review expressed positive opinion on food quality for cuisine traditionnelle
+TASD,"Les escargots sont délicieux, l'os à moelle savoureux, et le bourguignon de nos voisins embaumait...","The review expressed positive opinion on food quality for escargots , positive opinion on food quality for os à moelle , positive opinion on food quality for bourguignon"
+TASD,"Petite salle mais beaucoup moins bruyante que l'on pourrait le croire, les vieilles pierres absorbent le bruit.",The review expressed positive opinion on ambience general for salle
+TASD,"Service souriant, ni trop lent ni trop rapide.",The review expressed positive opinion on service general for Service
+TASD,Une vraie bonne soirée.,The review expressed positive opinion on restaurant general for NULL
+TASD,"Bon, un peu cher mais ce n'est pas un restaurant du quotidien.","The review expressed neutral opinion on restaurant miscellaneous for restaurant , neutral opinion on restaurant prices for restaurant"
+TASD,Menus imposés.,The review expressed negative opinion on food style_options for Menus
+TASD,Apéritifs médiocres.,The review expressed negative opinion on drinks quality for Apéritifs
+TASD,Assiettes de tapas ridicules.,The review expressed negative opinion on food style_options for Assiettes de tapas
+TASD,"Plat arrivé froid, viande mal cuite, pomme de terre froides, courgettes crues, salade chaude, plat trop salé dans son ensemble, bon point pour la sauce au vin.","The review expressed negative opinion on food quality for Plat , negative opinion on food quality for viande , negative opinion on food quality for pomme de terre , negative opinion on food quality for courgettes , negative opinion on food quality for salade , positive opinion on food quality for sauce au vin , negative opinion on food quality for plat"
+TASD,Vin âcre.,The review expressed negative opinion on drinks quality for Vin
+TASD,Tarte aux pommes au calva sans calva digne d'une cantine d'école.,"The review expressed negative opinion on food style_options for Tarte aux pommes au calva , negative opinion on food quality for Tarte aux pommes au calva"
+TASD,"Arnaque du siècle, les assiettes sont peu fournies, les plats médiocres et le rapport qualité/ prix est totalement ahurissant.","The review expressed negative opinion on food prices for NULL , negative opinion on food style_options for assiettes , negative opinion on food quality for plats , negative opinion on food quality for NULL"
+TASD,Des frites surgelées ...,The review expressed negative opinion on food quality for frites
+TASD,Des boissons hors de prix .. mais c'est la même chose sur toute la place ... des sièges peu confortables mais une couverture proposée ... une naturelle bonne humeur ...,"The review expressed negative opinion on drinks prices for boissons , negative opinion on restaurant miscellaneous for NULL , positive opinion on service general for NULL"
+TASD,une nourriture correcte ...,The review expressed neutral opinion on food quality for nourriture
+TASD,Choisissez une table qui vous permet de voir travailler les peintres de Montmartre,The review expressed positive opinion on location general for NULL
+TASD,Allez-y entre amis ou en famille ...,The review expressed positive opinion on restaurant miscellaneous for NULL
+TASD,Vous regretterez moins l'addition !,The review expressed negative opinion on restaurant prices for NULL
+TASD,"Ce petit restaurant discret vaut le détour, d'abord - et il faut le souligner - pour le chaleureux accueil que le patron réserve à ses clients (merci pour le kir ;), mais aussi pour la qualité des plats servis.","The review expressed positive opinion on food quality for plats , positive opinion on restaurant general for restaurant , positive opinion on service general for accueil"
+TASD,"Les entrées sont simples mais très bonnes, et le menu offre deux séries de plats qui permettent de s'adapter à tous les budgets.","The review expressed positive opinion on food quality for entrées , positive opinion on food style_options for menu , positive opinion on food prices for plats , neutral opinion on food style_options for entrées"
+TASD,L'assaisonnement était réalisé directement en cuisine et particulièrement délicieux.,The review expressed positive opinion on food quality for assaisonnement
+TASD,"La gamme de dessert est humble, mais chacun d'eux est relevé par une petite touche créative du patron, qui en relève la saveur.","The review expressed positive opinion on food quality for dessert , neutral opinion on food style_options for dessert"
+TASD,"Sans hésiter un endroit où il fait bon manger avec un ami ou un membre de sa famille, et qui contraste fortement avec les brasseries ""industrielles"" que l'on trouve parfois à Paris.","The review expressed positive opinion on restaurant miscellaneous for endroit , positive opinion on restaurant general for endroit"
+TASD,N'hésitez pas !,The review expressed positive opinion on restaurant general for NULL
+TASD,Une merveille !,The review expressed positive opinion on restaurant general for NULL
+TASD,"Une cuisine fine, créative et absolument délicieuse, un cadre chaleureux et un service très agréable.","The review expressed positive opinion on food quality for cuisine , positive opinion on ambience general for cadre , positive opinion on service general for service , positive opinion on food style_options for cuisine"
+TASD,"En entrée, nous avons pris le haddock façon flammekueche (délicieux) et une sorte de canard confis en gelée avec noix et poires (très bon).","The review expressed positive opinion on food quality for haddock façon flammekueche , positive opinion on food quality for canard confis"
+TASD,"En plat, j'ai complètement craqué sur le cabillaud risotto émulsion de chorizo (très surprenant).",The review expressed positive opinion on food quality for cabillaud risotto émulsion de chorizo
+TASD,Enfin la masterpiece : le riz au lait vanille sauce caramel beurre salé (divin).,The review expressed positive opinion on food quality for riz au lait vanille sauce caramel beurre salé
+TASD,La tarte sablée aux agrumes était également parfaite pour rafraîchir un diner particulièrement copieux.,"The review expressed positive opinion on food quality for tarte sablée aux agrumes , positive opinion on food style_options for diner"
+TASD,Les serveurs étaient également adorables.,The review expressed positive opinion on service general for serveurs
+TASD,"Un formidable moment, nous y retournerons c'est sûr, et recommandons chaudement ce restaurant !",The review expressed positive opinion on restaurant general for restaurant
+TASD,"le service etait proche du zero absolue et le serveur pas tres aimable mais... si la bouffe etait correcte, je ne serai pas venu ici mettre un avis..","The review expressed negative opinion on service general for service , negative opinion on service general for serveur , negative opinion on food quality for bouffe"
+TASD,"oh mon dieu, frites pas bien cuite, froide et qui sortent a peine du congelateur...la bavette aie aie aie, elle a baigne dans l'huile et aucun gout...","The review expressed negative opinion on food quality for frites , negative opinion on food quality for bavette"
+TASD,"je pense me rattraper sur le dessert avec la mousse au chocolat lol, et je goute une mousse execrable vraiment!",The review expressed negative opinion on food quality for mousse au chocolat
+TASD,"aucun gout, pire que celle de metro... meme les mousse au chocolat discount sont meilleurs....",The review expressed negative opinion on food quality for NULL
+TASD,je me suis vraiment demande si mes mecs etaient conscient de la m... qu'ils servaient….,The review expressed negative opinion on food quality for NULL
+TASD,"pas de chance, jetais malade l'apres midi, le repas y est ss doute pour quelque chose!!",The review expressed negative opinion on food quality for repas
+TASD,"a fuir si vous prenez la bavette, des frites et une mousse!!!",The review expressed negative opinion on restaurant general for NULL
+TASD,je ne prendrez pas le risque de tester les autres plats...,The review expressed negative opinion on food quality for NULL
+TASD,Le meilleur cadre de la rue avec ses poutres et ses charpentes authentiques des tables spacieuses des prix et un rapport qualité prix rare avec des produits frais et fais maison.,"The review expressed positive opinion on ambience general for cadre , positive opinion on restaurant general for NULL , positive opinion on food quality for produits , positive opinion on restaurant prices for NULL"
+TASD,"Différentes formules à 12,5€ , 15,80€ et 18,90€ qui regroupent entrée + plat + dessert !!! Autant dire que c'est très rare à St.","The review expressed positive opinion on food prices for formules , positive opinion on food style_options for formules"
+TASD,Les serveurs sont très souriants et patients.,The review expressed positive opinion on service general for serveurs
+TASD,Un véritable coup de cœur .,The review expressed positive opinion on restaurant general for NULL
+TASD,"Je suis allé à plusieurs reprises lors de mes escapades parisiennes, dîner dans cet établissement bien situé.",The review expressed positive opinion on location general for établissement
+TASD,"L'accueil est très sympathique ; le personnel est dynamique, serviable.","The review expressed positive opinion on service general for accueil , positive opinion on service general for personnel"
+TASD,Manger le soir en terrasse est un pur régal.,"The review expressed positive opinion on food quality for NULL , positive opinion on ambience general for terrasse"
+TASD,Le contenu des assiettes est tout aussi réussi : copieux et très bon de l'entrée aux desserts.,"The review expressed positive opinion on food quality for assiettes , positive opinion on food style_options for assiettes"
+TASD,Je continuerai aller passer de bons moments dans cet établissement lors de mes prochains voyages dans un cadre charmant,"The review expressed positive opinion on restaurant general for établissement , positive opinion on ambience general for cadre"
+TASD,"Nous avons été au départ attirés par une terrasse ensoleillée , au calme et par sa carte aux prix raisonnables.","The review expressed positive opinion on ambience general for terrasse , positive opinion on restaurant prices for carte"
+TASD,"Les plats sont bons voire très bons , extrêmement variés avec un menu du jour poisson et viande modifié quotidiennement (Soupe de pois capuchino à ne pas manquer) Il s'agit d'une cuisine familiale faite maison la plupart du temps .","The review expressed positive opinion on food quality for plats , positive opinion on food style_options for menu du jour , positive opinion on food quality for Soupe de pois capuchino , positive opinion on food quality for cuisine , positive opinion on food style_options for plats , positive opinion on food style_options for cuisine"
+TASD,"L'équipe est sympa ,serviable .",The review expressed positive opinion on service general for équipe
+TASD,On est servi sans attente et avec bonne humeur.,The review expressed positive opinion on service general for NULL
+TASD,Je recommande,The review expressed positive opinion on restaurant general for NULL
+TASD,Un restaurant d'une médiocrité sans nom !,The review expressed negative opinion on restaurant general for restaurant
+TASD,Nous avons attendu 15 mn pour qu'on nous prépare la table et 40mn après avoir commandé pour être servies un boeuf bourguignon dont la qualité et le goût laissent à désirer !,"The review expressed negative opinion on food quality for boeuf bourguignon , negative opinion on service general for NULL"
+TASD,Des pommes de terres quasiment crues avec des carottes crues et une sauce sans goût et non assaisonnée !,"The review expressed negative opinion on food quality for pommes de terres , negative opinion on food quality for carottes , negative opinion on food quality for sauce"
+TASD,Je crois que l'on ne s'est jamais autant moqué de notre tête !,The review expressed negative opinion on restaurant general for NULL
+TASD,Aucune communication de la part du personnel qui a servi d'autres clients arrivés après avant nous (entrée et plat) compris !,The review expressed negative opinion on service general for personnel
+TASD,Un scandale !,The review expressed negative opinion on restaurant general for NULL
+TASD,J'ai vraiment failli partir au bout d'une 40mn d'attente lorsque j'ai vu l'assiette arriver car j'ai clairement trouvé le comportement de la patronne exécrable et dédaigneux.,The review expressed negative opinion on service general for patronne
+TASD,Un conseil : n'y mettez pas les pieds attrape touriste et une perte de temps et d'argent !,"The review expressed negative opinion on restaurant general for NULL , negative opinion on restaurant prices for NULL , negative opinion on service general for NULL"
+TASD,La vue de l'extérieur sur la grande étagère de bouteilles de vins nous a attirée.,The review expressed positive opinion on ambience general for grande étagère de bouteilles de vins
+TASD,Nous sommes donc rentrés dans ce resto bar à vins à la déco hyper originale!,The review expressed positive opinion on ambience general for déco
+TASD,"Les serveurs sont adorables, le vin et les conseils pour le choisir sont au top!","The review expressed positive opinion on service general for serveurs , positive opinion on drinks quality for vin"
+TASD,Idéal donc pour passer un apero avec une assiette de jambon à grignoter.,The review expressed positive opinion on restaurant general for NULL
+TASD,Nous avons moins été séduits par les plats que nous avons trouvé un peu chers vs la qualite proposée bien que les produits soient frais et ça c'est important.,"The review expressed neutral opinion on food quality for plats , positive opinion on food quality for produits , negative opinion on food prices for plats"
+TASD,"Dans une rue calme, l'accueil y est sympathique et chaleureux, la salle agréable et confortable.","The review expressed positive opinion on ambience general for salle , positive opinion on service general for accueil , positive opinion on location general for rue"
+TASD,"En famille ou entre amis, la tonalité de la musique à hauteur convenable, permet de tenir une conversation sans hurler, tout en dégustant d'excellents plats, joliment présentés et très savoureux, servis avec le sourire et accompagnés de très bons vins.","The review expressed positive opinion on ambience general for musique , positive opinion on food quality for plats , positive opinion on food style_options for plats , positive opinion on drinks quality for vins , positive opinion on service general for NULL"
+TASD,A refaire !!,The review expressed positive opinion on restaurant general for NULL
+TASD,"Je suis bien conscient que cet avis ne changera rien, le bar étant placé de manière à toujours pouvoir attirer des touristes mais bon, un lieu aussi scandaleux merite d'être dénoncé.","The review expressed neutral opinion on location general for bar , negative opinion on restaurant general for lieu"
+TASD,Le serveur dont nous avons hérité est un vieil acariâtre dont l'impolitesse traduit le dégoût qu'il a pour son métier et le peu d'estime qu il se porte sans doute à lui-même.,The review expressed negative opinion on service general for serveur
+TASD,"Ce service désagréable au possible est couronné d'une carte incompréhensible, aux prix exhorbitants.","The review expressed negative opinion on service general for service , negative opinion on food style_options for carte , negative opinion on food prices for carte"
+TASD,"Nous nous sommes contentés d'un verre chacun, lesquels n'étaient même pas propres.",The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,Un pur scandale.,The review expressed negative opinion on restaurant general for NULL
+TASD,Déjà le restaurant n'est pas très bien placé je trouve.,The review expressed negative opinion on location general for restaurant
+TASD,"Nous sommes entrez, et la, personne pour nous accueillir...",The review expressed negative opinion on service general for NULL
+TASD,"Une télé d'allumer, mais nous avons bien attendu 5 minutes avant de voir quelqu'un, qui nous a demandé de passer dans le restaurant à côté...","The review expressed negative opinion on service general for NULL , negative opinion on ambience general for NULL"
+TASD,"Accueil pas trop mauvais, mais j'aurais préféré pouvoir discuter avec mon conjoint sans être écouté par une des serveuses..","The review expressed neutral opinion on service general for Accueil , negative opinion on service general for serveuses"
+TASD,"Au niveau du repas, ce fut assez rapide pour être servi.",The review expressed positive opinion on service general for NULL
+TASD,"Le repas était assez bon, mais tout est sûrement congeléx et c'est dommage d'avoir eu mon dessert quand mon homme avait fini !","The review expressed neutral opinion on food quality for repas , negative opinion on service general for NULL , negative opinion on food quality for repas"
+TASD,"Nous avons découvert ce restaurant avec Groupon, je ne le conseille pas sans cette offre.",The review expressed negative opinion on restaurant general for restaurant
+TASD,"la terrasse est grande et en grande partie ensoleillée, le service est efficace et rapide, formule changeant tous les jours, et il y des plats avec supplément qui moi me mettent souvent l'eau à la bouche.","The review expressed positive opinion on ambience general for terrasse , positive opinion on food style_options for plats , positive opinion on service general for service , positive opinion on food style_options for formule"
+TASD,sympa pour prendre un verre après le boulot.,The review expressed positive opinion on restaurant miscellaneous for NULL
+TASD,"ah : quand il fait un peu frisquet, la terrasse est chauffée et ils mettent des plaids à dispo sur les chaises, ça aide :)",The review expressed positive opinion on ambience general for terrasse
+TASD,Bondé de salariés des entreprises du quartier.,The review expressed neutral opinion on restaurant miscellaneous for NULL
+TASD,Les pizzas sont correctes et les plats du jour sont très chers.,"The review expressed neutral opinion on food quality for pizzas , negative opinion on food prices for plats du jour"
+TASD,Pas de viandes sur la carte.,The review expressed neutral opinion on food style_options for carte
+TASD,Tiramisu très bon et abondant.,"The review expressed positive opinion on food style_options for Tiramisu , positive opinion on food quality for Tiramisu"
+TASD,À éviter l'hiver car peu des couverts en intérieur et la terrasse couvertes n'est pas suffisamment chauffée.,The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,Les excellentes critiques de ce restaurant se sont confirmées à table.,The review expressed positive opinion on restaurant general for restaurant
+TASD,Le menu-carte offre un choix pour tous les goûts et permet de découvrir des plats de saison bien présentés.,"The review expressed positive opinion on food style_options for menu-carte , positive opinion on food style_options for plats de saison"
+TASD,"La carte est a priori renouvelée chaque jour de 3 entrées, 3 plats et 3 desserts.",The review expressed positive opinion on food style_options for carte
+TASD,"Mais les incontournables restent manifestement la dorade en tartare, les crevettes cajun, les gnocchi d'agria à la truffe blanche, le dos de cabillaud à la plancha (parfaitement cuit et servi sur un lit de salsifis).","The review expressed positive opinion on food quality for dorade en tartare , positive opinion on food quality for crevettes cajun , positive opinion on food quality for gnocchi d'agria à la truffe blanche , positive opinion on food quality for dos de cabillaud"
+TASD,La carte des vins est également courte et fait la part belle aux Côtes du Rhône et Languedoc Roussillon en mettant en avant des cuvées abordables dont quelques unes issues de producteurs reconnus.,"The review expressed neutral opinion on drinks style_options for carte des vins , positive opinion on drinks prices for cuvées , positive opinion on drinks style_options for cuvées"
+TASD,Service attentif et sympathique.,The review expressed positive opinion on service general for Service
+TASD,Le sommelier n'hésite pas à changer une bouteille présentant un défaut.,The review expressed positive opinion on service general for sommelier
+TASD,Ambiance bistrot chic.,The review expressed neutral opinion on ambience general for Ambiance
+TASD,Un peu bruyant mais comme le restaurant parait rempli tous les soirs ...,"The review expressed negative opinion on ambience general for restaurant , positive opinion on restaurant miscellaneous for restaurant"
+TASD,Il ne manquait que la fameuse boite de bonbons à la fin du repas !,The review expressed positive opinion on restaurant general for NULL
+TASD,Une bonne adresse à deux pas de l'Etoile.,"The review expressed positive opinion on restaurant general for adresse , neutral opinion on location general for Etoile"
+TASD,Encore un resto qui perd petit à petit de la qualité.,The review expressed negative opinion on restaurant general for resto
+TASD,"La deco est géniale, je suis plutôt fan, même si la préférence va à la Deco de type recup ou industriel, cette deco type romantique me plait plutôt.",The review expressed positive opinion on ambience general for deco
+TASD,"A l'intérieur on est tranquille et si on aime voir du monde passer on se met en terrasse, très agréable en été d ailleurs ou je passe ps mal de temps avec les copains à regarder les gens passer.","The review expressed positive opinion on ambience general for terrasse , positive opinion on ambience general for intérieur"
+TASD,"Encore un fois le problème comme dans pas mal de resto finalement le problème réside dans la nourriture qui n'est pas au niveau, ni de l'adresse, ni de l'effort fait à la déco.","The review expressed negative opinion on food quality for nourriture , positive opinion on ambience general for déco"
+TASD,"Il y a quelques années, le burger en forme de cœur était un must have, il est aujourd'hui devenu commun, je ne le finis meme plus.",The review expressed negative opinion on food quality for burger
+TASD,J'ai adoré le décors...,The review expressed positive opinion on ambience general for décors
+TASD,J'ai apprécié l'histoire des lieux.,The review expressed positive opinion on restaurant miscellaneous for histoire des lieux
+TASD,"Nus avons eu huîtres, crevettes roses et homard en entrée, les produits étaient de qualité.",The review expressed positive opinion on food quality for produits
+TASD,Les crevettes étaient fermes et excellente.,The review expressed positive opinion on food quality for crevettes
+TASD,"le homard un peu petit, du canadien sans doute.",The review expressed negative opinion on food style_options for homard
+TASD,"La soupe tout d'abord très bonne, généreux en croûtons...","The review expressed positive opinion on food quality for soupe , positive opinion on food style_options for soupe"
+TASD,"La suite, les poissons très fins, un des poissons était rempli d'arrête, c'est dommage mais bon...","The review expressed positive opinion on food quality for poissons , negative opinion on food quality for poissons"
+TASD,Cela n'enlève rien à la qualité de la bouillabaisse...,The review expressed positive opinion on food quality for bouillabaisse
+TASD,"Belle réussite sur le soufflé, attention taille impressionnante !! Fond bien dans la bouche, pas lourd du tout !","The review expressed positive opinion on food quality for soufflé , positive opinion on food style_options for soufflé"
+TASD,C'était un très bon déjeuner.,The review expressed positive opinion on food quality for déjeuner
+TASD,Un restaurant extrêmement bien situé tout en haut des Champs Elysée !,The review expressed positive opinion on location general for restaurant
+TASD,Niveau décoration cela reste très inventif et change de la décoration ordinaire.,The review expressed positive opinion on ambience general for décoration
+TASD,La cuisine est correcte pour les prix pratiqués.,"The review expressed neutral opinion on food quality for cuisine , positive opinion on food prices for cuisine"
+TASD,Le personnel est très occupé par les différentes tables donc ne vous attendez pas à une attention particulière envers vous !,The review expressed negative opinion on service general for personnel
+TASD,Restaurant à essayer (au moins une fois) pour vous en faire une idée.,The review expressed positive opinion on restaurant general for Restaurant
+TASD,Très bel endroit avec vue sur la Tour Eiffel c est certain mais et il y a vraiment un mais au delà des prix prohibitifs pour un dîner très moyen en qualité et très prétention en présentation...,"The review expressed positive opinion on ambience general for endroit , positive opinion on location general for vue , negative opinion on food prices for dîner , negative opinion on food quality for dîner , negative opinion on food style_options for dîner"
+TASD,"Le service est déplorable, il faut les supplier de prendre la commande, ils oublient d apporter la carafe d eau, ils ignorent nos mains levées et prennent un temps fou pour l addition",The review expressed negative opinion on service general for service
+TASD,Pour des touristes gogos et encore,The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,Cela faisait 5 ans que nous n étions pas revenu dans ce restaurant qui offre une terrasse superbe dans un quartier sympa de Paris ...,"The review expressed positive opinion on ambience general for terrasse , positive opinion on location general for quartier"
+TASD,Mais mon dieu quel désastre au niveau du service et de la cuisine.,"The review expressed negative opinion on service general for service , negative opinion on food quality for cuisine"
+TASD,A notre arrivée 3 serveurs et serveuses nous sont passés devant avant que l on nous adresse simplement la parole.,"The review expressed negative opinion on service general for serveurs , negative opinion on service general for serveuses"
+TASD,L arrivée de la responsable fut caricaturale avec son plan de table chiffonnée essayant de nous placer à l intérieur malgré notre demande express de la terrasse.,The review expressed negative opinion on service general for responsable
+TASD,Assis sur des chaises de jardin peu confortable nous attendons l apéro qui arrive très rapidement le seul hic c est la différence entre nos deux verres pour le même alcool 1/4 de quantité différente.,"The review expressed negative opinion on drinks style_options for verres , positive opinion on service general for NULL , negative opinion on restaurant miscellaneous for NULL"
+TASD,Je vous passe le repas dont les produits sont quelconque.,The review expressed negative opinion on food quality for produits
+TASD,Même les desserts de Pierre herme que j inviterais à ne plus autoriser la distribution dans cet établissement ont été servi.,The review expressed negative opinion on food quality for desserts
+TASD,Trop frais.,The review expressed negative opinion on food quality for NULL
+TASD,bien vous ne le croirez pas on me l à apporter avec l addition en me disant qu il était déjà servis.,The review expressed negative opinion on service general for NULL
+TASD,Ce qu il avait oublié de dire c est qu il était aussi déjà compté dans l addition.,The review expressed negative opinion on service general for NULL
+TASD,Bref je ne sais pas où sont passés les anciens propriétaires mais il faut que quelqu un reprenne cet établissement en main.,The review expressed negative opinion on restaurant general for établissement
+TASD,En attendant un seul mot d ordre ne pas y aller.,The review expressed negative opinion on restaurant general for NULL
+TASD,Ah oui j oubliais ne regarder pas la carte affichée en vitrine vous y verrez au moins 2 mouches mortes écrasées je n ose pas mettre un pied dans la cuisine.,The review expressed negative opinion on restaurant miscellaneous for carte
+TASD,Pour les mouches j ai la photo.,The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,Une table qui tient la route dans un quartier où les tables changent très vite?,The review expressed positive opinion on restaurant general for table
+TASD,"Sophistiqué mais sans trop, du monde mais pas bruyant du tout, à table ou au comptoir.","The review expressed positive opinion on restaurant miscellaneous for NULL , positive opinion on ambience general for NULL"
+TASD,Très beau menu à 35 euros le midi qui change tout le temps.,The review expressed positive opinion on food style_options for menu
+TASD,"A la carte,plus cher, la sole meunière est un véritable délice (49 euros tout de même) et chacun sait à quel point c'est difficile de la réussir.","The review expressed positive opinion on food quality for sole meunière , neutral opinion on food prices for carte , negative opinion on food prices for sole meunière"
+TASD,La côte de veau aussi.,The review expressed positive opinion on food quality for côte de veau
+TASD,Vin au verre (heureusement!).,The review expressed positive opinion on drinks style_options for Vin au verre
+TASD,Café gourmand exquis.,The review expressed positive opinion on food quality for Café gourmand
+TASD,En tout cas régulier dans un beau cadre à deux pas des Invalides.,The review expressed positive opinion on ambience general for cadre
+TASD,"Quel plaisir dés l'accueil, ce grand sourire, cette bise, le tout très naturel, on n'est plus habitués à ce coté amical, surtout à Paris!",The review expressed positive opinion on service general for accueil
+TASD,"Et le cadre !!! Et la cuisine !!! On vient aussi et surtout pour ça et notre dernier déjeuner était, comme toujours, extra : Turbot poché à la rhubarbe, sauce crémée avec sa purée de panais, île flottante et tarte aux pralines...le tout arrosé d'un excellent Beaujolais...que du bonheur et c'est ainsi que tous les clients deviennent des habitués, ou plutôt des amis","The review expressed positive opinion on ambience general for cadre , positive opinion on food quality for cuisine , positive opinion on food quality for déjeuner , positive opinion on food quality for Turbot poché à la rhubarbe , positive opinion on food quality for sauce crémée , positive opinion on food quality for île flottante , positive opinion on food quality for tarte aux pralines , positive opinion on drinks quality for Beaujolais"
+TASD,"Terrasse ensoleillée le dimanche, décor plutôt sympa, ça s' annonçait plutôt bien....","The review expressed positive opinion on ambience general for Terrasse , positive opinion on ambience general for décor"
+TASD,On commande deux piscines de champagne qui nous sont servies au bout de 20 min... et sans glaçons!!!,"The review expressed negative opinion on drinks style_options for piscines de champagne , negative opinion on service general for NULL"
+TASD,Quand on demande à un serveur aigri comme un cornichon macéré dans du vinaigre depuis 54 ans si notre commande a bien été prise il nous agresse littéralement en nous disant que le champagne est en train d'être cherché (visiblement directement à Reims),The review expressed negative opinion on service general for serveur
+TASD,"Bref, les serveurs ne prennent même pas la peine de parler en anglais aux pauvres touristes échoués ici, la patronne siliconnée, botoxée, jusqu'à en avoir le visage figé (ça doit être la raison de sa cruelle absence de sourire) se pavane sur la terrasse mais ne fait pas avancer les commandes plus vite...","The review expressed negative opinion on service general for serveurs , negative opinion on service general for patronne"
+TASD,Bref fuyez sauf si vous désirez gacher votre journée entourée de personnes arrogantes!,The review expressed negative opinion on ambience general for NULL
+TASD,"Service superbe et très accueillant, malheureusement ils ne savent pas décrire les plats, les noms originaux des plats sont incompréhensible.","The review expressed positive opinion on service general for Service , negative opinion on food style_options for plats , negative opinion on service general for Service"
+TASD,"Une fois servis j'ai cru que j'allais me sentir mal, ma bavette était noyée sous une quantité absurde de sauce au bleu insipide, quant à la salade de mon amie elle était pleine d'huile, de graisse et de gras.","The review expressed negative opinion on food style_options for bavette , negative opinion on food quality for sauce au bleu , negative opinion on food quality for salade"
+TASD,Pour Info nous sommes tous les 2 tombés malade dans la nuit.,The review expressed negative opinion on food quality for NULL
+TASD,A fuir!!!,The review expressed negative opinion on restaurant general for NULL
+TASD,"C'est une très très belle adresse… la cuisine est remarquable car les cuissons sont parfaites, les produits ultra frais et plutôt de saison, tout est fait maison.","The review expressed positive opinion on restaurant general for adresse , positive opinion on food quality for cuisine , positive opinion on food quality for produits"
+TASD,C'est un mix de propositions créatives mais aussi de grands classiques.,The review expressed positive opinion on food style_options for NULL
+TASD,"L'assiette est parfaite de l'entrée jusqu'au dessert, ce qui n'est pas si fréquent.",The review expressed positive opinion on food quality for assiette
+TASD,"La carte des vins est focus mais très très bien, en blanc comme en rouge.","The review expressed positive opinion on drinks quality for carte des vins , neutral opinion on drinks style_options for carte des vins"
+TASD,On est bien dans une logique de sélection et de qualité.,The review expressed positive opinion on drinks quality for NULL
+TASD,Ce ne sont pas des premiers prix mais on peut dire que le rapport qualité-prix est excellent.,The review expressed positive opinion on restaurant prices for rapport qualité-prix est excellent.
+TASD,"L'accueil et le service sont à la fois pros mais détendus, il y a ce qu'il faut pour se sentir bien mais aussi être très très bien reçus et y revenir !","The review expressed positive opinion on service general for accueil , positive opinion on service general for service"
+TASD,"C'est pour conclure une très belle adresse, une rare alliance de tradition et de modernité, de belle cuisine mais qui reste lisible, agréable, sophistiquée sans trop.","The review expressed positive opinion on restaurant general for adresse , positive opinion on food quality for cuisine , positive opinion on food style_options for cuisine"
+TASD,Pas étonnant que ce soit souvent conseillé par les critiques gastronomiques.,The review expressed positive opinion on restaurant general for NULL
+TASD,Ce restaurant est idéalement placé pour les repas d'affaires.,The review expressed positive opinion on location general for restaurant
+TASD,"Cependant, il ne vaut absolument pas le détour, sauf pour voir et être vu.",The review expressed negative opinion on restaurant general for NULL
+TASD,Les plats à la carte sont hors de prix (une vingtaine d'euros pour 4 vapeurs... certes bonnes mais cela fait beaucoup pour une vapeur) et ne sont pas d'une qualité exceptionnelle.,"The review expressed negative opinion on food prices for plats à la carte , positive opinion on food quality for vapeurs , negative opinion on food prices for vapeurs , neutral opinion on food quality for plats à la carte"
+TASD,"Si l'on veut deux accompagnements, cela est même compté en supplément!!",The review expressed negative opinion on food prices for accompagnements
+TASD,"Quant au service, il est vraiment à revoir.",The review expressed negative opinion on service general for service
+TASD,Prise de commande et arrivée de l'entrée interminables... et ensuite les plats qui n'arrivent pas ensemble et la moitié des accompagnements qui manquent.,The review expressed negative opinion on service general for NULL
+TASD,Bref à éviter!!!,The review expressed negative opinion on restaurant general for NULL
+TASD,"Menu un peu compliqué entre Bo Boun's, salades et le reste.",The review expressed negative opinion on food style_options for Menu
+TASD,Il vaut mieux avoir bon appétit car les plats sont copieux et bons.,"The review expressed positive opinion on food style_options for plats , positive opinion on food quality for plats"
+TASD,Et les prix sont très agréables !,The review expressed positive opinion on restaurant prices for NULL
+TASD,"Dommage que la salle soit aussi peu confortable, on est un peu les uns sur les autres et si vous êtes corpulents, préférez la terrasse.",The review expressed negative opinion on restaurant miscellaneous for salle
+TASD,Le personnel est souvent débordé mais c'est la clé de la réussite et de la renommée.,The review expressed neutral opinion on service general for personnel
+TASD,"Menu super, accords de saveurs inédits et surprenants, cadre très agréable....dommage que l'impression générale soit desservie par un service hautain et désagréable!","The review expressed positive opinion on ambience general for cadre , positive opinion on food style_options for Menu , positive opinion on food quality for Menu , negative opinion on service general for service"
+TASD,"A trop vouloir fuir les codes du resto gastronomique (et notamment l'excès de zèle qui peut parfois en caractériser le service), le Chateaubriand va à mon sens trop loin!",The review expressed negative opinion on service general for service
+TASD,"Certes c'est un honneur de pouvoir goûter à la cuisine inventive d'un chef comme Inaki Aizpitarte... mais quelque soit la renommée de l'établissement et son succès, je pense que les clients ont le droit d'attendre à être servis par des personnes au minimum aimables (ne serait-ce que parce qu'ils paient)!","The review expressed positive opinion on food style_options for cuisine , negative opinion on service general for NULL"
+TASD,"J'ai pour ma part été renvoyée dans mes buts pour avoir eu le malheur de demander des précisions sur la composition d'un dessert qui ne nous a pas été présenté (en l’occurrence le tocino del cielo, un classique de la maison... on aurait dû connaître c'est peut-être pour ça?).",The review expressed negative opinion on service general for NULL
+TASD,"Et la personne qui m'accompagnait, auvergnate, s'est elle permise une remarque avec un grand sourire sur l'épaisseur de la tranche de St-Nectaire qui lui avait été servie (moins de 2mm) pour s'entendre répondre un ""Ah bon..."" sec et froid.","The review expressed negative opinion on service general for NULL , negative opinion on food style_options for tranche de St-Nectaire"
+TASD,"Bref, dommage que le succès de l'établissement semble être monté à la tête des serveurs qui ont terni, voire gâché ce qui aurait pu être un très bon moment...",The review expressed negative opinion on service general for serveurs
+TASD,ps: sommelier top en revanche!,The review expressed positive opinion on service general for sommelier
+TASD,Carte compliquée à déchiffrer.,The review expressed negative opinion on food style_options for Carte
+TASD,Plats très moyens.,The review expressed negative opinion on food quality for Plats
+TASD,"Le ""fait maison"" est en réalité un décongelé cuisiné maison.",The review expressed negative opinion on food quality for NULL
+TASD,Aucune souplesse dans la carte.,The review expressed negative opinion on food style_options for carte
+TASD,"A titre d'exemple, si vous demandez des frites à la place de la garniture prévue, vous aurez la garniture prévue et un supplément frites (surgelées) à 5 euros.","The review expressed negative opinion on food quality for supplément frites , negative opinion on food prices for supplément frites"
+TASD,"Bref, cadre sympathique, personnel agréable, carte de vins conséquente mais plats proposés et carte à revoir en profondeur.","The review expressed positive opinion on ambience general for cadre , positive opinion on service general for personnel , positive opinion on drinks style_options for carte de vins , negative opinion on food quality for plats , negative opinion on food style_options for carte"
+TASD,L'ambiance est bruyante mais relativement agréable.,The review expressed positive opinion on ambience general for ambiance
+TASD,"Après un quart d'heure d'attente, un serveur arrive.",The review expressed negative opinion on service general for attente
+TASD,Il prend la commande sur un ton excédé en se retournant pour donner des ordres aux autres serveurs.,The review expressed negative opinion on service general for NULL
+TASD,"La nourriture est honnête, j'ai choisi une tartine de chèvre chaud, mon mari le menu à 13 euros.",The review expressed neutral opinion on food quality for nourriture
+TASD,Honnête sans plus.,The review expressed neutral opinion on food quality for NULL
+TASD,"Bref une adresse convenable, si on accepte d'être traité comme un simple régleur d'addition ...","The review expressed neutral opinion on restaurant general for adresse , negative opinion on service general for NULL"
+TASD,"Nous arrivons dans une salle quasi-vide un vendredi soir, malgré la recommandation d'une amie de ce restaurant comme étant une bonne adresse gastro à prix sympa...",The review expressed negative opinion on restaurant miscellaneous for salle
+TASD,"Première table où l'on nous installe, l'ampoule au dessus est grillée, demi obscurité et les bougies sur le côté semblent bien couvertes de poussière...",The review expressed negative opinion on ambience general for NULL
+TASD,Tout comme les horribles rideaux qui pendouillent au dessus de nos têtes.,The review expressed negative opinion on ambience general for rideaux
+TASD,"On regarde au tour de nous et l'on se rend compte qu'il s'agit en fait d'un préfabriqué de fond de cours refait avec un gout douteux, comme les photos de prostitués vintage qui couvrent les murs dans des cadres brinquebalants.",The review expressed negative opinion on ambience general for NULL
+TASD,"Côté cuisine, un manque complet de surprise, de découverte ou d'audace...",The review expressed negative opinion on food style_options for cuisine
+TASD,"Les portions sont ridicules, trois bouchées d'onglet de veau (veaux de 25 ans sans doute, tellement la viande est rouge) et une fine lamelle de gratin dauphinois, le tout baignant dans une sauce insipide qui semblait en réalité être... de l'eau.","The review expressed negative opinion on food style_options for portions , negative opinion on food style_options for onglet de veau , negative opinion on food quality for onglet de veau , negative opinion on food style_options for gratin dauphinois , negative opinion on food quality for sauce"
+TASD,"Le thon est tellement cru qu'il faut mieux aller chez le japonais, mais ma compagne aime ça, les thons...",The review expressed negative opinion on food quality for thon
+TASD,"On aimerait arrêter les frais, mais il y avait le dessert : la poire belle Hélène ""revisitée"", où comment une glace se transforme en crème dans une marre de chocolat où surnage des morceaux de fruits.",The review expressed negative opinion on food quality for glace
+TASD,"Oui ça doit être cela, ce soir, j'ai perdu le goût, le goût de claquer 100€ dans un resto sans saveur ni ambiance.","The review expressed negative opinion on restaurant prices for resto , negative opinion on food quality for NULL , negative opinion on ambience general for ambiance"
+TASD,"Mais étant donné que nous étions trop nous nombreux (13 personnes), nous avons été installé à l'étage (en nous faisant bien précisé que le rez-de-chaussée était destiné aux habitués et amateur de football et que si nous souhaitions consommer il fallait redescendre pour commander) dans un espace Iounge à peine éclairé pour pouvoir lire le menu (nous avons dû utiliser les lampes de nos smartphone).","The review expressed negative opinion on ambience general for espace Iounge , negative opinion on service general for NULL"
+TASD,"Après avoir fait comprendre au personnel qu'il était possible d'aligner une table à côté d'une autre, nous sommes redescendus.",The review expressed negative opinion on service general for personnel
+TASD,Dans le partie concernant les burgers il était écrit qu'il était possible de commander le burger sans le pain (intérêt ?).,The review expressed neutral opinion on food style_options for burgers
+TASD,"En demandant a une serveuse si le fait de prendre cette option permettait un rabais sur le tarif (déjà suffisamment cher pour la qualité), le responsable est arrivé en disant que le prix ne changeait pas (après cela vient une explication sur la marge que réalisait alors le restaurant), et a rétorqué plus tard ""nous sommes un restaurant donc notre but est de faire de la marge"" (un expert en relation client celui-là).","The review expressed negative opinion on service general for responsable , negative opinion on restaurant prices for NULL , negative opinion on food quality for NULL"
+TASD,"En résumé (parce que ça fait long a dire), nous avons passé une soirée un peu ternie par l'image du restaurant (dont l'état laisse à désirer), un service à table digne digne d'une cantine d'adolescent, et aucun petit mot d'excuse ou remise quelconque (quand il faut faire de la marge par n'importe quel moyen...) pour repartir avec le sourire (c'était pas gagné).","The review expressed negative opinion on service general for service , negative opinion on ambience general for restaurant"
+TASD,"Pour avoir été testé par des membres de la soirée au préalable, nous sommes tombés d'accord sur le fait que c'était la première fois pour certains et la dernière fois pour tout le monde que nous venions dans ce restaurant!",The review expressed negative opinion on restaurant general for restaurant
+TASD,Quelle honte pour la gastronomie francaise!!!,The review expressed negative opinion on food quality for NULL
+TASD,"Au menu donc, un onglet de boeuf frites un steack tartare frite, et une piece de semelle avec de la puree.",The review expressed negative opinion on food quality for NULL
+TASD,TOUTES LES VIANDES SONT SANS GOUT ET SECHES!!!,The review expressed negative opinion on food quality for VIANDES
+TASD,Les frites sont certes maisons mais FAITES DES HEURES A L AVANCE ET MOLLASSONNES.,The review expressed negative opinion on food quality for frites
+TASD,Puree moins bonne qu a la cantine.,The review expressed negative opinion on food quality for Puree
+TASD,Fuyez!,The review expressed negative opinion on restaurant general for NULL
+TASD,Il faut pas donner notre frique a cette arnaque.,The review expressed negative opinion on restaurant general for NULL
+TASD,Vivement qu ils ferment!,The review expressed negative opinion on restaurant general for NULL
+TASD,- une entrée saumon fumé sur céleri excellent,The review expressed positive opinion on food quality for saumon fumé
+TASD,- sauté de veau au tagliatelle très bon,The review expressed positive opinion on food quality for sauté de veau
+TASD,Vin un peu cher,The review expressed negative opinion on drinks prices for Vin
+TASD,- la salle est surchauffée ce qui est vraiment désagréable,The review expressed negative opinion on ambience general for salle
+TASD,- l'eau en caraffe n'est pas fraiche (à relier avec le point précédent ???),The review expressed negative opinion on drinks quality for eau en caraffe
+TASD,Très compétitif pour le quartier et la qualité de ce que l'on a dans notre assiette.,"The review expressed positive opinion on food quality for assiette , positive opinion on restaurant prices for NULL"
+TASD,"Le service est sympathique mais très expéditif, on à pas le temps de finir un plat que l'on nous demande si on à terminer.","The review expressed positive opinion on service general for service , negative opinion on service general for service"
+TASD,Si vous êtes pressés c'est l'endroit idéal!,The review expressed positive opinion on restaurant miscellaneous for endroit
+TASD,"Mais ce qui m'a gêné est la chose suivante : seulement deux minutes après avoir passé commande, nous étions déjà servit, les escalopes panées seraient elles toute faites à l'avance puis réchauffées?",The review expressed negative opinion on food quality for escalopes
+TASD,"Les prix des boissons et des desserts sont très élevés (4,5 euros pour une canette de coca..).","The review expressed negative opinion on drinks prices for boissons , negative opinion on food prices for desserts , negative opinion on drinks prices for canette de coca"
+TASD,"En bref la nourriture n'est pas extraordinaire, peut être même préparée longtemps à l'avance?",The review expressed negative opinion on food quality for nourriture
+TASD,Je ne recommanderai pas ce restaurant et n'y retournerai pas!,The review expressed negative opinion on restaurant general for restaurant
+TASD,"Ambiance très parisienne, très m'as tu vu !",The review expressed negative opinion on ambience general for Ambiance
+TASD,serveuse pas souriante et peu accueillante.,The review expressed negative opinion on service general for serveuse
+TASD,"Cuisine très moyenne, poulet version crêpe archi sec avec une poignée de haricots et tout cela pour un prix exorbitant !","The review expressed negative opinion on food quality for Cuisine , negative opinion on food quality for poulet , negative opinion on food style_options for poulet , negative opinion on food prices for NULL"
+TASD,Le sandwich club n'a rien de spécial et le plat vietnamien très sec sans aucune sauce.,"The review expressed negative opinion on food quality for sandwich club , negative opinion on food quality for plat vietnamien"
+TASD,La décoration est un peu surchargée mais cela fait le charme de l'endroit.,The review expressed neutral opinion on ambience general for décoration
+TASD,J'y suis allée par hasard avec des amis un soir pour l'apéro et je suis revenue y déjeuner car la formule tapas à 15 € m'avait bien plu.,The review expressed positive opinion on food style_options for formule tapas
+TASD,"Vous ne trouverez pas les pseudos tapas que l'on trouve à toutes les terrasses mais uniquement les vraies recettes espagnoles : rabas de calamars, croquetas de jamon y queso, pain à la tomate, croquetas de bacalao, tortilla, serrano, piquillos, calamars à l'encre, artichauts au jambon ...","The review expressed positive opinion on food quality for recettes espagnoles , positive opinion on food style_options for recettes espagnoles"
+TASD,Sans parler de la sangria tout simplement délicieuse !,The review expressed positive opinion on drinks quality for sangria
+TASD,"Les desserts sont à l'image du reste : crème catalane, gâteau basque, fromage de brebis et confiture de cerises noires ...",The review expressed positive opinion on food style_options for desserts
+TASD,Les serveurs ne parlent pas tous très bien français mais ils sont très gentils (et leur accent espagnol renforce le côté authentique de l'endroit).,"The review expressed positive opinion on service general for serveurs , positive opinion on restaurant miscellaneous for endroit"
+TASD,"Seul reproche : beaucoup de tables et peu d'espace, on est donc vite à l'étroit.",The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,Mais j'y retournerai les yeux fermés !,The review expressed positive opinion on restaurant general for NULL
+TASD,15€ pour une salade composée avec deux ingrédients : de la salade verte et 2 tranches de saumon fumé.,"The review expressed negative opinion on food prices for salade composée , negative opinion on food style_options for salade composée"
+TASD,"On en ressort avec la faim et la mauvaise impression de s'être fait plumé, avec la manière (Le saumon est disposé de telle sorte qu'il cache la forêt de salade verte qui donne l'impression d'un plat consistant).",The review expressed negative opinion on food prices for NULL
+TASD,"Si vous avez faim, fuyez !",The review expressed negative opinion on restaurant general for NULL
+TASD,"Hésitant au départ sur le choix du lieu, un bon verre de vin, des bons tapas de qualité engloutis,nous avons au final passé une excellente soirée avec nos amis.","The review expressed positive opinion on food quality for tapas , positive opinion on drinks quality for verre de vin , positive opinion on restaurant general for lieu"
+TASD,"Le Patron à l'air RUSTRE au départ, mais il joue un ""jeu"" et est super prévenant avec ses clients!",The review expressed negative opinion on service general for Patron
+TASD,Un lieu simple ou passer une agréable soirée!,The review expressed positive opinion on restaurant general for lieu
+TASD,"Nous avions réservé pour les 20 ans de notre fils (Avril), quel déception, anniversaire en partie gâché!",The review expressed negative opinion on restaurant general for NULL
+TASD,"Mais aucune qualité dans l'assiette, aucune présentation, on se serait cru à un repas que l'on fait chez soi.","The review expressed negative opinion on food quality for assiette , negative opinion on food style_options for assiette"
+TASD,"De plus, parmi nos assiettes, nous avions un panel de morceaux de viande du plus petit ou plus gros!",The review expressed negative opinion on food style_options for assiettes
+TASD,"Côté saumon, il était cru, on l'a signalé, la serveuse prend les 3 assiettes concernées, revient et nous demande à qui étaient les assiettes?!!","The review expressed negative opinion on food quality for saumon , negative opinion on service general for serveuse"
+TASD,"De plus, recuit au micro onde!!! avec des haricots verts cuit vapeur, pas revenus, sans sauce, bref lamentable!","The review expressed negative opinion on food quality for haricots verts , negative opinion on food quality for NULL"
+TASD,"Le gâteau: un fraisier, nous avions cherché les fraises et écœurant trop de crème.",The review expressed negative opinion on food quality for fraisier
+TASD,"Heureusement les cocktails sans alcool et les cafés étaient bons et offerts, mais nous aurions préféré les payer et avoir quelque chose de mieux dans l'assiette.Un minimum de présentation, c'est un rien qui peut faire la différence à l’œil!","The review expressed positive opinion on drinks quality for cafés , negative opinion on food style_options for assiette , positive opinion on drinks quality for cocktails sans alcool , positive opinion on service general for NULL"
+TASD,"La serveuse était très agréable et souriante, juste petit souci avec la prise des 3 assiettes pour faire recuire les saumons mais sinon rien à lui reprocher.",The review expressed positive opinion on service general for serveuse
+TASD,"Situé entre les arênes et la cour carrée, ce restaurant ne désemplit pas.",The review expressed neutral opinion on restaurant miscellaneous for restaurant
+TASD,"Très curieux car la nourriture n'a rien de sensationnel, je me suis brûlé le palais avec des nems.",The review expressed negative opinion on food quality for nourriture
+TASD,Le riz cantonais était sec et j'ai attendu pendant plus de 20 mns 2 malheureuses boules de glace.,"The review expressed negative opinion on food quality for riz cantonais , negative opinion on service general for NULL"
+TASD,Petite cuisine de petite qualité et pas fait maison.,The review expressed negative opinion on food quality for cuisine
+TASD,Nous aurions aimé un meilleure repas moins speedé et avec plus de gout.,The review expressed negative opinion on food quality for repas
+TASD,L’accueil laisse à penser que tout va bien se passer mais rien ne se passe.,The review expressed negative opinion on service general for accueil
+TASD,Avons été très bien reçus.,The review expressed positive opinion on service general for NULL
+TASD,Service rapide et de qualité.,The review expressed positive opinion on service general for Service
+TASD,"Fraîcheur des produits, de belles présentations.","The review expressed positive opinion on food quality for produits , positive opinion on food style_options for NULL"
+TASD,Adresse à retenir.,The review expressed positive opinion on restaurant general for Adresse
+TASD,A très bientôt.,The review expressed positive opinion on restaurant general for NULL
+TASD,"dans une petite rue de Menton , un restaurant pas très grand par la taille mais vraiment remarquable par la qualité de sa cuisine : les raviolis aux fruits de mer , les gambes ( décortiquées , un plus pour le plaisir ... ) le turbot pour 2 , présenté avant cuisson , les anchois sur lit de roquette ...enfin si vous êtes un inconditionnel de la viande , l'agneau rosé était parfait ... accueil sympa , vins de sicile agréables ... entrées autour de 17/18€ , turbot pour 2 : 49€ .","The review expressed neutral opinion on restaurant miscellaneous for restaurant , positive opinion on food quality for cuisine , positive opinion on food quality for gambes , positive opinion on service general for NULL , positive opinion on food quality for agneau rosé , positive opinion on service general for accueil , positive opinion on drinks quality for vins de sicile , neutral opinion on food prices for entrées , neutral opinion on food prices for turbot pour 2"
+TASD,mérite le détour ... attention : réservez !,The review expressed positive opinion on restaurant general for NULL
+TASD,Endroit sympa en plein centre touristique.,The review expressed positive opinion on restaurant general for Endroit
+TASD,Un peu vieillissant.,The review expressed negative opinion on ambience general for NULL
+TASD,Nourriture classique de Menton.,The review expressed neutral opinion on food style_options for Nourriture
+TASD,A y aller de temps à autre.,The review expressed positive opinion on restaurant general for NULL
+TASD,Relativement cher pour la qualité/prix.,"The review expressed negative opinion on restaurant prices for NULL , negative opinion on food quality for NULL"
+TASD,Superbe cadre si on mange dehors.,The review expressed positive opinion on ambience general for cadre
+TASD,"Accueil des plus stériles , presque l'impression de déranger .",The review expressed negative opinion on service general for Accueil
+TASD,"Nous commandons 2 pizza , d'aspect correcte mais baignant dans l'huile , ok nous sommes dans le sud donc nous passons outre.",The review expressed negative opinion on food quality for pizza
+TASD,"Après dégustation c'est le drame , un cailloux dans la pizza de mon ami.",The review expressed negative opinion on food quality for pizza
+TASD,"J'appel la serveuse pour me plaindre , aucune excuse , pour elle c'est normal car il s'agit de champignon frais et nous dit que la prochaine fois ils feront du congelé...",The review expressed negative opinion on service general for serveuse
+TASD,A fuire,The review expressed negative opinion on restaurant general for NULL
+TASD,"Manifestement, nous derangeons la serveuse.",The review expressed negative opinion on service general for serveuse
+TASD,"Le mojito est abominable, tiède, beaucoup trop sucré, citron balancé tel quel dans le verre...","The review expressed negative opinion on drinks quality for mojito , negative opinion on drinks style_options for mojito"
+TASD,Cuisine de saison avec des petites courgettes de pays excellentes accompagnées d'un magret cuit à la perfection.,"The review expressed positive opinion on food quality for Cuisine , positive opinion on food quality for courgettes , positive opinion on food quality for magret"
+TASD,"Dans sa cuisine ouverte, on sent la passion du patron et en terrasse, malgré l'affluence, on apprécie la gentillesse et les conseils de sa femme et de son fils.","The review expressed positive opinion on ambience general for NULL , positive opinion on service general for NULL"
+TASD,A recommander aux amateurs de bonne viande et de produits du terroir.,"The review expressed positive opinion on food quality for viande , positive opinion on food style_options for NULL"
+TASD,Nous avons été déçu par le service.,The review expressed negative opinion on service general for service
+TASD,Serveur dépassé alors que la terrasse n'était pas remplie.,The review expressed negative opinion on service general for Serveur
+TASD,"Les repas sont arrivés au compte-goutte, ce qui fait que mon fils et petit fils ont eu leurs pizzas 10 minutes après nous.",The review expressed negative opinion on service general for NULL
+TASD,Très déçue par ce restaurant,The review expressed negative opinion on restaurant general for restaurant
+TASD,Je conseille fortement le déjeuner en terrasse avec forfait spa.,The review expressed positive opinion on ambience general for terrasse
+TASD,"Un peu à l'écart du centre ville, serein.","The review expressed positive opinion on ambience general for NULL , positive opinion on location general for NULL"
+TASD,"Prix extrêmement cher, usine à fric.",The review expressed negative opinion on restaurant prices for NULL
+TASD,"Le serveur aux cheveux longs, brun, la trentaine, s'est empressé de me répondre d'un ton très méprisant qu'à chamonix l'eau est payante.",The review expressed negative opinion on service general for serveur
+TASD,"Lui soutenant qu'il se devait de céder à ma demande d'après la législation en vigueur dans notre pays, il m'a ouvertement ignoré, et juste proposé de consulter la direction.",The review expressed negative opinion on service general for NULL
+TASD,Honteux.,The review expressed negative opinion on restaurant general for NULL
+TASD,"Un service parfait, très bonne table , vu la petite superficie du lieu , tout est bien .","The review expressed positive opinion on service general for service , positive opinion on restaurant general for lieu , positive opinion on food quality for table"
+TASD,"il faut y aller , pour conclure l'extraordinaire lieu montagnard à 3842 m.",The review expressed positive opinion on location general for lieu
+TASD,"Encore bravo pour le chef ,et son équipe.","The review expressed positive opinion on food quality for NULL , positive opinion on service general for équipe"
+TASD,"Le cadre est joli, les serveuses sympa mais peu disponibles.","The review expressed positive opinion on service general for serveuses , positive opinion on ambience general for cadre , negative opinion on service general for serveuses"
+TASD,Les viandes étaient bonnes mais un peu juste en quantités à mon goût.,"The review expressed positive opinion on food quality for viandes , neutral opinion on food style_options for viandes"
+TASD,"Les sauces mayonnaises maison étaient bonnes mais sans plus, elles manquaient un peu de saveurs.",The review expressed neutral opinion on food quality for sauces mayonnaises
+TASD,La tartiflette était correcte.,The review expressed neutral opinion on food quality for tartiflette
+TASD,"Bref, le repas n'était pas mauvais mais je n'ai pas été emballé.","The review expressed neutral opinion on food quality for repas , neutral opinion on restaurant general for NULL"
+TASD,Divin !! Endroit joli nourriture délicieuse patron tres sympa et une bonne bouteille avec Ca!!,"The review expressed positive opinion on food quality for nourriture , positive opinion on ambience general for Endroit , positive opinion on service general for patron , positive opinion on drinks quality for bouteille , positive opinion on restaurant general for NULL"
+TASD,A recommander 1000 fois!,The review expressed positive opinion on restaurant general for NULL
+TASD,Un très bon moment passé dans ce restaurant.,The review expressed positive opinion on restaurant general for restaurant
+TASD,Ma femme et moi même nous sommes régalés.,The review expressed positive opinion on food quality for NULL
+TASD,Les plats que nous avons choisis étaient très copieux.,The review expressed positive opinion on food style_options for plats
+TASD,Ras à signaler de fameux depuis deux mois !!!,The review expressed negative opinion on food quality for NULL
+TASD,C'est comme si les produits nobles avaient disparu.,The review expressed negative opinion on food quality for produits
+TASD,Il n'y a pas que la hampe dans la vie,The review expressed negative opinion on food style_options for NULL
+TASD,"De l'accueil à la cuisine tout est bas de gamme, heureusement le rabatteur est là pour piéger les touristes qui passent par là.","The review expressed negative opinion on service general for accueil , negative opinion on food quality for cuisine , negative opinion on service general for rabatteur"
+TASD,A ÉVITER !!!,The review expressed negative opinion on restaurant general for NULL
+TASD,tres bon produit hamburger et frites maison un regal le patron super cool et un prix tres raisonnable,"The review expressed positive opinion on food quality for produit , positive opinion on food quality for hamburger , positive opinion on food quality for frites , positive opinion on service general for patron , positive opinion on restaurant prices for NULL"
+TASD,bel emplacement pour ce restaurant mais quelle deception .... un serveur qui ne parle pas et qui vous sert sans rien annoncer coté cuisine rien de mieux assiettes très peu garni et qualité bof assiette de charcuterie basique le plat andouillette et pomme de terre que je deconseille fortement ..... bref passez votre chemin .....,"The review expressed negative opinion on restaurant general for NULL , positive opinion on location general for emplacement , negative opinion on restaurant general for restaurant , negative opinion on service general for serveur , negative opinion on food quality for cuisine , negative opinion on food style_options for assiettes , negative opinion on food quality for assiettes , neutral opinion on food style_options for assiette de charcuterie , negative opinion on food quality for andouillette et pomme de terre"
+TASD,"Je passe sur le temps,1h30 pour un repas simple.",The review expressed negative opinion on service general for NULL
+TASD,Une carte hyper simple mais une serveuse complètement perdue.,"The review expressed neutral opinion on food style_options for carte , negative opinion on service general for serveuse"
+TASD,Des erreurs de prise de commande et une patronne qui refuse de changer les plats sous prétexte qu'elle ne va pas jeter l'assiette et qu'elle l'a fait avec amour mdr.,The review expressed negative opinion on service general for patronne
+TASD,Apparemment il n'est pas question de perdre de l'argent dans ce restaurant et elle invente des prétextes encensés pour faire passer la pilule.Toute la salle est de mon avis et en colère.,"The review expressed negative opinion on restaurant miscellaneous for restaurant , negative opinion on service general for NULL"
+TASD,"Je vous passe les ""prises de bec"" avec la patronne pour lui faire comprendre que sa réaction est intolérable et non commerçante.",The review expressed negative opinion on service general for patronne
+TASD,"Sur un menu enfant qui n'a jamais été demandé, elle a le culot de m'annoncer lors de l'addition, qu'elle m'offre la 2eme boule de glace alors que dans le menu enfant la glace n'a qu'une boule....(sans commentaire).",The review expressed negative opinion on service general for NULL
+TASD,Restaurant a ne pas conseiller et surtout à bannir afin d’éviter que la profession de la restaurant ne soit bafouée par ce genre de pseudo restaurateur qui devrait penser à changer de métier.,"The review expressed negative opinion on restaurant general for Restaurant , negative opinion on service general for restaurateur"
+TASD,Un cadre très rose mais agréable pour des dîners en couple ou entre amis.,The review expressed positive opinion on ambience general for cadre
+TASD,Des assiettes très bien présentées et un bon accueil avec des personnes souriantes.,"The review expressed positive opinion on food style_options for assiettes , positive opinion on service general for accueil"
+TASD,"Mais comment peux on mettre 5 étoiles à un resto ""asiatique"" ou tout n'est que du réchauffé, décongelé provenant de métro ou promocash.",The review expressed negative opinion on food quality for NULL
+TASD,Il y a même des frites et des nuggets !,The review expressed negative opinion on food style_options for NULL
+TASD,Vraiment très dépaysant !,"The review expressed negative opinion on food style_options for NULL , negative opinion on restaurant general for NULL"
+TASD,Bref tres bien pour prendre un plateau a emporter (10€) et manger ça devant la télé.,The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,"Si vous cherchez un Restaurant, passez votre chemin !",The review expressed negative opinion on restaurant general for NULL
+TASD,"Accueil chaleureux, arrière salle voûtée magnifique (ancien rempart de la ville), très bonne cuisine, grillades au feu de bois casiement sous nos yeux, produits de qualité et prix raisonnable.","The review expressed positive opinion on service general for Accueil , positive opinion on ambience general for arrière salle , positive opinion on food quality for cuisine , positive opinion on food quality for produits , neutral opinion on restaurant prices for NULL , positive opinion on food quality for grillades au feu de bois"
+TASD,A ne surtout pas manquer.,The review expressed positive opinion on restaurant general for NULL
+TASD,"l'accueil est agréable; la cuisine correcte, les prix raisonnables, bref c'est bien mais est-ce le nombre de gens, la salle, ... il manque un petit quelque chose pour s'enthousiasmer.","The review expressed positive opinion on service general for accueil , neutral opinion on food quality for cuisine , neutral opinion on restaurant prices for NULL , negative opinion on ambience general for salle , negative opinion on restaurant miscellaneous for NULL"
+TASD,correct.,The review expressed neutral opinion on restaurant general for NULL
+TASD,mais une impression d'inachevé.,The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,"Nous y sommes, plat du jour tagliatelles aux fruits de mer, produits frais mais certains caoutchouteux, le service et l'accueil très moyen, saint Jacques bonnes mais riz très sec, bref certainement mieux ailleurs!","The review expressed positive opinion on food quality for produits , negative opinion on service general for service , negative opinion on service general for accueil , positive opinion on food quality for saint Jacques , negative opinion on food quality for riz , negative opinion on restaurant general for NULL , negative opinion on food quality for produits"
+TASD,"Nous avons découvert avec par hasard ce cabanon de plage et ce fut une excellente surprise: un accueil des plus chaleureux, des plats très corrects, une ambiance lounge-beach pas surfaite.","The review expressed positive opinion on restaurant general for cabanon de plage , positive opinion on service general for accueil , positive opinion on food quality for plats , positive opinion on ambience general for ambiance"
+TASD,On voit que l'équipe prend du plaisir à travailler dans ce lieu magique.,"The review expressed positive opinion on service general for équipe , positive opinion on location general for lieu"
+TASD,Ce sera notre incontournable à Cassis!,The review expressed positive opinion on restaurant general for NULL
+TASD,Très bonne table dans une ruelle derrière le port donc sans avoir le défilé des touristes qui regardent votre assiette.,"The review expressed positive opinion on food quality for NULL , positive opinion on location general for table"
+TASD,"On trouve dans ce restaurant une cuisine provençale parfumée, présentée très joliment et en quantité généreuse.","The review expressed positive opinion on food quality for cuisine provençale , positive opinion on food style_options for cuisine provençale"
+TASD,Le service est très correct Nous avons passé un très bon moment et nous vous recommandons l'endroit.,"The review expressed positive opinion on service general for service , positive opinion on restaurant general for endroit"
+TASD,On nous a calé dans un coin du restaurant que nous avons fini par quitter après 20 minutes sans que personne ne soit venu nous apporter ne serait-ce qu'une carafe d'eau.,The review expressed negative opinion on service general for NULL
+TASD,"J'ai mangé avec des amis dans ce restaurant et je trouve que la qualité des produits se sont serieusement dégradé, la salade d'accueil comporte 2 feuilles, le plat principal et le dessert sont baclés dans la présentation.","The review expressed negative opinion on food quality for produits , negative opinion on food style_options for salade d'accueil , negative opinion on food style_options for plat principal , negative opinion on food style_options for dessert"
+TASD,"De plus, l'accueil de la part du patron est froid contrairement aux serveurs très gentils.","The review expressed negative opinion on service general for accueil , positive opinion on service general for serveurs"
+TASD,La vaisselle est démodée.,The review expressed negative opinion on restaurant miscellaneous for NULL
+TASD,"Les serveuses étaient plutôts agréables mais pas une cacahuète ou une olive à l'heure de l'apéritif malheureusement, pas d'assiette apéritive non plus.","The review expressed positive opinion on service general for serveuses , negative opinion on food style_options for NULL"
+TASD,Incompréhensible pour un bar restaurant...,The review expressed negative opinion on restaurant general for bar restaurant
+TASD,Comment peut-on appeler ça un restaurant ?,The review expressed negative opinion on restaurant general for restaurant
+TASD,"Un accueil et un service déplorables, une cuisine médiocre n'ayant rien à envier au manque de fraîcheur du buffet notamment.","The review expressed negative opinion on service general for accueil , negative opinion on service general for service , negative opinion on food quality for cuisine , negative opinion on food quality for buffet"
+TASD,"La prochaine fois que nous serons de passage à Albertville, nous essaierons un autre restaurant, quelqu'un peut-il nous en conseiller un ???",The review expressed negative opinion on restaurant general for NULL
+TASD,Dans cet établissement je me suis sentie chez moi ayant eu un restaurant du même genre.,The review expressed positive opinion on ambience general for établissement
+TASD,"Une cuisine savoureuse faite avec amour, j'y retourne dés que je peux pour moi c'est un vrai restaurant","The review expressed positive opinion on food quality for cuisine , positive opinion on restaurant general for restaurant"
+TASD,nous avons tous très bien mangés.,The review expressed positive opinion on food quality for NULL
+TASD,"La carte est très large, de bons plats chauds et bons !","The review expressed positive opinion on food style_options for carte , positive opinion on food quality for plats"
+TASD,"aucun geste commercial au paiement, rien d'offert ni de proposé...??!",The review expressed negative opinion on service general for NULL
+TASD,"en plus, une des personnes à commander un tartare, elle a été servi 10 minutes après tout le monde.. c'est un plat froid pourtant.",The review expressed negative opinion on service general for NULL
+TASD,c'est bien dommage !,The review expressed negative opinion on restaurant general for NULL
+TASD,"Trois cocottes de moules marinières arrivent à table, à l'ouverture, les moules de l'une d'entre elles sont recouvertes de tomates et pas les autres.",The review expressed neutral opinion on food style_options for moules
+TASD,Certaines moules sont trop cuites d'autres pas assez.,The review expressed negative opinion on food quality for moules
+TASD,Les frites ont goût d'huile.,The review expressed negative opinion on food quality for frites
+TASD,"Au milieu de ma cocotte de moule marinière j'ai la désagréable surprise de trouver un demi citron, peau comprise, déchiqueté.",The review expressed negative opinion on food style_options for cocotte de moule marinière
+TASD,La note qui nous est présentée est défalquée d'une cocotte alors que plus personne ne souhaite manger ces moules douteuses.,"The review expressed negative opinion on food quality for moules , neutral opinion on restaurant prices for NULL"
+TASD,Nous nous ferons ensuite de nouveau insulter par le responsable avant qu'il accepte d'encaisser nos boissons et de nous laisser partir.,The review expressed negative opinion on service general for responsable
+TASD,Nous ne nous attendions pas à de la grande cuisine dans cet endroit très touristique mais nous aurions néanmoins apprécié de pouvoir déjeuner sans mettre notre santé en danger et sans nous faire manquer de respect par dessus le marché!,"The review expressed negative opinion on food quality for NULL , negative opinion on service general for NULL , negative opinion on restaurant general for endroit"
+TASD,Premiere fois dans ce restaurant dont on nous disait pourtant du bien.,The review expressed negative opinion on restaurant general for restaurant
+TASD,"Les plats proposés sont originaux, les saveurs intéréssantes mais le rapport qualité prix n'est pas au rendez vous.","The review expressed positive opinion on food style_options for plats , negative opinion on food prices for NULL , negative opinion on food quality for NULL"
+TASD,"18,50 € un risotto, où j'ai cherché du saumon fumé pourtant annoncé, que je n'ai hélas pas trouvé, c'est bien trop cher aussi bon soit il.","The review expressed negative opinion on food style_options for risotto , negative opinion on food prices for risotto"
+TASD,On a payé le cadre coloré et le port touristique de la Cotinière.,"The review expressed neutral opinion on ambience general for cadre , neutral opinion on location general for port touristique"
+TASD,Si il n'y avait que cela ça aurait pu aller mais le service a été catastrophique.,The review expressed negative opinion on service general for service
+TASD,La jeune demoiselle blonde qui nous a servi n'est absolument pas du metier.,The review expressed negative opinion on service general for NULL
+TASD,"La prise de commande par le patron est venue bien longtemps après la fin de l'apéritif, et le pire a été le service du vin quand nous avions presque fini notre plat.","The review expressed negative opinion on service general for patron , negative opinion on service general for service du vin"
+TASD,Intolérable.,The review expressed negative opinion on restaurant general for NULL
+TASD,Malgré une cuisine gouteuse nous n'y retournerons pas.,"The review expressed positive opinion on food quality for cuisine , negative opinion on restaurant general for NULL"
+TASD,Restaurant très sympa.,The review expressed positive opinion on restaurant general for Restaurant
+TASD,Petite salle ambiance plage Oléronaise.,The review expressed neutral opinion on ambience general for ambiance
+TASD,Deco et tables raffinées (nappes et serviettes en tissus...).,The review expressed positive opinion on ambience general for Deco
+TASD,Personnel très souriant et chaleureux.,The review expressed positive opinion on service general for Personnel
+TASD,Menus un peu chers mais très bons.,"The review expressed neutral opinion on food prices for Menus , positive opinion on food quality for Menus"
+TASD,Cela dit pour du tout fait maison avec des produits frais de très bonne qualité cela reste très intéressant.,"The review expressed positive opinion on food prices for NULL , positive opinion on food quality for produits"
+TASD,Plats copieux et bien présentés.,The review expressed positive opinion on food style_options for Plats
+TASD,"Très bons, surtout les desserts (excellents).","The review expressed positive opinion on food quality for desserts , positive opinion on food quality for NULL"
+TASD,Coctails très bons mais un peu cher pour la quantité (5/8€),"The review expressed positive opinion on drinks quality for Coctails , neutral opinion on drinks prices for Coctails , negative opinion on drinks style_options for Coctails"
+TASD,Restaurant ouvert hors saison.,The review expressed neutral opinion on restaurant miscellaneous for Restaurant
+TASD,"Terrasse à l'ombre des arbres très agréable , jolies assiettes, poissons bien préparés, belle décoration et service sympathique.","The review expressed positive opinion on ambience general for Terrasse , positive opinion on food style_options for assiettes , positive opinion on food quality for poissons , positive opinion on ambience general for décoration , positive opinion on service general for service"
+TASD,N'hésitez pas.,The review expressed positive opinion on restaurant general for NULL
+TASD,"L'adresse est trompeuse, le restaurant n'est pas à Castelnaudary mais dans un petit village juste après.",The review expressed neutral opinion on location general for restaurant
+TASD,"Appelez la patronne pour savoir, elle est adorable.",The review expressed positive opinion on service general for patronne
+TASD,"Et faites le détour, pour un cassoulet top et généreux.","The review expressed positive opinion on food quality for cassoulet , positive opinion on food style_options for cassoulet"
+TASD,Avec un petit verre de Minervois.,The review expressed positive opinion on drinks style_options for verre
+TASD,ET un petit fois gras juste avant.,The review expressed positive opinion on food style_options for fois gras
+TASD,"C'est une halte agréable, pour nous qui revenions de Bordeaux et rentrions dans le Sud Est (la patronne reconnaitra sans doute !).",The review expressed positive opinion on restaurant general for NULL
+TASD,Nous avons passé une bonne fin de soirée ... ou de nuit.,The review expressed positive opinion on restaurant general for NULL
+TASD,"accueil sympathique, cuisine de très bonne qualité mais parfois la main est un peu lourde sur le sel, petit problème rectifié depuis.","The review expressed positive opinion on service general for accueil , positive opinion on food quality for cuisine"
+TASD,Nous recommandons!,The review expressed positive opinion on restaurant general for NULL
+TASD,"Un cassoulet franchement ""infect"", qui fait honte au nom porté par le restaurant et pour un soi-disant ""restaurant traditionnel servant une cuisine de Chef faite à partir de produit brut"" (sic) ... qualifié de ""Cassoulet fait Maison"" !.","The review expressed negative opinion on food quality for cassoulet , negative opinion on food quality for cuisine"
+TASD,"Patron venu nous voir en début de service, nous étions les premiers clients ayant eu le courage de s'installer à sa terrasse, alors que les tables des terrasses des restaurants voisins étaient occupées...Premiers arrivés, avant derniers à pouvoir obtenir l'addition, après appel.",The review expressed negative opinion on service general for NULL
+TASD,A éviter tant pour la cuisine que pour le service.,"The review expressed negative opinion on food quality for cuisine , negative opinion on service general for service"
+TASD,Lamentable.,The review expressed negative opinion on restaurant general for NULL
+TASD,Une belle erreur de choix de notre part.,The review expressed negative opinion on restaurant general for NULL
+TASD,Ne faites pas comme nous !,The review expressed negative opinion on restaurant general for NULL
+TASD,Repas totalement décevant et cher!,"The review expressed negative opinion on food quality for Repas , negative opinion on food prices for Repas"
+TASD,"Pour deux entrées, deux plats et deux desserts à la carte avec une bouteille de vin nous avons trouvé le repas assez cher pour Castelnaudary (92€).",The review expressed negative opinion on food prices for repas
+TASD,En plus tout provenait de conserves ou il s'agissait de plat surgelés...,"The review expressed negative opinion on food quality for plat , negative opinion on food quality for NULL"
+TASD,"Je déconseille totalement ce ""restaurant"".",The review expressed negative opinion on restaurant general for restaurant
+TASD,Bien situé.,The review expressed positive opinion on location general for NULL
+TASD,Service gentil.,The review expressed positive opinion on service general for Service
+TASD,Pizza honnêtes mais éviter le tiramisu.,"The review expressed neutral opinion on food quality for Pizza , negative opinion on food quality for tiramisu"
+TASD,Attention la bière est italienne...,The review expressed negative opinion on drinks style_options for bière
+TASD,Un lieu à connaitre !.,The review expressed positive opinion on restaurant general for lieu
+TASD,Cuisine excellente avec de la recherche.,"The review expressed positive opinion on food quality for Cuisine , positive opinion on food style_options for Cuisine"
+TASD,Bravo pour le chef et la patissière ; nous reviendrons pour la langue de Bœuf !,"The review expressed positive opinion on food quality for NULL , positive opinion on food quality for langue de Bœuf"
+TASD,Très bonne cuisine traditionnelle dans un endroit typique.,"The review expressed positive opinion on food quality for cuisine traditionnelle , neutral opinion on ambience general for NULL"
+TASD,Mais c'est cher .,The review expressed negative opinion on restaurant prices for NULL
+TASD,Dommage pour ce petit restaurant sympa.,The review expressed positive opinion on restaurant general for restaurant
+TASD,Le repas est juste indécent!,The review expressed negative opinion on food quality for repas
+TASD,Rien de bon même la pomme de terre n'était pas cuite!,The review expressed negative opinion on food quality for pomme de terre
+TASD,"Ne surtout pas y aller pour bien manger, par contre on se laisse bien embarquer dans l'ambiance de ces années là.","The review expressed positive opinion on ambience general for ambiance , negative opinion on food quality for NULL"
