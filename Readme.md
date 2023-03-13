@@ -1,4 +1,4 @@
-# T5-ABSA
+# T5-ABSA-Summarization
 Experimental code and data of paper "Exploring Conditional Text Generation for Aspect-Based Sentiment Analysis", PACLIC 2021
 
 ## Environment
